@@ -1,11 +1,18 @@
 {
-  "updated": "2026-11-05T17:36:55.864Z",
+  "updated": "2026-11-05T17:57:59.241Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’",
+      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-05T17:39:00.000Z"
+    },
     {
       "title": "Dollar edges up as oil prices bounce, payrolls eyed",
       "link": "https://www.investing.com/news/forex-news/dollar-edges-lower-as-us-election-outcome-cheers-global-markets-5001958",
@@ -19,13 +26,6 @@
       "source": "MarketWatch",
       "category": "Stocks",
       "published": "2026-11-05T17:11:00.000Z"
-    },
-    {
-      "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’",
-      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-05T16:44:00.000Z"
     },
     {
       "title": "Bitcoin falls with risk off sentiment. The price is testing a key swing area target.",
