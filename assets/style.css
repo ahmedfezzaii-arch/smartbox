@@ -179,6 +179,10 @@ button, input, select, textarea { font: inherit; }
 .plan .ticks { flex: 1; font-size: 14.5px; }
 .plan.featured { border-color: var(--accent); background: linear-gradient(180deg, rgba(46, 209, 138, 0.07), var(--surface) 40%); }
 .badge { position: absolute; top: -12px; left: 24px; background: var(--accent); color: var(--accent-ink); border-radius: 999px; padding: 3px 11px; font: 600 11px var(--font-mono); letter-spacing: 0.06em; }
+.payments { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); gap: 16px 32px; align-items: center; margin-top: 20px; padding: 20px 24px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); font-size: 14.5px; }
+.payments h3 { font-size: 17px; margin-bottom: 12px; }
+.pay-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.pay-list li { padding: 6px 13px; border: 1px solid var(--line-strong); border-radius: 999px; color: var(--text); font: 500 13.5px var(--font-mono); }
 .terms-box { margin-top: 20px; padding: 14px 18px; border: 1px solid var(--line); border-radius: var(--radius-sm); font-size: 14px; }
 
 /* About + reviews */
@@ -246,7 +250,7 @@ button, input, select, textarea { font: inherit; }
   .footer-grid > :first-child { grid-column: 1 / -1; }
 }
 @media (max-width: 860px) {
-  .hero-grid, .desk-grid, .about-grid, .contact-grid, .terminal-grid, .terminal-lower, .grid-3, .pricing { grid-template-columns: minmax(0, 1fr); }
+  .hero-grid, .desk-grid, .about-grid, .contact-grid, .terminal-grid, .terminal-lower, .grid-3, .pricing, .payments { grid-template-columns: minmax(0, 1fr); }
   .plan.featured { order: -1; }
   .pricing { gap: 22px; }
 }
