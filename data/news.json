@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T17:58:39.486Z",
+  "updated": "2026-11-05T19:10:10.296Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,39 @@
   ],
   "items": [
     {
-      "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’",
+      "title": "As Nvidia’s stock heads for a bear market, bargain hunters see a golden buying opportunity",
+      "link": "https://www.marketwatch.com/story/as-nvidias-stock-heads-for-a-bear-market-bargain-hunters-see-a-golden-buying-opportunity-1a5917e6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-05T18:59:00.000Z"
+    },
+    {
+      "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty’",
       "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
-      "published": "2026-11-05T17:39:00.000Z"
+      "published": "2026-11-05T18:18:00.000Z"
+    },
+    {
+      "title": "Bloom Energy’s stock is one of the S&P 500’s biggest losers amid fears of data-center delays",
+      "link": "https://www.marketwatch.com/story/bloom-energys-stock-is-one-of-the-s-p-500s-biggest-losers-amid-fears-of-data-center-delays-a44c96bb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-05T18:03:00.000Z"
+    },
+    {
+      "title": "Europe Close: AI and chip liquidation drags equities lower in US, but Europe is mixed.",
+      "link": "https://investinglive.com/stocks/europe-close-ai-and-chip-liquidation-drags-equities-lower/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-05T17:48:32.000Z"
+    },
+    {
+      "title": "Oil cracks are beginning to fall and refineries are pointing to more normalization",
+      "link": "https://investinglive.com/commodities/oil-cracks-are-beginning-to-fall-and-refineries-are-pointing-to-more-normalization/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-05T17:14:25.000Z"
     },
     {
       "title": "Dollar edges up as oil prices bounce, payrolls eyed",
@@ -35,25 +63,11 @@
       "published": "2026-11-05T16:39:17.000Z"
     },
     {
-      "title": "The year’s most successful stock-market trades are unraveling — perhaps for good",
-      "link": "https://www.marketwatch.com/story/the-years-most-successful-stock-market-trades-are-unraveling-perhaps-for-good-45f7a0dd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-05T16:23:00.000Z"
-    },
-    {
       "title": "Nasdaq Composite breaks the July low in 5.5% rout",
       "link": "https://investinglive.com/stocks/nasdaq-composite-breaks-the-july-low-in-5-5-rout/",
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-05T16:00:58.000Z"
-    },
-    {
-      "title": "An Anthropic IPO when the AI trade is this turbulent? Good luck!",
-      "link": "https://www.marketwatch.com/story/an-anthropic-ipo-when-the-ai-trade-is-this-turbulent-godspeed-08ca0496?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-05T16:00:00.000Z"
     },
     {
       "title": "Crude oil tests the key confluence area and finds willing buyers",
@@ -187,20 +201,6 @@
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-05T08:32:04.000Z"
-    },
-    {
-      "title": "Gold's key breakout signals a potential trend reversal as Vance's comments fuel de-escalation bets",
-      "link": "https://investinglive.com/commodities/gold-s-key-breakout-signals-a-potential-trend-reversal-as-vance-s-comments-fuel-de-escalation-bets/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-05T08:21:43.000Z"
-    },
-    {
-      "title": "Gold price recovery gathers pace after US midterms but $4,200 remains a major hurdle",
-      "link": "https://investinglive.com/commodities/gold-price-recovery-gathers-pace-after-us-midterms-but-4-200-remains-a-major-hurdle/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-05T07:36:12.000Z"
     },
     {
       "title": "Crypto tracks stocks higher after Democrat midterm wins",
