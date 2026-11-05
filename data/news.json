@@ -1,1 +1,121 @@
-{}
+{
+  "updated": "2026-11-05T17:21:32.654Z",
+  "sources": [
+    "MarketWatch",
+    "investingLive"
+  ],
+  "items": [
+    {
+      "title": "Micron, Sandisk and other AI stocks are falling hard: ‘Investors don’t like uncertainty.’",
+      "link": "https://www.marketwatch.com/story/micron-sandisk-and-other-ai-stocks-are-falling-hard-investors-dont-like-uncertainty-94d2a3b9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-05T16:44:00.000Z"
+    },
+    {
+      "title": "The year’s most successful stock-market trades are unraveling — perhaps for good",
+      "link": "https://www.marketwatch.com/story/the-years-most-successful-stock-market-trades-are-unraveling-perhaps-for-good-45f7a0dd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-05T16:23:00.000Z"
+    },
+    {
+      "title": "EIA weekly US crude oil inventories -865K vs +877K expected",
+      "link": "https://investinglive.com/news/eia-weekly-us-crude-oil-inventories-k-vs-877k-expected/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-04T15:30:08.000Z"
+    },
+    {
+      "title": "Stocks surge, but buyers still have technical work to do",
+      "link": "https://investinglive.com/stocks/stocks-surge-but-buyers-still-have-technical-work-to-do/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-04T15:16:25.000Z"
+    },
+    {
+      "title": "October US ISM services 54.5 vs 54.8 expected",
+      "link": "https://investinglive.com/news/october-us-ism-services-vs-54-8-expected/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-04T15:00:06.000Z"
+    },
+    {
+      "title": "US final October S&P Global services PMI 56.1 vs 57.9 prelim",
+      "link": "https://investinglive.com/news/us-final-october-s-p-global-services-pmi-56-1-vs-57-9-prelim/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-04T14:50:16.000Z"
+    },
+    {
+      "title": "Canada Trade Balance ($C) for September +5.35B vs +4.1B estimate",
+      "link": "https://investinglive.com/news/canada-trade-balance-c-for-september-5-35b-vs-4-1b-estimate/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-04T13:30:14.000Z"
+    },
+    {
+      "title": "US September international trade balance -105.0B vs -108.0B expected",
+      "link": "https://investinglive.com/news/us-september-international-trade-balance-105-0b-vs-108-0b-expected/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-04T13:30:10.000Z"
+    },
+    {
+      "title": "Morning Kickstart: Dollar falls, stocks rise as Democrats take Congress",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-dollar-falls-stocks-rise-as-democrats-take-congress/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-04T13:16:47.000Z"
+    },
+    {
+      "title": "US October ADP employment +86K vs +65K expected",
+      "link": "https://investinglive.com/news/us-october-adp-employment-86k-vs-65k-expected/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-04T13:15:12.000Z"
+    },
+    {
+      "title": "investingLive European session wrap: Stocks rebound, gold soars as dollar tumbles after blue sweep in US midterms",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rebound-gold-soars-as-dollar-tumbles-after-blue-sweep-in-us-midterms/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-04T12:49:16.000Z"
+    },
+    {
+      "title": "EUR/USD rebounds as midterm results put the dollar under pressure as markets reassess fiscal outlook",
+      "link": "https://investinglive.com/forex/eur-usd-rebounds-as-midterm-results-put-the-dollar-under-pressure-as-markets-reassess-fiscal-outlook/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-04T12:43:34.000Z"
+    },
+    {
+      "title": "Zcash catches a bid as Democratic sweep pressures US dollar and Treasury yields. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/zcash-catches-a-bid-as-democratic-sweep-pressures-us-dollar-and-treasury-yields-what-s-next/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-04T11:24:49.000Z"
+    },
+    {
+      "title": "AUD/USD rebounds above 0.7000 as US dollar slides but key technical hurdles remain",
+      "link": "https://investinglive.com/forex/aud-usd-rebounds-above-0-7000-as-us-dollar-slides-but-key-technical-hurdles-remain/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-04T11:21:02.000Z"
+    },
+    {
+      "title": "Crude oil consolidates amid conflicting reports on US-Iran negotiations as escalation risk rises",
+      "link": "https://investinglive.com/news/crude-oil-consolidates-amid-conflicting-reports-on-us-iran-negotiations-as-escalation-risk-rises/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-04T10:49:42.000Z"
+    },
+    {
+      "title": "Gold surges past $4,000 as US midterm fallout shakes up markets",
+      "link": "https://investinglive.com/commodities/gold-surges-past-4-000-as-us-midterm-fallout-shakes-up-markets/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-04T10:34:06.000Z"
+    }
+  ]
+}
