@@ -1,0 +1,45 @@
+name: Update news and deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Every 6 hours (UTC). GitHub may start scheduled runs a few minutes late.
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Refresh news
+        run: node scripts/update-news.mjs
+      - name: Save news to the repository
+        run: |
+          git config user.name "smartbox-news-bot"
+          git config user.email "smartbox-news-bot@users.noreply.github.com"
+          git add data/news.json
+          git diff --staged --quiet || git commit -m "Update market news"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
