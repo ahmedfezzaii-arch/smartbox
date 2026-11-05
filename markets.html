@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Markets Desk | Smartbox</title>
+<meta name="description" content="Forex and gold prices, stocks, economic calendar and market headlines in one desk.">
+<meta property="og:title" content="Markets Desk | Smartbox">
+<meta property="og:description" content="Forex and gold prices, stocks, economic calendar and market headlines in one desk.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#070c0a">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap-wide" style="position:relative">
+    <nav class="nav" aria-label="Main">
+      <a class="brand" href="index.html" aria-label="Smartbox home"><svg viewBox="0 0 32 32" aria-hidden="true"><rect x="1.5" y="1.5" width="29" height="29" rx="7" fill="#0f1814" stroke="#2ed18a" stroke-width="1.5"/><rect x="8" y="17" width="4" height="8" rx="1" fill="#2ed18a" opacity=".55"/><rect x="14" y="12" width="4" height="13" rx="1" fill="#2ed18a" opacity=".8"/><rect x="20" y="7" width="4" height="18" rx="1" fill="#2ed18a"/></svg><span>Smartbox</span></a>
+      <button class="menu-toggle" type="button" aria-expanded="false">Menu</button>
+      <div class="nav-links">
+        <a href="markets.html" aria-current="page">Markets</a>
+        <a href="index.html#services">Services</a>
+        <a href="index.html#products">Products</a>
+        <a href="index.html#pricing">Pricing</a>
+        <a href="index.html#about">About</a>
+        <a href="index.html#reviews">Reviews</a>
+        <a href="index.html#faq">FAQ</a>
+        <a href="index.html#contact">Contact</a>
+        <a class="btn btn-primary" href="https://t.me/SmartTrading_IA" target="_blank" rel="noopener">Join on Telegram</a>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<div class="ticker" data-widget="ticker" aria-label="Live market prices"></div>
+
+<main id="main" class="wrap-wide" style="padding-bottom:48px">
+  <div class="terminal-title">
+    <h1>Markets desk</h1>
+    <span class="panel-note">Session times update live and are shown in each city's local time</span>
+  </div>
+
+  <div class="sessions" data-sessions aria-label="Forex trading sessions"></div>
+
+  <div class="terminal-grid">
+    <section class="panel" aria-labelledby="news-title">
+      <div class="panel-head"><h2 id="news-title">Market news</h2><span class="panel-note" data-news-updated></span></div>
+      <div class="filters" role="group" aria-label="Filter news by category">
+        <button class="chip" type="button" data-filter="All" aria-pressed="true">All</button>
+        <button class="chip" type="button" data-filter="Forex" aria-pressed="false">Forex</button>
+        <button class="chip" type="button" data-filter="Commodities" aria-pressed="false">Commodities</button>
+        <button class="chip" type="button" data-filter="Stocks" aria-pressed="false">Stocks</button>
+        <button class="chip" type="button" data-filter="Central banks" aria-pressed="false">Central banks</button>
+        <button class="chip" type="button" data-filter="Macro data" aria-pressed="false">Macro data</button>
+        <button class="chip" type="button" data-filter="Crypto" aria-pressed="false">Crypto</button>
+      </div>
+      <ul class="news-list" data-news="40"><li class="news-empty">Loading headlines…</li></ul>
+    </section>
+
+    <section class="panel" aria-labelledby="calendar-title">
+      <div class="panel-head"><h2 id="calendar-title">Economic calendar</h2><span class="panel-note">Your local time</span></div>
+      <div class="panel-body h-lg" data-widget="calendar"></div>
+    </section>
+
+    <section class="panel" aria-labelledby="forex-title">
+      <div class="panel-head"><h2 id="forex-title">Forex and metals</h2></div>
+      <div class="panel-body h-lg" data-widget="forex"></div>
+    </section>
+  </div>
+
+  <div class="terminal-lower">
+    <section class="panel" aria-labelledby="stocks-title">
+      <div class="panel-head"><h2 id="stocks-title">Stocks watchlist</h2></div>
+      <div class="panel-body h-md" data-widget="stocks"></div>
+    </section>
+    <section class="panel" aria-labelledby="heatmap-title">
+      <div class="panel-head"><h2 id="heatmap-title">S&amp;P 500 heatmap</h2><span class="panel-note">Daily change by sector</span></div>
+      <div class="panel-body h-md" data-widget="heatmap"></div>
+    </section>
+  </div>
+
+  <div class="terminal-lower">
+    <section class="panel" aria-labelledby="movers-title">
+      <div class="panel-head"><h2 id="movers-title">US movers</h2></div>
+      <div class="panel-body h-md" data-widget="movers"></div>
+    </section>
+    <section class="panel" aria-labelledby="cross-title">
+      <div class="panel-head"><h2 id="cross-title">Currency cross rates</h2></div>
+      <div class="panel-body h-md" data-widget="crossRates"></div>
+    </section>
+  </div>
+
+  <p class="data-credit">Prices, charts and calendar by <a href="https://www.tradingview.com/" target="_blank" rel="noopener">TradingView</a>, and may be delayed. Check prices with your broker before trading. Headlines come from public feeds and link to the original publisher. Smartbox doesn't write or endorse them, and nothing here is investment advice.</p>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <a class="brand" href="index.html"><svg viewBox="0 0 32 32" aria-hidden="true"><rect x="1.5" y="1.5" width="29" height="29" rx="7" fill="#0f1814" stroke="#2ed18a" stroke-width="1.5"/><rect x="8" y="17" width="4" height="8" rx="1" fill="#2ed18a" opacity=".55"/><rect x="14" y="12" width="4" height="13" rx="1" fill="#2ed18a" opacity=".8"/><rect x="20" y="7" width="4" height="18" rx="1" fill="#2ed18a"/></svg><span>Smartbox</span></a>
+        <p style="margin-top:12px;max-width:38ch">Expert Advisors, indicators and market tools for MetaTrader traders.</p>
+      </div>
+      <div><h3>Explore</h3><ul><li><a href="markets.html">Markets desk</a></li><li><a href="index.html#services">Services</a></li><li><a href="index.html#products">Products</a></li><li><a href="index.html#pricing">Pricing</a></li></ul></div>
+      <div><h3>Official channels</h3><ul><li><a href="https://www.mql5.com/en/users/smartbox" target="_blank" rel="noopener">MQL5 profile</a></li><li><a href="https://www.mql5.com/en/users/smartbox/seller" target="_blank" rel="noopener">MQL5 products</a></li><li><a href="https://www.mql5.com/en/channels/smarttradingai" target="_blank" rel="noopener">MQL5 channel</a></li><li><a href="https://t.me/SmartTrading_IA" target="_blank" rel="noopener">Telegram channel</a></li></ul></div>
+      <div><h3>Legal</h3><ul><li><a href="legal.html#risk">Risk disclosure</a></li><li><a href="legal.html#terms">Service terms</a></li><li><a href="legal.html#privacy">Privacy</a></li></ul></div>
+    </div>
+    <p class="footer-risk">Trading involves a high level of risk and you can lose some or all of your capital. Past performance and backtests don't indicate future results. Content on this site is general information, not investment advice.<br>© <span data-year>2026</span> Smartbox. MetaTrader and TradingView are trademarks of their respective owners. Smartbox isn't affiliated with them.</p>
+  </div>
+</footer>
+<script src="assets/app.js" defer></script>
+</body>
+</html>
