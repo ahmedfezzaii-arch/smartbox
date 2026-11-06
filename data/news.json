@@ -1,11 +1,32 @@
 {
-  "updated": "2026-11-06T01:24:07.512Z",
+  "updated": "2026-11-06T07:29:58.336Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "JGB yields plunge to July lows as Wall St tech tout sparks haven rush",
+      "link": "https://www.investing.com/news/forex-news/jgb-yields-plunge-to-july-lows-as-wall-st-tech-tout-sparks-haven-rush-5006590",
+      "source": "Investing.com",
+      "category": "Macro data",
+      "published": "2026-11-06T06:16:46.000Z"
+    },
+    {
+      "title": "Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout",
+      "link": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-06T04:08:40.000Z"
+    },
+    {
+      "title": "Nasdaq analysis after yesterday's crash: Is this the dip investors have been waiting for?",
+      "link": "https://investinglive.com/stocks/nasdaq-analysis-after-yesterday-s-crash-is-this-the-dip-investors-have-been-waiting-for/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-06T03:51:12.000Z"
+    },
     {
       "title": "Here’s what’s driving Iren’s stock higher after a brutal selloff",
       "link": "https://www.marketwatch.com/story/heres-whats-driving-irens-stock-higher-after-a-brutal-selloff-0ced09b0?mod=mw_rss_topstories",
@@ -40,20 +61,6 @@
       "source": "MarketWatch",
       "category": "Stocks",
       "published": "2026-11-05T21:44:00.000Z"
-    },
-    {
-      "title": "After tech-stock rout, October jobs report could bring relief — or more pain",
-      "link": "https://www.marketwatch.com/story/after-tech-stock-rout-october-jobs-report-could-bring-relief-or-more-pain-db93357e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-05T21:39:00.000Z"
-    },
-    {
-      "title": "Is this ‘the big one’ for the stock market? Wall Street sounds off as tech plunges.",
-      "link": "https://www.marketwatch.com/story/is-this-the-big-one-for-the-stock-market-wall-street-sounds-off-as-tech-plunges-185df529?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-05T21:37:00.000Z"
     },
     {
       "title": "Nasdaq 100 suffers worst day since 2020",
@@ -187,27 +194,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-05T11:05:59.000Z"
-    },
-    {
-      "title": "Nasdaq futures rebound nearly 280 points. But buyers now face a crucial test",
-      "link": "https://investinglive.com/technical-analysis/nasdaq-futures-rebound-nearly-280-points-but-buyers-now-face-a-crucial-test/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-05T11:05:24.000Z"
-    },
-    {
-      "title": "HSBC sees Democratic midterm strength weighing on dollar near-term",
-      "link": "https://www.investing.com/news/forex-news/hsbc-sees-democratic-midterm-strength-weighing-on-dollar-nearterm-93CH-5002986",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-05T10:53:22.000Z"
-    },
-    {
-      "title": "UBS sees Swedish krona strengthening against the euro",
-      "link": "https://www.investing.com/news/forex-news/ubs-sees-swedish-krona-strengthening-against-the-euro-93CH-5002864",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-05T10:12:20.000Z"
     }
   ]
 }
