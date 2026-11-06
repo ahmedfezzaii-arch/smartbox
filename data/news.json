@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T07:29:58.336Z",
+  "updated": "2026-11-06T07:57:14.243Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,18 +7,18 @@
   ],
   "items": [
     {
-      "title": "JGB yields plunge to July lows as Wall St tech tout sparks haven rush",
+      "title": "Asian FX mixed as yen pares gains, Aussie hits 18-week low ahead of U.S. payrolls",
+      "link": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-06T07:54:52.000Z"
+    },
+    {
+      "title": "JGB yields plunge to June lows as Wall St tech tout sparks haven rush",
       "link": "https://www.investing.com/news/forex-news/jgb-yields-plunge-to-july-lows-as-wall-st-tech-tout-sparks-haven-rush-5006590",
       "source": "Investing.com",
       "category": "Macro data",
       "published": "2026-11-06T06:16:46.000Z"
-    },
-    {
-      "title": "Asian FX mixed as yen gains on risk aversion, Taiwan dollar breaks 33 amid AI rout",
-      "link": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-06T04:08:40.000Z"
     },
     {
       "title": "Nasdaq analysis after yesterday's crash: Is this the dip investors have been waiting for?",
