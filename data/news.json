@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T13:20:27.145Z",
+  "updated": "2026-11-06T19:06:06.650Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,25 +7,109 @@
   ],
   "items": [
     {
-      "title": "Non-farm payrolls preview: October numbers show a skew",
-      "link": "https://investinglive.com/news/non-farm-payrolls-preview-october-numbers-show-a-skew/",
+      "title": "Fed's Daly: Jobs report is good news",
+      "link": "https://investinglive.com/central-banks/fed-s-daly-jobs-report-is-good-news/",
       "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-06T12:53:21.000Z"
+      "category": "Central banks",
+      "published": "2026-11-06T18:07:02.000Z"
     },
     {
-      "title": "Moderna’s stock jumps after biotech raises sales outlook",
-      "link": "https://www.marketwatch.com/story/modernas-stock-jumps-after-biotech-raises-sales-outlook-65363127?mod=mw_rss_topstories",
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
-      "published": "2026-11-06T12:48:00.000Z"
+      "published": "2026-11-06T18:00:00.000Z"
     },
     {
-      "title": "Goldman’s new gold target: Why the Wall Street bank is saying it’s early to buy the yellow metal",
-      "link": "https://www.marketwatch.com/story/goldmans-new-gold-target-why-the-wall-street-bank-is-saying-its-early-to-buy-the-yellow-metal-d8ae35e0?mod=mw_rss_topstories",
+      "title": "DraftKings’ expensive bet on prediction markets is crushing its stock",
+      "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "category": "Commodities",
-      "published": "2026-11-06T12:47:00.000Z"
+      "category": "Stocks",
+      "published": "2026-11-06T17:51:00.000Z"
+    },
+    {
+      "title": "What’s next for your portfolio after the decline in Big Tech stocks?",
+      "link": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-06T17:47:00.000Z"
+    },
+    {
+      "title": "European stocks fall into the weekend as Wall Street rebounds",
+      "link": "https://investinglive.com/stocks/european-stocks-fall-into-the-weekend-as-wall-street-rebounds/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-06T17:24:13.000Z"
+    },
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-06T17:19:00.000Z"
+    },
+    {
+      "title": "BOJ's Ueda: Consumer prices now around 3% and expected to rise further into early next year",
+      "link": "https://investinglive.com/central-banks/boj-s-ueda-consumer-prices-now-around-3-and-expected-to-rise-further-into-early-next-year/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-06T16:45:41.000Z"
+    },
+    {
+      "title": "Bitcoin testing a key support target. What needs to happen to give buyers some relief?",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-testing-a-key-support-target-what-needs-to-happen-to-give-buyers-some-relief/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-06T16:16:46.000Z"
+    },
+    {
+      "title": "Broader US stock indices bounce higher but still has work to do to give buyers more hope",
+      "link": "https://investinglive.com/stocks/broader-us-stock-indices-bounce-higher-but-still-has-work-to-do-to-give-buyers-more-hope/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-06T15:33:01.000Z"
+    },
+    {
+      "title": "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
+      "link": "https://www.investing.com/news/forex-news/jgb-yields-plunge-to-july-lows-as-wall-st-tech-tout-sparks-haven-rush-5006590",
+      "source": "Investing.com",
+      "category": "Macro data",
+      "published": "2026-11-06T13:49:15.000Z"
+    },
+    {
+      "title": "Dollar rebounds as tech rout and strong U.S. jobs data lift safe-haven demand anew",
+      "link": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-06T13:46:32.000Z"
+    },
+    {
+      "title": "US October non-farm payrolls +165K vs +65K expected",
+      "link": "https://investinglive.com/news/us-october-non-farm-payrolls-165k-vs-65k-expected/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-06T13:32:15.000Z"
+    },
+    {
+      "title": "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate 6.7%.",
+      "link": "https://investinglive.com/news/canada-employment-change-for-october-4-7k-vs-13-6k-estimate-unemployment-rate-6-7/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-06T13:30:13.000Z"
+    },
+    {
+      "title": "BoE's Pill: No repeat of 2022 hiking cycle as growth risks could keep rates on hold",
+      "link": "https://investinglive.com/central-banks/boe-s-pill-no-repeat-of-2022-hiking-cycle-as-growth-risks-could-keep-rates-on-hold/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-06T13:03:53.000Z"
+    },
+    {
+      "title": "Morning Kickstart | Nasdaq futures rebound after rout as U.S. and Canadian jobs reports loom",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-nasdaq-futures-rebound-after-rout-as-u-s-and-canadian-jobs-reports-loom/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-06T13:02:40.000Z"
     },
     {
       "title": "What is the distribution of forecasts for the US NFP?",
@@ -70,13 +154,6 @@
       "published": "2026-11-06T10:20:45.000Z"
     },
     {
-      "title": "Dollar rebounds as global tech sell-off sparks haven bid",
-      "link": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-06T10:16:09.000Z"
-    },
-    {
       "title": "Risk-off wave hits Bitcoin as tech stocks lead global selloff. What's next?",
       "link": "https://investinglive.com/cryptocurrency/risk-off-wave-hits-bitcoin-as-tech-stocks-lead-global-selloff-what-s-next/",
       "source": "investingLive",
@@ -112,41 +189,6 @@
       "published": "2026-11-06T09:00:23.000Z"
     },
     {
-      "title": "Global bonds rally as Tech-equity carnage sparks flight to safety",
-      "link": "https://www.investing.com/news/forex-news/jgb-yields-plunge-to-july-lows-as-wall-st-tech-tout-sparks-haven-rush-5006590",
-      "source": "Investing.com",
-      "category": "Stocks",
-      "published": "2026-11-06T08:52:20.000Z"
-    },
-    {
-      "title": "investingLive Asia-pacific news wrap: Global tech stocks rout raises growth concerns",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-news-wrap-global-tech-stocks-rout-raises-growth-concerns/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-06T08:05:49.000Z"
-    },
-    {
-      "title": "Nasdaq analysis after yesterday's crash: Is this the dip investors have been waiting for?",
-      "link": "https://investinglive.com/stocks/nasdaq-analysis-after-yesterday-s-crash-is-this-the-dip-investors-have-been-waiting-for/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-06T03:51:12.000Z"
-    },
-    {
-      "title": "investingLive Americas FX news wrap 5 Nov: Nasdaq 100 plunges 6.36% as AI selloff spreads",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-5-nov-nasdaq-100-plunges-6-36-as-ai-selloff-spreads/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-05T22:00:36.000Z"
-    },
-    {
-      "title": "Nasdaq 100 suffers worst day since 2020",
-      "link": "https://investinglive.com/stocks/nasdaq-100-suffers-worst-day-since-2020/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-05T21:34:43.000Z"
-    },
-    {
       "title": "Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hikes",
       "link": "https://www.investing.com/news/forex-news/asian-fx-rises-as-dollar-slips-on-us-vote-kiwi-leads-gains-yuan-steadies-in-asia-5002136",
       "source": "Investing.com",
@@ -159,34 +201,6 @@
       "source": "Investing.com",
       "category": "Commodities",
       "published": "2026-11-05T20:18:28.000Z"
-    },
-    {
-      "title": "WTI crude oil settles at $90.52, up 2.72% as buyers defend key support",
-      "link": "https://investinglive.com/commodities/wti-crude-oil-settles-at-90-52-up-2-72-as-buyers-defend-key-support/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-05T19:41:26.000Z"
-    },
-    {
-      "title": "Europe Close: AI and chip liquidation drags equities lower in US, but Europe is mixed.",
-      "link": "https://investinglive.com/stocks/europe-close-ai-and-chip-liquidation-drags-equities-lower/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-05T17:48:32.000Z"
-    },
-    {
-      "title": "Oil cracks are beginning to fall and refineries are pointing to more normalization",
-      "link": "https://investinglive.com/commodities/oil-cracks-are-beginning-to-fall-and-refineries-are-pointing-to-more-normalization/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-05T17:14:25.000Z"
-    },
-    {
-      "title": "Bitcoin falls with risk off sentiment. The price is testing a key swing area target.",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-falls-with-risk-off-sentiment-the-price-is-testing-a-key-swing-area-target/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-05T16:39:17.000Z"
     },
     {
       "title": "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep",
