@@ -1,11 +1,18 @@
 {
-  "updated": "2026-11-07T01:15:26.965Z",
+  "updated": "2026-11-07T07:15:39.388Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Gold analysis: Buyers keep defending $4,040. Is $4,140 the next target?",
+      "link": "https://investinglive.com/commodities/gold-analysis-buyers-keep-defending-4-040-is-4-140-the-next-target/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-07T04:08:41.000Z"
+    },
     {
       "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
       "link": "https://www.investing.com/news/forex-news/us-treasury-sanctions-canadian-money-services-firms-over-iranrelated-transactions-5009126",
@@ -152,13 +159,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-06T10:44:08.000Z"
-    },
-    {
-      "title": "Eurozone retail sales fall 0.7% in September, signalling weakening consumer demand",
-      "link": "https://investinglive.com/news/eurozone-retail-sales-fall-0-7-in-september-signalling-weakening-consumer-demand/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-06T10:20:45.000Z"
     },
     {
       "title": "UBS sees euro-Norwegian krone pullback as stretched",
