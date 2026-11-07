@@ -1,11 +1,53 @@
 {
-  "updated": "2026-11-06T19:06:06.650Z",
+  "updated": "2026-11-07T01:15:26.965Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+      "link": "https://www.investing.com/news/forex-news/us-treasury-sanctions-canadian-money-services-firms-over-iranrelated-transactions-5009126",
+      "source": "Investing.com",
+      "category": "Macro data",
+      "published": "2026-11-06T22:48:20.000Z"
+    },
+    {
+      "title": "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-beat-estimates/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-06T21:52:39.000Z"
+    },
+    {
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-06T21:24:00.000Z"
+    },
+    {
+      "title": "Equity close: Decent rebound or a dead-cat bounce",
+      "link": "https://investinglive.com/news/equity-close-decent-rebound-or-a-dead-cat-bounce/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-06T21:08:42.000Z"
+    },
+    {
+      "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
+      "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-06T20:58:00.000Z"
+    },
+    {
+      "title": "Dollar sees best day since June after stellar jobs report, set for weekly gain",
+      "link": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-06T20:54:24.000Z"
+    },
     {
       "title": "Fed's Daly: Jobs report is good news",
       "link": "https://investinglive.com/central-banks/fed-s-daly-jobs-report-is-good-news/",
@@ -14,39 +56,11 @@
       "published": "2026-11-06T18:07:02.000Z"
     },
     {
-      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-06T18:00:00.000Z"
-    },
-    {
-      "title": "DraftKings’ expensive bet on prediction markets is crushing its stock",
-      "link": "https://www.marketwatch.com/story/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock-277bee0d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-06T17:51:00.000Z"
-    },
-    {
-      "title": "What’s next for your portfolio after the decline in Big Tech stocks?",
-      "link": "https://www.marketwatch.com/story/whats-next-for-your-portfolio-after-the-decline-in-big-tech-stocks-2873452f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-06T17:47:00.000Z"
-    },
-    {
       "title": "European stocks fall into the weekend as Wall Street rebounds",
       "link": "https://investinglive.com/stocks/european-stocks-fall-into-the-weekend-as-wall-street-rebounds/",
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-06T17:24:13.000Z"
-    },
-    {
-      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-06T17:19:00.000Z"
     },
     {
       "title": "BOJ's Ueda: Consumer prices now around 3% and expected to rise further into early next year",
@@ -75,13 +89,6 @@
       "source": "Investing.com",
       "category": "Macro data",
       "published": "2026-11-06T13:49:15.000Z"
-    },
-    {
-      "title": "Dollar rebounds as tech rout and strong U.S. jobs data lift safe-haven demand anew",
-      "link": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-06T13:46:32.000Z"
     },
     {
       "title": "US October non-farm payrolls +165K vs +65K expected",
@@ -154,39 +161,11 @@
       "published": "2026-11-06T10:20:45.000Z"
     },
     {
-      "title": "Risk-off wave hits Bitcoin as tech stocks lead global selloff. What's next?",
-      "link": "https://investinglive.com/cryptocurrency/risk-off-wave-hits-bitcoin-as-tech-stocks-lead-global-selloff-what-s-next/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-06T10:09:05.000Z"
-    },
-    {
-      "title": "Fed's Williams says US economy remains resilient, appropriate time to gather more information",
-      "link": "https://investinglive.com/central-banks/fed-s-williams-says-us-economy-remains-resilient-appropriate-time-to-gather-more-information/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-06T09:54:59.000Z"
-    },
-    {
       "title": "UBS sees euro-Norwegian krone pullback as stretched",
       "link": "https://www.investing.com/news/forex-news/ubs-sees-euronorwegian-krone-pullback-as-stretched-93CH-5007021",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-06T09:41:40.000Z"
-    },
-    {
-      "title": "A welcome change for gold as tech selloff fails to spark heavy liquidation, breaking the recent pattern",
-      "link": "https://investinglive.com/commodities/a-welcome-change-for-gold-as-tech-selloff-fails-to-spark-heavy-liquidation-breaking-the-recent-pattern/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-06T09:08:22.000Z"
-    },
-    {
-      "title": "Newmont stock breaks out of a two-month downtrend. But buyers have a test to pass.",
-      "link": "https://investinglive.com/stocks/newmont-stock-breaks-out-of-a-two-month-downtrend-but-buyers-have-a-test-to-pass/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-06T09:00:23.000Z"
     },
     {
       "title": "Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hikes",
