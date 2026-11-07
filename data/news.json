@@ -1,11 +1,25 @@
 {
-  "updated": "2026-11-07T13:05:10.772Z",
+  "updated": "2026-11-07T18:57:22.859Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-07T16:40:00.000Z"
+    },
+    {
+      "title": "You follow the rules for smart stock trading. But are they the right rules?",
+      "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-07T16:00:00.000Z"
+    },
     {
       "title": "Gold analysis: Buyers keep defending $4,040. Is $4,140 the next target?",
       "link": "https://investinglive.com/commodities/gold-analysis-buyers-keep-defending-4-040-is-4-140-the-next-target/",
@@ -28,25 +42,11 @@
       "published": "2026-11-06T21:52:39.000Z"
     },
     {
-      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
-      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-06T21:24:00.000Z"
-    },
-    {
       "title": "Equity close: Decent rebound or a dead-cat bounce",
       "link": "https://investinglive.com/news/equity-close-decent-rebound-or-a-dead-cat-bounce/",
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-06T21:08:42.000Z"
-    },
-    {
-      "title": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
-      "link": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-06T20:58:00.000Z"
     },
     {
       "title": "Dollar sees best day since June after stellar jobs report, set for weekly gain",
