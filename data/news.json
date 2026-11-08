@@ -1,11 +1,18 @@
 {
-  "updated": "2026-11-08T07:16:08.920Z",
+  "updated": "2026-11-08T13:04:42.196Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "WTI oil price outlook: After a 17.5% slide, can buyers reclaim $92.53?",
+      "link": "https://investinglive.com/commodities/wti-oil-price-outlook-after-a-17-5-slide-can-buyers-reclaim-92-53/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-08T10:43:36.000Z"
+    },
     {
       "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
       "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
@@ -138,13 +145,6 @@
       "source": "investingLive",
       "category": "Crypto",
       "published": "2026-11-06T11:46:58.000Z"
-    },
-    {
-      "title": "US-Iran uncertainty keeps the downside in oil limited as markets await further developments",
-      "link": "https://investinglive.com/commodities/us-iran-uncertainty-keeps-the-downside-in-oil-limited-as-markets-await-further-developments/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-06T11:03:41.000Z"
     },
     {
       "title": "Sterling today: Pound slips as dollar holds firm before U.S. payrolls",
