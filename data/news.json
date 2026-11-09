@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T13:27:39.199Z",
+  "updated": "2026-11-09T19:08:13.505Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,88 @@
   ],
   "items": [
     {
+      "title": "Fed's Barkin: Jobs report was 'healthy' but firms still see low-hire, low-fire economy",
+      "link": "https://investinglive.com/central-banks/fed-s-barkin-jobs-report-was-healthy-but-firms-still-see-low-hire-low-fire-economy/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-09T18:24:07.000Z"
+    },
+    {
+      "title": "Hot U.S. inflation hasn’t cooled off. Rising consumer prices to keep Fed rate hike on track.",
+      "link": "https://www.marketwatch.com/story/hot-u-s-inflation-hasnt-cooled-off-rising-consumer-prices-to-keep-fed-rate-hike-on-track-926c44b0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Central banks",
+      "published": "2026-11-09T18:16:00.000Z"
+    },
+    {
+      "title": "U.S. Treasury sells $58 billion of 3 year notes at a high yield of 4.627%",
+      "link": "https://investinglive.com/news/u-s-treasury-sells-58-billion-of-3-year-notes-at-a-high-yield-of-4-627/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-09T18:13:36.000Z"
+    },
+    {
+      "title": "NY Fed October survey shows 1, 3 and 5 year inflation expectations unchanged",
+      "link": "https://investinglive.com/news/ny-fed-october-survey-shows-1-3-and-5-year-inflation-expectations-unchanged/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-09T16:12:00.000Z"
+    },
+    {
+      "title": "US stocks rebound even as Nvidia slides 4%. What next technically",
+      "link": "https://investinglive.com/stocks/us-stocks-rebound-even-as-nvidia-slides-4-what-next-technically/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-09T15:51:49.000Z"
+    },
+    {
+      "title": "Fed's Goolsbee: Starting to see inflation kicking up in services",
+      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-starting-to-see-inflation-kicking-up-in-services/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-09T15:30:40.000Z"
+    },
+    {
+      "title": "Crude oil is trading above and below a key technical confluence area. Who will take charge?",
+      "link": "https://investinglive.com/commodities/crude-oil-is-trading-above-and-below-a-key-technical-confluence-area-who-will-take-charge/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-09T14:56:46.000Z"
+    },
+    {
+      "title": "Brent crude breaks the 200-day moving average in fall to a two-month low",
+      "link": "https://investinglive.com/commodities/brent-crude-breaks-the-200-day-moving-average-in-fall-to-the-lowest-in-two-months/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-09T14:42:33.000Z"
+    },
+    {
+      "title": "Bitcoin is doing it's ABCs technically. What will the buyers and selllers do at the old support?",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-is-doing-it-s-abcs-technically-what-will-the-buyers-and-selllers-do-at-the-old-support/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-09T14:21:39.000Z"
+    },
+    {
+      "title": "Morning Kickstart. Stock futures climb as Bitcoin nears its 200-day moving average. USD/oil lower.",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-stock-futures-climb-as-bitcoin-nears-its-200-day-moving-average-usd-is-lower/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-09T13:33:44.000Z"
+    },
+    {
       "title": "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-consolidate-after-us-payrolls-shock-5010731",
       "source": "Investing.com",
       "category": "Macro data",
-      "published": "2026-11-09T13:07:25.000Z"
+      "published": "2026-11-09T13:21:52.000Z"
+    },
+    {
+      "title": "Oil falls further on report that Trump asked Iraqi PM to bring Iran proposals to end the war",
+      "link": "https://investinglive.com/commodities/oil-falls-further-on-report-that-trump-asked-iraqi-pm-to-bring-iran-proposals-to-end-the-war/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-09T13:13:13.000Z"
     },
     {
       "title": "investingLive European news wrap: Markets await fresh US-Iran developments, US CPI data",
@@ -19,13 +96,6 @@
       "source": "investingLive",
       "category": "Macro data",
       "published": "2026-11-09T12:39:00.000Z"
-    },
-    {
-      "title": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
-      "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-09T12:27:00.000Z"
     },
     {
       "title": "Solana remains skewed to the downside amid negative macro backdrop as US CPI looms",
@@ -77,13 +147,6 @@
       "published": "2026-11-09T09:38:08.000Z"
     },
     {
-      "title": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
-      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-09T09:12:00.000Z"
-    },
-    {
       "title": "Gold remains skewed to the upside amid favourable macro backdrop, with US-Iran and CPI in focus",
       "link": "https://investinglive.com/commodities/gold-remains-skewed-to-the-upside-amid-favourable-macro-backdrop-with-us-iran-and-cpi-in-focus/",
       "source": "investingLive",
@@ -91,88 +154,11 @@
       "published": "2026-11-09T08:45:48.000Z"
     },
     {
-      "title": "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil steadies",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-shrugs-off-nvidia-scandal-oil-steadies/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-09T04:19:59.000Z"
-    },
-    {
-      "title": "Qatar says US-Iran talks alive as Trump meets Qatari PM, oil swings on mixed signals",
-      "link": "https://investinglive.com/commodities/qatar-says-us-iran-talks-alive-as-trump-meets-qatari-pm-oil-swings-on-mixed-signals/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-09T03:53:01.000Z"
-    },
-    {
-      "title": "WSJ: Japan spent a record $50 billion in one day to defend the yen, data confirms",
-      "link": "https://investinglive.com/central-banks/wsj-japan-spent-a-record-50-billion-in-one-day-to-defend-the-yen-data-confirms/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-09T03:06:38.000Z"
-    },
-    {
-      "title": "Goldman’s AI memory basket plunges 51% from peak, JPMorgan sees earnings buffer for now",
-      "link": "https://investinglive.com/stocks/goldman-s-ai-memory-basket-plunges-51-from-peak-jpmorgan-sees-earnings-buffer-for-now/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-09T02:07:22.000Z"
-    },
-    {
-      "title": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
-      "link": "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-09T01:32:17.000Z"
-    },
-    {
-      "title": "ICYMI: Goldman cuts gold forecasts to $4,150 for 2026, $4,800 for 2027 as hawkish Fed bites",
-      "link": "https://investinglive.com/commodities/icymi-goldman-cuts-gold-forecasts-to-4-150-for-2026-4-800-for-2027-as-hawkish-fed-bites/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-09T01:28:17.000Z"
-    },
-    {
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7188 (vs. estimate at 6.6799)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7188-vs-estimate-at-6-6799/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-09T01:23:45.000Z"
-    },
-    {
       "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
       "link": "https://www.investing.com/news/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election-5010398",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-09T01:18:23.000Z"
-    },
-    {
-      "title": "Gold ticks higher on softer oil, but Fed’s 80% December hike odds cap gain",
-      "link": "https://investinglive.com/commodities/gold-ticks-higher-on-softer-oil-but-fed-s-80-december-hike-odds-cap-gain/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-09T01:00:09.000Z"
-    },
-    {
-      "title": "Markets price three more BoE hikes, but analysts see a shallower path after move to 4%",
-      "link": "https://investinglive.com/central-banks/markets-price-three-more-boe-hikes-but-analysts-see-a-shallower-path-after-move-to-4/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-09T00:47:37.000Z"
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6799 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6799-reuters-estimate/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-09T00:25:26.000Z"
-    },
-    {
-      "title": "Recap - BOJ’s Ueda sees inflation near 2% but flags upside risks as energy costs bite",
-      "link": "https://investinglive.com/central-banks/recap-boj-s-ueda-sees-inflation-near-2-but-flags-upside-risks-as-energy-costs-bite/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-08T23:45:20.000Z"
     },
     {
       "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
