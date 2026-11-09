@@ -1,11 +1,74 @@
 {
-  "updated": "2026-11-09T01:24:33.728Z",
+  "updated": "2026-11-09T07:41:00.437Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Dollar holds gains after strong U.S. jobs data; China CPI in focus",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-09T06:51:10.000Z"
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil steadies",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-shrugs-off-nvidia-scandal-oil-steadies/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-09T04:19:59.000Z"
+    },
+    {
+      "title": "Qatar says US-Iran talks alive as Trump meets Qatari PM, oil swings on mixed signals",
+      "link": "https://investinglive.com/commodities/qatar-says-us-iran-talks-alive-as-trump-meets-qatari-pm-oil-swings-on-mixed-signals/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-09T03:53:01.000Z"
+    },
+    {
+      "title": "WSJ: Japan spent a record $50 billion in one day to defend the yen, data confirms",
+      "link": "https://investinglive.com/central-banks/wsj-japan-spent-a-record-50-billion-in-one-day-to-defend-the-yen-data-confirms/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-09T03:06:38.000Z"
+    },
+    {
+      "title": "Goldman’s AI memory basket plunges 51% from peak, JPMorgan sees earnings buffer for now",
+      "link": "https://investinglive.com/stocks/goldman-s-ai-memory-basket-plunges-51-from-peak-jpmorgan-sees-earnings-buffer-for-now/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-09T02:07:22.000Z"
+    },
+    {
+      "title": "China October 2026 CPI +0.7% y/y (expected +0.8%, prior +0.9%)",
+      "link": "https://investinglive.com/news/china-october-2026-cpi-0-7-y-y-expected-0-8-prior-0-9/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-09T01:32:17.000Z"
+    },
+    {
+      "title": "ICYMI: Goldman cuts gold forecasts to $4,150 for 2026, $4,800 for 2027 as hawkish Fed bites",
+      "link": "https://investinglive.com/commodities/icymi-goldman-cuts-gold-forecasts-to-4-150-for-2026-4-800-for-2027-as-hawkish-fed-bites/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-09T01:28:17.000Z"
+    },
+    {
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7188 (vs. estimate at 6.6799)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7188-vs-estimate-at-6-6799/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-09T01:23:45.000Z"
+    },
+    {
+      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
+      "link": "https://www.investing.com/news/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election-5010398",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-09T01:18:23.000Z"
+    },
     {
       "title": "Gold ticks higher on softer oil, but Fed’s 80% December hike odds cap gain",
       "link": "https://investinglive.com/commodities/gold-ticks-higher-on-softer-oil-but-fed-s-80-december-hike-odds-cap-gain/",
@@ -98,27 +161,6 @@
       "published": "2026-11-08T22:11:48.000Z"
     },
     {
-      "title": "Three risks for Nvidia shares after Huang admits affair with suspected Chinese spy",
-      "link": "https://investinglive.com/stocks/three-risks-for-nvidia-shares-after-huang-admits-affair-with-suspected-chinese-spy/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-08T21:09:04.000Z"
-    },
-    {
-      "title": "WTI oil price outlook: After a 17.5% slide, can buyers reclaim $92.53?",
-      "link": "https://investinglive.com/commodities/wti-oil-price-outlook-after-a-17-5-slide-can-buyers-reclaim-92-53/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-08T10:43:36.000Z"
-    },
-    {
-      "title": "Gold analysis: Buyers keep defending $4,040. Is $4,140 the next target?",
-      "link": "https://investinglive.com/commodities/gold-analysis-buyers-keep-defending-4-040-is-4-140-the-next-target/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-07T04:08:41.000Z"
-    },
-    {
       "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
       "link": "https://www.investing.com/news/forex-news/us-treasury-sanctions-canadian-money-services-firms-over-iranrelated-transactions-5009126",
       "source": "Investing.com",
@@ -126,32 +168,11 @@
       "published": "2026-11-06T22:48:20.000Z"
     },
     {
-      "title": "investingLive Americas market news wrap: Non-farm payrolls beat estimates",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-non-farm-payrolls-beat-estimates/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-06T21:52:39.000Z"
-    },
-    {
-      "title": "Equity close: Decent rebound or a dead-cat bounce",
-      "link": "https://investinglive.com/news/equity-close-decent-rebound-or-a-dead-cat-bounce/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-06T21:08:42.000Z"
-    },
-    {
       "title": "Dollar sees best day since June after stellar jobs report, set for weekly gain",
       "link": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-06T20:54:24.000Z"
-    },
-    {
-      "title": "Fed's Daly: Jobs report is good news",
-      "link": "https://investinglive.com/central-banks/fed-s-daly-jobs-report-is-good-news/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-06T18:07:02.000Z"
     },
     {
       "title": "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
@@ -180,20 +201,6 @@
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-05T21:05:32.000Z"
-    },
-    {
-      "title": "Dollar little changed as oil prices bounce, payrolls eyed",
-      "link": "https://www.investing.com/news/forex-news/dollar-edges-lower-as-us-election-outcome-cheers-global-markets-5001958",
-      "source": "Investing.com",
-      "category": "Commodities",
-      "published": "2026-11-05T20:18:28.000Z"
-    },
-    {
-      "title": "U.S. Treasuries hover near 2-month lows on 20% weekly oil crash, midterm sweep",
-      "link": "https://www.investing.com/news/forex-news/german-yields-slide-to-aug-lows-as-20-weekly-oil-crash-deflates-inflation-fears-5002466",
-      "source": "Investing.com",
-      "category": "Commodities",
-      "published": "2026-11-05T13:09:00.000Z"
     }
   ]
 }
