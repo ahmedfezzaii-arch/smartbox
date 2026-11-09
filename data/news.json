@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T18:57:03.607Z",
+  "updated": "2026-11-09T01:24:33.728Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,18 +7,102 @@
   ],
   "items": [
     {
-      "title": "Corporate America’s profit numbers are just barely beating Wall Street’s expectations",
-      "link": "https://www.marketwatch.com/story/corporate-americas-profit-numbers-are-just-barely-beating-wall-streets-expectations-eaa67fe2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-08T15:00:00.000Z"
+      "title": "Gold ticks higher on softer oil, but Fed’s 80% December hike odds cap gain",
+      "link": "https://investinglive.com/commodities/gold-ticks-higher-on-softer-oil-but-fed-s-80-december-hike-odds-cap-gain/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-09T01:00:09.000Z"
     },
     {
-      "title": "Stocks are moving in sync again for the first time in a while. There’s just one problem.",
-      "link": "https://www.marketwatch.com/story/stocks-are-moving-in-sync-again-for-the-first-time-in-a-while-theres-just-one-problem-c953bf72?mod=mw_rss_topstories",
+      "title": "Markets price three more BoE hikes, but analysts see a shallower path after move to 4%",
+      "link": "https://investinglive.com/central-banks/markets-price-three-more-boe-hikes-but-analysts-see-a-shallower-path-after-move-to-4/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-09T00:47:37.000Z"
+    },
+    {
+      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
-      "published": "2026-11-08T14:00:00.000Z"
+      "published": "2026-11-09T00:40:00.000Z"
+    },
+    {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6799 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6799-reuters-estimate/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-09T00:25:26.000Z"
+    },
+    {
+      "title": "Recap - BOJ’s Ueda sees inflation near 2% but flags upside risks as energy costs bite",
+      "link": "https://investinglive.com/central-banks/recap-boj-s-ueda-sees-inflation-near-2-but-flags-upside-risks-as-energy-costs-bite/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-08T23:45:20.000Z"
+    },
+    {
+      "title": "China steps up market stabilisation push: three short-term priorities for equities",
+      "link": "https://investinglive.com/stocks/china-steps-up-market-stabilisation-push-three-short-term-priorities-for-equities/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-08T23:25:00.000Z"
+    },
+    {
+      "title": "You follow the rules for smart stock trading. But are they the right rules?",
+      "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-08T23:15:00.000Z"
+    },
+    {
+      "title": "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
+      "link": "https://investinglive.com/news/china-october-inflation-preview-cpi-seen-near-0-8-ppi-above-5/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-08T23:07:15.000Z"
+    },
+    {
+      "title": "Blumenthal sets Jan 4 deadline for Binance, Tether and Trump crypto firms as power shifts",
+      "link": "https://investinglive.com/cryptocurrency/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms-as-power-shifts/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-08T22:54:53.000Z"
+    },
+    {
+      "title": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
+      "link": "https://investinglive.com/commodities/weekend-houthis-hit-riyadh-s-aramco-tower-and-target-oil-storage-as-saudi-supply-risk-grows/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-08T22:36:52.000Z"
+    },
+    {
+      "title": "RBA’s Hunter warns AI could trigger sharp asset repricing as boom adds to inflation",
+      "link": "https://investinglive.com/central-banks/rba-s-hunter-warns-ai-could-trigger-sharp-asset-repricing-as-boom-adds-to-inflation/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-08T22:34:28.000Z"
+    },
+    {
+      "title": "Is NVDA stock a buy or sell? Spy alert?",
+      "link": "https://investinglive.com/stocks/is-nvda-stock-a-buy-or-sell-spy-alert/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-08T22:21:07.000Z"
+    },
+    {
+      "title": "Bitcoin continues to trade heavily, under $74,600, risk mood turns wary",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-continues-to-trade-heavily-under-74-600-risk-mood-turns-wary/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-08T22:11:48.000Z"
+    },
+    {
+      "title": "Three risks for Nvidia shares after Huang admits affair with suspected Chinese spy",
+      "link": "https://investinglive.com/stocks/three-risks-for-nvidia-shares-after-huang-admits-affair-with-suspected-chinese-spy/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-08T21:09:04.000Z"
     },
     {
       "title": "WTI oil price outlook: After a 17.5% slide, can buyers reclaim $92.53?",
@@ -70,88 +154,11 @@
       "published": "2026-11-06T18:07:02.000Z"
     },
     {
-      "title": "European stocks fall into the weekend as Wall Street rebounds",
-      "link": "https://investinglive.com/stocks/european-stocks-fall-into-the-weekend-as-wall-street-rebounds/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-06T17:24:13.000Z"
-    },
-    {
-      "title": "BOJ's Ueda: Consumer prices now around 3% and expected to rise further into early next year",
-      "link": "https://investinglive.com/central-banks/boj-s-ueda-consumer-prices-now-around-3-and-expected-to-rise-further-into-early-next-year/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-06T16:45:41.000Z"
-    },
-    {
-      "title": "Bitcoin testing a key support target. What needs to happen to give buyers some relief?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-testing-a-key-support-target-what-needs-to-happen-to-give-buyers-some-relief/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-06T16:16:46.000Z"
-    },
-    {
-      "title": "Broader US stock indices bounce higher but still has work to do to give buyers more hope",
-      "link": "https://investinglive.com/stocks/broader-us-stock-indices-bounce-higher-but-still-has-work-to-do-to-give-buyers-more-hope/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-06T15:33:01.000Z"
-    },
-    {
       "title": "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
       "link": "https://www.investing.com/news/forex-news/jgb-yields-plunge-to-july-lows-as-wall-st-tech-tout-sparks-haven-rush-5006590",
       "source": "Investing.com",
       "category": "Macro data",
       "published": "2026-11-06T13:49:15.000Z"
-    },
-    {
-      "title": "US October non-farm payrolls +165K vs +65K expected",
-      "link": "https://investinglive.com/news/us-october-non-farm-payrolls-165k-vs-65k-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-06T13:32:15.000Z"
-    },
-    {
-      "title": "Canada Employment change for October -4.7K vs 13.6K estimate. Unemployment rate 6.7%.",
-      "link": "https://investinglive.com/news/canada-employment-change-for-october-4-7k-vs-13-6k-estimate-unemployment-rate-6-7/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-06T13:30:13.000Z"
-    },
-    {
-      "title": "BoE's Pill: No repeat of 2022 hiking cycle as growth risks could keep rates on hold",
-      "link": "https://investinglive.com/central-banks/boe-s-pill-no-repeat-of-2022-hiking-cycle-as-growth-risks-could-keep-rates-on-hold/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-06T13:03:53.000Z"
-    },
-    {
-      "title": "Morning Kickstart | Nasdaq futures rebound after rout as U.S. and Canadian jobs reports loom",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-nasdaq-futures-rebound-after-rout-as-u-s-and-canadian-jobs-reports-loom/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-06T13:02:40.000Z"
-    },
-    {
-      "title": "What is the distribution of forecasts for the US NFP?",
-      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-nfp-2/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-06T12:44:44.000Z"
-    },
-    {
-      "title": "investingLive European news wrap: Markets consolidate ahead of the US NFP report",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-consolidate-ahead-of-the-us-nfp-report/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-06T12:34:28.000Z"
-    },
-    {
-      "title": "Zcash resists crypto market selloff as network upgrade goes live. What's next?",
-      "link": "https://investinglive.com/cryptocurrency/zcash-resists-crypto-market-selloff-as-network-upgrade-goes-live-what-s-next/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-06T11:46:58.000Z"
     },
     {
       "title": "Sterling today: Pound slips as dollar holds firm before U.S. payrolls",
@@ -187,13 +194,6 @@
       "source": "Investing.com",
       "category": "Commodities",
       "published": "2026-11-05T13:09:00.000Z"
-    },
-    {
-      "title": "Sterling today: Pound flat as BoE hikes 25 bps, dollar steadies before payrolls",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-ahead-of-boe-decision-as-dollar-slide-pauses-5003115",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-05T12:18:09.000Z"
     }
   ]
 }
