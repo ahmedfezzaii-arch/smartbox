@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T07:41:00.437Z",
+  "updated": "2026-11-09T13:27:39.199Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,88 @@
   ],
   "items": [
     {
-      "title": "Dollar holds gains after strong U.S. jobs data; China CPI in focus",
+      "title": "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-consolidate-after-us-payrolls-shock-5010731",
+      "source": "Investing.com",
+      "category": "Macro data",
+      "published": "2026-11-09T13:07:25.000Z"
+    },
+    {
+      "title": "investingLive European news wrap: Markets await fresh US-Iran developments, US CPI data",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-markets-await-fresh-us-iran-developments-us-cpi-data/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-09T12:39:00.000Z"
+    },
+    {
+      "title": "The biggest takeaway from Berkshire Hathaway’s latest quarter isn’t the $357 billion cash or its stock buybacks",
+      "link": "https://www.marketwatch.com/story/the-biggest-takeaway-from-berkshire-hathaways-latest-quarter-isnt-the-357-billion-cash-or-its-stock-buybacks-3069f6a9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-09T12:27:00.000Z"
+    },
+    {
+      "title": "Solana remains skewed to the downside amid negative macro backdrop as US CPI looms",
+      "link": "https://investinglive.com/cryptocurrency/solana-remains-skewed-to-the-downside-amid-negative-macro-backdrop-as-us-cpi-looms/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-09T11:45:50.000Z"
+    },
+    {
+      "title": "Crude oil is caught between hopes of a US-Iran deal and escalation risks. What's next?",
+      "link": "https://investinglive.com/commodities/crude-oil-is-caught-between-hopes-of-a-us-iran-deal-and-escalation-risks-what-s-next/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-09T10:59:58.000Z"
+    },
+    {
+      "title": "Gold futures rallied $81, then gave back $51. Can buyers reclaim $4,115?",
+      "link": "https://investinglive.com/commodities/gold-futures-rallied-81-then-gave-back-51-can-buyers-reclaim-4-115/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-09T10:41:05.000Z"
+    },
+    {
+      "title": "Finance Magnates Awards 2026: Forex Brokers and Prop Firm Winners",
+      "link": "https://investinglive.com/news/finance-magnates-awards-2026-forex-brokers-and-prop-firm-winners/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-09T10:35:36.000Z"
+    },
+    {
+      "title": "Dollar retreats from post-jobs spike as traders brace for U.S. CPI test",
       "link": "https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449",
       "source": "Investing.com",
       "category": "Forex",
-      "published": "2026-11-09T06:51:10.000Z"
+      "published": "2026-11-09T10:08:02.000Z"
+    },
+    {
+      "title": "Ethereum remains vulnerable to further downside as traders brace for US CPI and Iran developments",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-remains-vulnerable-to-further-downside-as-traders-brace-for-us-cpi-and-iran-developments/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-09T09:43:48.000Z"
+    },
+    {
+      "title": "Sterling today: Pound firms as dollar retreats from Friday rally",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-firms-as-dollar-retreats-from-friday-rally-5010899",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-09T09:38:08.000Z"
+    },
+    {
+      "title": "How Wall Street is reacting to the news of Nvidia’s investigation into Jensen Huang spy claims",
+      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-09T09:12:00.000Z"
+    },
+    {
+      "title": "Gold remains skewed to the upside amid favourable macro backdrop, with US-Iran and CPI in focus",
+      "link": "https://investinglive.com/commodities/gold-remains-skewed-to-the-upside-amid-favourable-macro-backdrop-with-us-iran-and-cpi-in-focus/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-09T08:45:48.000Z"
     },
     {
       "title": "investingLive Asia-Pacific market news: Asia shrugs off Nvidia scandal, oil steadies",
@@ -84,13 +161,6 @@
       "published": "2026-11-09T00:47:37.000Z"
     },
     {
-      "title": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternatives.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-09T00:40:00.000Z"
-    },
-    {
       "title": "PBOC is expected to set the USD/CNY reference rate at 6.6799 – Reuters estimate",
       "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6799-reuters-estimate/",
       "source": "investingLive",
@@ -103,62 +173,6 @@
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-08T23:45:20.000Z"
-    },
-    {
-      "title": "China steps up market stabilisation push: three short-term priorities for equities",
-      "link": "https://investinglive.com/stocks/china-steps-up-market-stabilisation-push-three-short-term-priorities-for-equities/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-08T23:25:00.000Z"
-    },
-    {
-      "title": "You follow the rules for smart stock trading. But are they the right rules?",
-      "link": "https://www.marketwatch.com/story/you-follow-the-rules-for-smart-stock-trading-but-are-they-the-right-rules-9bfe5846?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-08T23:15:00.000Z"
-    },
-    {
-      "title": "China October inflation preview: CPI seen near 0.8%, PPI above 5%",
-      "link": "https://investinglive.com/news/china-october-inflation-preview-cpi-seen-near-0-8-ppi-above-5/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-08T23:07:15.000Z"
-    },
-    {
-      "title": "Blumenthal sets Jan 4 deadline for Binance, Tether and Trump crypto firms as power shifts",
-      "link": "https://investinglive.com/cryptocurrency/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms-as-power-shifts/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-08T22:54:53.000Z"
-    },
-    {
-      "title": "Weekend: Houthis hit Riyadh’s Aramco Tower and target oil storage as Saudi supply risk grows",
-      "link": "https://investinglive.com/commodities/weekend-houthis-hit-riyadh-s-aramco-tower-and-target-oil-storage-as-saudi-supply-risk-grows/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-08T22:36:52.000Z"
-    },
-    {
-      "title": "RBA’s Hunter warns AI could trigger sharp asset repricing as boom adds to inflation",
-      "link": "https://investinglive.com/central-banks/rba-s-hunter-warns-ai-could-trigger-sharp-asset-repricing-as-boom-adds-to-inflation/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-08T22:34:28.000Z"
-    },
-    {
-      "title": "Is NVDA stock a buy or sell? Spy alert?",
-      "link": "https://investinglive.com/stocks/is-nvda-stock-a-buy-or-sell-spy-alert/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-08T22:21:07.000Z"
-    },
-    {
-      "title": "Bitcoin continues to trade heavily, under $74,600, risk mood turns wary",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-continues-to-trade-heavily-under-74-600-risk-mood-turns-wary/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-08T22:11:48.000Z"
     },
     {
       "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
@@ -194,13 +208,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-06T09:41:40.000Z"
-    },
-    {
-      "title": "Dollar flat as Wall Street rout lifts safe-haven yen; pound in focus as BOE hikes",
-      "link": "https://www.investing.com/news/forex-news/asian-fx-rises-as-dollar-slips-on-us-vote-kiwi-leads-gains-yuan-steadies-in-asia-5002136",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-05T21:05:32.000Z"
     }
   ]
 }
