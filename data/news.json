@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T07:25:39.907Z",
+  "updated": "2026-11-10T13:18:55.634Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,116 @@
   ],
   "items": [
     {
-      "title": "Dollar holds losses ahead of U.S. inflation data",
+      "title": "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in December",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-fed-s-waller-floats-case-for-50-bps-hike-in-december/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-10T12:39:32.000Z"
+    },
+    {
+      "title": "Nvidia couldn’t derail the stock market’s rally. Hot inflation might.",
+      "link": "https://www.marketwatch.com/story/nvidia-couldnt-derail-the-stock-markets-rally-hot-inflation-might-8a572024?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Macro data",
+      "published": "2026-11-10T12:33:00.000Z"
+    },
+    {
+      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
+      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-10T12:32:00.000Z"
+    },
+    {
+      "title": "Zcash remains stuck in a range as macro headwinds continue to limit the upside. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/zcash-remains-stuck-in-a-range-as-macro-headwinds-continue-to-limit-the-upside-what-s-next/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-10T11:32:51.000Z"
+    },
+    {
+      "title": "Crude oil loses ground on renewed US-Iran deal hopes, but a concrete breakthrough isn't in sight yet",
+      "link": "https://investinglive.com/commodities/crude-oil-loses-ground-on-renewed-us-iran-deal-hopes-but-a-concrete-breakthrough-isn-t-in-sight-yet/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-10T10:55:50.000Z"
+    },
+    {
+      "title": "Chart of the day: Nasdaq comeback looks to have the breadth but does it have the staying power?",
+      "link": "https://investinglive.com/stocks/chart-of-the-day-nasdaq-comeback-looks-to-have-the-breadth-but-does-it-have-the-staying-power/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-10T10:41:43.000Z"
+    },
+    {
+      "title": "Bitcoin stays under pressure ahead of the US CPI report as Waller raises prospect of a 50 bps hike",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-stays-under-pressure-ahead-of-the-us-cpi-report-as-waller-raises-prospect-of-a-50-bps-hike/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-10T10:24:23.000Z"
+    },
+    {
+      "title": "Dollar nurses losses as traders brace for crucial U.S. inflation test",
       "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-holds-losses-ahead-of-us-inflation-data-5014050",
       "source": "Investing.com",
       "category": "Forex",
-      "published": "2026-11-10T06:38:55.000Z"
+      "published": "2026-11-10T10:15:09.000Z"
+    },
+    {
+      "title": "Stock earnings pick of the week: Can Applied Materials spot cracks in the AI spending boom?",
+      "link": "https://investinglive.com/stocks/stock-earnings-pick-of-the-week-can-applied-materials-spot-cracks-in-the-ai-spending-boom/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-10T09:46:32.000Z"
+    },
+    {
+      "title": "Fed’s Waller puts half-point rate hike into the mix for December",
+      "link": "https://www.marketwatch.com/story/feds-waller-puts-half-point-rate-hike-into-the-mix-for-december-1bebdffc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Central banks",
+      "published": "2026-11-10T09:45:00.000Z"
+    },
+    {
+      "title": "What is the distribution of forecasts for the US CPI?",
+      "link": "https://investinglive.com/news/what-is-the-distribution-of-forecasts-for-the-us-cpi-3/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-10T09:24:20.000Z"
+    },
+    {
+      "title": "Euro yields linger at 1-month lows as sinking oil calms inflation jitters",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-linger--at-1month-lows-as-sinking-oil-calms-inflation-jitters-5014393",
+      "source": "Investing.com",
+      "category": "Commodities",
+      "published": "2026-11-10T09:19:13.000Z"
+    },
+    {
+      "title": "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-steadies-on-fed-tightening-bets-5014423",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-10T09:14:10.000Z"
+    },
+    {
+      "title": "Fed's Waller says a half-point rate hike in December may be needed if Core CPI comes in hot",
+      "link": "https://investinglive.com/central-banks/fed-s-waller-says-a-half-point-rate-hike-in-december-may-be-needed-if-core-cpi-comes-in-hot/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-10T09:03:28.000Z"
+    },
+    {
+      "title": "Gold holds near recent highs as markets await US CPI and Iran breakthrough",
+      "link": "https://investinglive.com/commodities/gold-holds-near-recent-highs-as-markets-await-us-cpi-and-iran-breakthrough/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-10T08:24:05.000Z"
+    },
+    {
+      "title": "European stock market open: Stocks rally across the board as market optimism grows",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-rally-across-the-board-as-market-optimism-grows/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-10T08:23:53.000Z"
     },
     {
       "title": "US CPI preview: Wall Street sees cooler inflation but the Fed may not blink",
@@ -56,102 +161,11 @@
       "published": "2026-11-10T02:28:52.000Z"
     },
     {
-      "title": "Anthropic lines up $26 billion from Nvidia, Google, others as IPO priced at $70 to $80",
-      "link": "https://investinglive.com/stocks/anthropic-lines-up-26-billion-from-nvidia-google-others-as-ipo-priced-at-70-to-80/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-10T01:32:40.000Z"
-    },
-    {
-      "title": "PBOC sets USD/ CNY central rate at 6.7167 (vs. estimate at 6.6655)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7167-vs-estimate-at-6-6655/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T01:16:03.000Z"
-    },
-    {
-      "title": "UK retail sales rise 1.5%, best since June, but fuel costs and Budget caution weigh",
-      "link": "https://investinglive.com/news/uk-retail-sales-rise-1-5-best-since-june-but-fuel-costs-and-budget-caution-weigh-0/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-10T00:40:39.000Z"
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6655 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6655-reuters-estimate/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T00:29:23.000Z"
-    },
-    {
-      "title": "BoJ opinions back faster hikes, one sees neutral rate ‘considerably above 1%’",
-      "link": "https://investinglive.com/central-banks/boj-opinions-back-faster-hikes-one-sees-neutral-rate-considerably-above-1/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-09T23:58:58.000Z"
-    },
-    {
-      "title": "Japan household spending plunges 6.8%, 10th straight drop, as BoJ weighs December hike",
-      "link": "https://investinglive.com/news/japan-household-spending-plunges-6-8-10th-straight-drop-as-boj-weighs-december-hike/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-09T23:53:00.000Z"
-    },
-    {
-      "title": "US CPI preview: 43-day shutdown leaves no official annual rate as monthly pace seen easing",
-      "link": "https://investinglive.com/news/us-cpi-preview-43-day-shutdown-leaves-no-official-annual-rate-as-monthly-pace-seen-easing/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-09T23:39:18.000Z"
-    },
-    {
-      "title": "BlackRock: an AI spending slowdown in 2027 would hurt markets but could also lower yields",
-      "link": "https://investinglive.com/stock-market-update/blackrock-an-ai-spending-slowdown-in-2027-would-hurt-markets-but-could-also-lower-yields/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-09T23:19:09.000Z"
-    },
-    {
-      "title": "Morgan Stanley flags AI as a new risk for the Australian dollar after Democratic sweep",
-      "link": "https://investinglive.com/forex/morgan-stanley-flags-ai-as-a-new-risk-for-the-australian-dollar-after-democratic-sweep/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-09T22:59:42.000Z"
-    },
-    {
-      "title": "Rocket Lab shares dip after the company’s ‘defining’ quarter misses the mark",
-      "link": "https://www.marketwatch.com/story/rocket-lab-shares-dip-after-the-companys-defining-quarter-misses-the-mark-9f74c3b5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-09T22:49:00.000Z"
-    },
-    {
       "title": "Dollar slips, taking a breather after last week’s advance a day ahead of CPI test",
       "link": "https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-09T22:32:44.000Z"
-    },
-    {
-      "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-      "link": "https://www.marketwatch.com/story/how-wall-street-is-reacting-to-the-news-of-nvidias-jensen-huang-investigation-into-spy-claims-d8c839ab?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-09T21:55:00.000Z"
-    },
-    {
-      "title": "Dow sees its third 1,000-point swing in four days. Why the volatility isn’t over yet.",
-      "link": "https://www.marketwatch.com/story/dow-sees-its-third-1-000-point-swing-in-four-days-why-volatility-isnt-over-yet-5380567b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-09T21:52:00.000Z"
-    },
-    {
-      "title": "The stock-market rally keeps spreading beyond Big Tech. October inflation data could put it to the test.",
-      "link": "https://www.marketwatch.com/story/the-stock-market-rally-keeps-spreading-beyond-big-tech-october-inflation-data-could-put-it-to-the-test-c1b87dcd?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Macro data",
-      "published": "2026-11-09T21:24:00.000Z"
     },
     {
       "title": "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
@@ -187,20 +201,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-06T20:54:24.000Z"
-    },
-    {
-      "title": "U.S. Treasuries fall as blowout payrolls lift yields across the curve",
-      "link": "https://www.investing.com/news/forex-news/jgb-yields-plunge-to-july-lows-as-wall-st-tech-tout-sparks-haven-rush-5006590",
-      "source": "Investing.com",
-      "category": "Macro data",
-      "published": "2026-11-06T13:49:15.000Z"
-    },
-    {
-      "title": "Sterling today: Pound slips as dollar holds firm before U.S. payrolls",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-slips-as-dollar-holds-firm-before-us-payrolls-5007166",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-06T10:44:08.000Z"
     }
   ]
 }
