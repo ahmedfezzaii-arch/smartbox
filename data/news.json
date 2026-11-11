@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T01:20:10.248Z",
+  "updated": "2026-11-11T07:29:17.078Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,102 @@
   ],
   "items": [
     {
+      "title": "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
+      "link": "https://www.investing.com/news/forex-news/asian-fx-steadies-after-falling-on-hot-us-cpi-yen-near-6wk-low-5017608",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-11T06:37:08.000Z"
+    },
+    {
+      "title": "Heads up: US bond market closed for Veterans Day as stocks face a hot CPI hangover",
+      "link": "https://investinglive.com/news/heads-up-us-bond-market-closed-for-veterans-day-as-stocks-face-a-hot-cpi-hangover/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-11T06:07:07.000Z"
+    },
+    {
+      "title": "Nasdaq Today says: \"Fold that short.\"",
+      "link": "https://investinglive.com/technical-analysis/nasdaq-today-says-fold-that-short/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-11T05:56:37.000Z"
+    },
+    {
+      "title": "Euro bears haven't been this aggressive since the Covid pandemic, but is the trade getting too crowded?",
+      "link": "https://investinglive.com/forex/euro-bears-haven-t-been-this-aggressive-since-the-covid-pandemic-but-is-the-trade-getting-too-crowded/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-11T05:48:52.000Z"
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: KOSDAQ jumps nearly 5% as AI rebounds, oil firms",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-nearly-5-as-ai-rebounds-oil-firms/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-11T04:31:11.000Z"
+    },
+    {
+      "title": "Three reasons Goldman has added another Fed rate hike to its forecast, higher and higher!",
+      "link": "https://investinglive.com/central-banks/three-reasons-goldman-has-added-another-fed-rate-hike-to-its-forecast-higher-and-higher/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-11T04:14:17.000Z"
+    },
+    {
+      "title": "Asia midday: Nikkei up for third day, KOSDAQ jumps 5% as AI stocks rebound",
+      "link": "https://investinglive.com/stock-market-update/asia-midday-nikkei-up-for-third-day-kosdaq-jumps-5-as-ai-stocks-rebound/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-11T03:23:36.000Z"
+    },
+    {
+      "title": "Morgan Stanley’s Wilson: correction in final phase, three reasons oil can fall into 2027",
+      "link": "https://investinglive.com/commodities/morgan-stanley-s-wilson-correction-in-final-phase-three-reasons-oil-can-fall-into-2027/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-11T03:04:38.000Z"
+    },
+    {
+      "title": "CoreWeave stock jumps nearly 13% after earnings. Buy the rally or sell into resistance?",
+      "link": "https://investinglive.com/stocks/coreweave-stock-jumps-nearly-13-after-earnings-buy-the-rally-or-sell-into-resistance/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-11T02:57:30.000Z"
+    },
+    {
+      "title": "Morgans’ Stickley: S&P 500 up after every midterm since 1950 as Nvidia looks cheap",
+      "link": "https://investinglive.com/stock-market-update/morgans-stickley-s-p-500-up-after-every-midterm-since-1950-as-nvidia-looks-cheap/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-11T01:57:02.000Z"
+    },
+    {
+      "title": "Three drivers setting gold’s tone as December Fed hike bets build, according to Standard Chartered",
+      "link": "https://investinglive.com/commodities/three-drivers-setting-gold-s-tone-as-december-fed-hike-bets-build-according-to-standard-chartered/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-11T01:32:48.000Z"
+    },
+    {
+      "title": "PBOC sets USD/ CNY mid-point today at 6.7191 (vs. estimate at 6.6855)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-vs-estimate-at-6-6855/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-11T01:15:50.000Z"
+    },
+    {
       "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
       "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
       "published": "2026-11-11T01:12:00.000Z"
+    },
+    {
+      "title": "SoftBank shares down after swings to $7 billion Q2 loss on $3.7 billion US data centre power hit",
+      "link": "https://investinglive.com/stocks/softbank-shares-down-after-swings-to-7-billion-q2-loss-on-3-7-billion-us-data-centre-power-hit/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-11T01:03:34.000Z"
     },
     {
       "title": "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bite harder",
@@ -56,20 +147,6 @@
       "published": "2026-11-10T23:25:20.000Z"
     },
     {
-      "title": "Anthropic reserves up to 20% of its $64 billion IPO for retail investors",
-      "link": "https://investinglive.com/stocks/anthropic-reserves-up-to-20-of-its-64-billion-ipo-for-retail-investors/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-10T23:11:56.000Z"
-    },
-    {
-      "title": "UBS keeps 8,900 S&P 500 target for end-2027, says 20% derating sets up strong gains",
-      "link": "https://investinglive.com/stock-market-update/ubs-keeps-8-900-s-p-500-target-for-end-2027-says-20-derating-sets-up-strong-gains/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-10T22:54:42.000Z"
-    },
-    {
       "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
       "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -84,20 +161,6 @@
       "published": "2026-11-10T22:30:00.000Z"
     },
     {
-      "title": "Private oil inventory survey shows huge headline build vs. draw expected",
-      "link": "https://investinglive.com/commodities/private-oil-inventory-survey-shows-huge-headline-build-vs-draw-expected/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-10T22:27:53.000Z"
-    },
-    {
-      "title": "More from Fed’s Bowman: Shifts focus to inflation, wants AI and Middle East risks to ease first",
-      "link": "https://investinglive.com/central-banks/more-from-fed-s-bowman-shifts-focus-to-inflation-wants-ai-and-middle-east-risks-to-ease-first/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T21:42:12.000Z"
-    },
-    {
       "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
       "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -105,67 +168,11 @@
       "published": "2026-11-10T21:42:00.000Z"
     },
     {
-      "title": "Economic and event calendar in Asia Wednesday, November 11, 2026 - two Fed speakers",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-november-11-2026-two-fed-speakers/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T21:41:25.000Z"
-    },
-    {
-      "title": "investingLive Americas FX news wrap 10 Nov: It’s a Wrap. Hot US CPI puts a bigger Fed hike in play",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-10-nov-it-s-a-wrap-hot-us-cpi-puts-a-bigger-fed-hike-in-play/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T21:33:59.000Z"
-    },
-    {
-      "title": "US stock market close: Hot CPI leads to a selloff",
-      "link": "https://investinglive.com/stock-market-update/us-stock-market-close-hot-cpi-leads-to-a-selloff/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-10T21:00:24.000Z"
-    },
-    {
-      "title": "Fed's Bowman: Persistent inflation, firming labor conditions suggest 'work to do'",
-      "link": "https://investinglive.com/central-banks/fed-s-bowman-persistent-inflation-firming-labor-conditions-suggest-work-to-do/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T20:36:28.000Z"
-    },
-    {
       "title": "Dollar jumps as hot CPI and Waller comments bring supersized Fed hike into play",
       "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-holds-losses-ahead-of-us-inflation-data-5014050",
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-10T20:21:43.000Z"
-    },
-    {
-      "title": "Anthropic looks to be pricing its IPO for success",
-      "link": "https://investinglive.com/stocks/anthropic-looks-to-be-pricing-its-ipo-for-success/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-10T19:40:23.000Z"
-    },
-    {
-      "title": "Fed's Schmid: Some concerning trends in prices, underneath the whole energy story",
-      "link": "https://investinglive.com/central-banks/fed-s-schmid-some-concerning-trends-in-prices-underneath-the-whole-energy-story/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T18:51:31.000Z"
-    },
-    {
-      "title": "U.S. Treasury sells $42 billion of 10 year notes at a high yield of 5.02%",
-      "link": "https://investinglive.com/news/u-s-treasury-sells-42-billion-of-10-year-notes-at-a-high-yield-of-5-02/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-10T18:07:02.000Z"
-    },
-    {
-      "title": "ECB’s Lane says the bar for directional rate guidance is high",
-      "link": "https://investinglive.com/central-banks/ecb-s-lane-says-the-bar-for-directional-rate-guidance-is-high/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T17:59:09.000Z"
     },
     {
       "title": "U.S. Treasury yields spike as hot CPI binds with resilient labor market",
