@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T07:29:17.078Z",
+  "updated": "2026-11-11T13:25:25.983Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,123 @@
   ],
   "items": [
     {
+      "title": "22 stocks of companies with tremendous sales growth",
+      "link": "https://www.marketwatch.com/story/22-stocks-of-companies-with-tremendous-sales-growth-78c3f750?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-11T13:06:00.000Z"
+    },
+    {
+      "title": "investingLive European session wrap: Stocks rally, dollar climbs as bond market sits out post-CPI action",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-stocks-rally-dollar-climbs-as-bond-market-sits-out-post-cpi-action/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-11T12:44:29.000Z"
+    },
+    {
+      "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+      "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-11T12:00:00.000Z"
+    },
+    {
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-11T11:27:00.000Z"
+    },
+    {
+      "title": "INR/USD hits 6-month high on strong inflows",
+      "link": "https://www.investing.com/news/forex-news/inrusd-hits-6month-high-on-strong-inflows-93CH-5018390",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-11T11:25:47.000Z"
+    },
+    {
+      "title": "Citi sees yen strengthening risk if Japanese stocks correct further",
+      "link": "https://www.investing.com/news/forex-news/citi-sees-yen-strengthening-risk-if-japanese-stocks-correct-further-93CH-5018320",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-11T11:04:36.000Z"
+    },
+    {
+      "title": "Crude oil rebounds as expectations for an imminent deal fade amid the lack of US-Iran progress",
+      "link": "https://investinglive.com/commodities/crude-oil-rebounds-as-expectations-for-an-imminent-deal-fade-amid-the-lack-of-us-iran-progress/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-11T10:42:50.000Z"
+    },
+    {
+      "title": "USD/JPY knocks on the door of 159.00 again, dollar bulls risk poking the intervention bear",
+      "link": "https://investinglive.com/forex/usd-jpy-knocks-on-the-door-of-159-00-again-dollar-bulls-risk-poking-the-intervention-bear/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-11T10:37:54.000Z"
+    },
+    {
       "title": "Dollar holds gains as Fed hike bets rise after hot U.S. CPI; yen near 6-wk low",
       "link": "https://www.investing.com/news/forex-news/asian-fx-steadies-after-falling-on-hot-us-cpi-yen-near-6wk-low-5017608",
       "source": "Investing.com",
       "category": "Central banks",
-      "published": "2026-11-11T06:37:08.000Z"
+      "published": "2026-11-11T10:21:12.000Z"
+    },
+    {
+      "title": "Ethereum extends losses as Fed's Waller puts a larger rate hike on the table and US CPI remains hot",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-extends-losses-as-fed-s-waller-puts-a-larger-rate-hike-on-the-table-and-us-cpi-remains-hot/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-11T10:08:43.000Z"
+    },
+    {
+      "title": "Sterling today: Pound edges lower as Fed hike bets, hot CPI buoy dollar",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-lower-as-fed-hike-bets-hot-cpi-buoy-dollar-5018102",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-11T09:22:09.000Z"
+    },
+    {
+      "title": "Global bonds fall as hot U.S. CPI and Fed rhetoric stoke fears of 50-bps hike",
+      "link": "https://www.investing.com/news/forex-news/global-bonds-fall-as-hot-us-cpi-and-fed-rhetoric-stoke-fears-of-50bps-hike-5018037",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-11T09:10:22.000Z"
+    },
+    {
+      "title": "Gold dips after Fed's Waller drops the 50 bps hike bomb and US CPI comes above expectations",
+      "link": "https://investinglive.com/commodities/gold-dips-after-fed-s-waller-drops-the-50-bps-hike-bomb-and-us-cpi-comes-above-expectations/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-11T08:32:12.000Z"
+    },
+    {
+      "title": "European stock market open: European stocks keep the good times rolling this week",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-european-stocks-keep-the-good-times-rolling-this-week/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-11T08:24:56.000Z"
+    },
+    {
+      "title": "Chart of the day: Is EUR/USD heading for another breakdown or a surprise comeback?",
+      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-is-eur-usd-heading-for-another-breakdown-or-a-surprise-comeback/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-11T08:11:39.000Z"
+    },
+    {
+      "title": "Gold traders see plenty of drama after US CPI but still no clear winner for now",
+      "link": "https://investinglive.com/commodities/gold-traders-see-plenty-of-drama-after-us-cpi-but-still-no-clear-winner-for-now/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-11T07:28:55.000Z"
+    },
+    {
+      "title": "Germany October inflation slows, but winter energy risks keep ECB rate hike bets alive",
+      "link": "https://investinglive.com/news/germany-october-inflation-slows-but-winter-energy-risks-keep-ecb-rate-hike-bets-alive/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-11T07:00:55.000Z"
     },
     {
       "title": "Heads up: US bond market closed for Veterans Day as stocks face a hot CPI hangover",
@@ -77,97 +189,6 @@
       "published": "2026-11-11T01:57:02.000Z"
     },
     {
-      "title": "Three drivers setting gold’s tone as December Fed hike bets build, according to Standard Chartered",
-      "link": "https://investinglive.com/commodities/three-drivers-setting-gold-s-tone-as-december-fed-hike-bets-build-according-to-standard-chartered/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-11T01:32:48.000Z"
-    },
-    {
-      "title": "PBOC sets USD/ CNY mid-point today at 6.7191 (vs. estimate at 6.6855)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-vs-estimate-at-6-6855/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-11T01:15:50.000Z"
-    },
-    {
-      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-11T01:12:00.000Z"
-    },
-    {
-      "title": "SoftBank shares down after swings to $7 billion Q2 loss on $3.7 billion US data centre power hit",
-      "link": "https://investinglive.com/stocks/softbank-shares-down-after-swings-to-7-billion-q2-loss-on-3-7-billion-us-data-centre-power-hit/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-11T01:03:34.000Z"
-    },
-    {
-      "title": "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bite harder",
-      "link": "https://investinglive.com/news/australian-investor-home-lending-plunges-32-in-q3-as-tax-curbs-and-rba-hikes-bite-harder/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-11T00:46:34.000Z"
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6855 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6855-reuters-estimate/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-11T00:22:32.000Z"
-    },
-    {
-      "title": "NIESR sees UK inflation above BoE target for four years, peaking at 4.4% in 2027",
-      "link": "https://investinglive.com/central-banks/niesr-sees-uk-inflation-above-boe-target-for-four-years-peaking-at-4-4-in-2027/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-11T00:09:22.000Z"
-    },
-    {
-      "title": "Fed’s Goolsbee calls CPI ‘borderline disturbing’, flags three inflation worries",
-      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-calls-cpi-borderline-disturbing-flags-three-inflation-worries/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T23:53:32.000Z"
-    },
-    {
-      "title": "Fed’s Paulson backs further gradual rate hikes, names three triggers for faster action",
-      "link": "https://investinglive.com/central-banks/fed-s-paulson-backs-further-gradual-rate-hikes-names-three-triggers-for-faster-action/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T23:37:18.000Z"
-    },
-    {
-      "title": "Mizuho’s Klein calls Nvidia ‘silly cheap’ below 10x earnings despite Huang uncertainty",
-      "link": "https://investinglive.com/stocks/mizuho-s-klein-calls-nvidia-silly-cheap-below-10x-earnings-despite-huang-uncertainty/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-10T23:25:20.000Z"
-    },
-    {
-      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-10T22:37:00.000Z"
-    },
-    {
-      "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
-      "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-10T22:30:00.000Z"
-    },
-    {
-      "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
-      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Macro data",
-      "published": "2026-11-10T21:42:00.000Z"
-    },
-    {
       "title": "Dollar jumps as hot CPI and Waller comments bring supersized Fed hike into play",
       "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-holds-losses-ahead-of-us-inflation-data-5014050",
       "source": "Investing.com",
@@ -201,20 +222,6 @@
       "source": "Investing.com",
       "category": "Macro data",
       "published": "2026-11-09T13:21:52.000Z"
-    },
-    {
-      "title": "Sterling today: Pound firms as dollar retreats from Friday rally",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-firms-as-dollar-retreats-from-friday-rally-5010899",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-09T09:38:08.000Z"
-    },
-    {
-      "title": "US dollar holds onto payrolls gains, NZ dollar rises after election",
-      "link": "https://www.investing.com/news/forex-news/us-dollar-holds-onto-payrolls-gains-nz-dollar-rises-after-election-5010398",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-09T01:18:23.000Z"
     }
   ]
 }
