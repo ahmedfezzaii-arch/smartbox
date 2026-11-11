@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T13:25:25.983Z",
+  "updated": "2026-11-11T19:13:31.346Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,102 @@
   ],
   "items": [
     {
-      "title": "22 stocks of companies with tremendous sales growth",
-      "link": "https://www.marketwatch.com/story/22-stocks-of-companies-with-tremendous-sales-growth-78c3f750?mod=mw_rss_topstories",
+      "title": "BOE’s Greene: Appropriate to proactively tighten policy against wage risks",
+      "link": "https://investinglive.com/central-banks/boe-s-greene-appropriate-to-proactively-tighten-policy-against-wage-risks/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-11T18:48:19.000Z"
+    },
+    {
+      "title": "CoreWeave surges after earnings. Can buyers turn the rebound into something more?",
+      "link": "https://investinglive.com/stocks/coreweave-surges-after-earnings-can-buyers-turn-the-rebound-into-something-more/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-11T18:22:55.000Z"
+    },
+    {
+      "title": "Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst",
+      "link": "https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
-      "published": "2026-11-11T13:06:00.000Z"
+      "published": "2026-11-11T18:13:00.000Z"
+    },
+    {
+      "title": "Stocks move to new session highs as buyers reclaim key technical levels",
+      "link": "https://investinglive.com/stocks/stocks-move-to-new-session-highs-as-buyers-reclaim-key-technical-levels/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-11T17:55:58.000Z"
+    },
+    {
+      "title": "European stocks close higher. AI rebound sends Nasdaq indices sharply higher.",
+      "link": "https://investinglive.com/stocks/european-stocks-close-higher-ai-rebound-sends-nasdaq-indices-sharply-higher/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-11T16:58:19.000Z"
+    },
+    {
+      "title": "A contrarian ECB rate bet targets 2.5% deposit rate through mid-March",
+      "link": "https://www.investing.com/news/forex-news/a-contrarian-ecb-rate-bet-targets-25-deposit-rate-through-midmarch-93CH-5019580",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-11T16:43:02.000Z"
+    },
+    {
+      "title": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
+      "link": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-11T16:03:00.000Z"
+    },
+    {
+      "title": "The broader stock indices are showing signs of life but with work to do. What needs to happen next?",
+      "link": "https://investinglive.com/stocks/the-broader-stock-indices-are-showing-signs-of-life-but-with-work-to-do-what-needs-to-happen-next/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-11T15:36:38.000Z"
+    },
+    {
+      "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
+      "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-11T15:15:00.000Z"
+    },
+    {
+      "title": "Crude oil faces a geopolitical test as Russia signals progress toward peace",
+      "link": "https://investinglive.com/technical-analysis/crude-oil-faces-a-geopolitical-test-as-russia-signals-progress-toward-peace/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-11T14:37:52.000Z"
+    },
+    {
+      "title": "The price of Bitcoin is little changed but off the support target. What next?",
+      "link": "https://investinglive.com/cryptocurrency/the-price-of-bitcoin-is-little-changed-but-off-the-support-target-what-next/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-11T14:12:40.000Z"
+    },
+    {
+      "title": "Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears",
+      "link": "https://www.investing.com/news/forex-news/global-bonds-fall-as-hot-us-cpi-and-fed-rhetoric-stoke-fears-of-50bps-hike-5018037",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-11T13:34:47.000Z"
+    },
+    {
+      "title": "Morning Kickstart: AI stocks rebound as USD after hot CPI. Thank you Veterans for your service",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-ai-stocks-rebound-as-usd-after-hot-cpi-thank-you-veterans-for-your-service/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-11T13:16:54.000Z"
+    },
+    {
+      "title": "BofA: Retail yen selling rises but offset by foreign inflows",
+      "link": "https://www.investing.com/news/forex-news/bofa-retail-yen-selling-rises-but-offset-by-foreign-inflows-93CH-5018832",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-11T13:16:25.000Z"
     },
     {
       "title": "investingLive European session wrap: Stocks rally, dollar climbs as bond market sits out post-CPI action",
@@ -19,20 +110,6 @@
       "source": "investingLive",
       "category": "Forex",
       "published": "2026-11-11T12:44:29.000Z"
-    },
-    {
-      "title": "Market angst is driving investors into low-volatility stocks as AI trade stumbles",
-      "link": "https://www.marketwatch.com/story/market-angst-is-driving-investors-into-low-volatility-stocks-as-ai-trade-stumbles-23d905e9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-11T12:00:00.000Z"
-    },
-    {
-      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
-      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-11T11:27:00.000Z"
     },
     {
       "title": "INR/USD hits 6-month high on strong inflows",
@@ -84,13 +161,6 @@
       "published": "2026-11-11T09:22:09.000Z"
     },
     {
-      "title": "Global bonds fall as hot U.S. CPI and Fed rhetoric stoke fears of 50-bps hike",
-      "link": "https://www.investing.com/news/forex-news/global-bonds-fall-as-hot-us-cpi-and-fed-rhetoric-stoke-fears-of-50bps-hike-5018037",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-11T09:10:22.000Z"
-    },
-    {
       "title": "Gold dips after Fed's Waller drops the 50 bps hike bomb and US CPI comes above expectations",
       "link": "https://investinglive.com/commodities/gold-dips-after-fed-s-waller-drops-the-50-bps-hike-bomb-and-us-cpi-comes-above-expectations/",
       "source": "investingLive",
@@ -133,62 +203,6 @@
       "published": "2026-11-11T06:07:07.000Z"
     },
     {
-      "title": "Nasdaq Today says: \"Fold that short.\"",
-      "link": "https://investinglive.com/technical-analysis/nasdaq-today-says-fold-that-short/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-11T05:56:37.000Z"
-    },
-    {
-      "title": "Euro bears haven't been this aggressive since the Covid pandemic, but is the trade getting too crowded?",
-      "link": "https://investinglive.com/forex/euro-bears-haven-t-been-this-aggressive-since-the-covid-pandemic-but-is-the-trade-getting-too-crowded/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-11T05:48:52.000Z"
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: KOSDAQ jumps nearly 5% as AI rebounds, oil firms",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-nearly-5-as-ai-rebounds-oil-firms/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-11T04:31:11.000Z"
-    },
-    {
-      "title": "Three reasons Goldman has added another Fed rate hike to its forecast, higher and higher!",
-      "link": "https://investinglive.com/central-banks/three-reasons-goldman-has-added-another-fed-rate-hike-to-its-forecast-higher-and-higher/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-11T04:14:17.000Z"
-    },
-    {
-      "title": "Asia midday: Nikkei up for third day, KOSDAQ jumps 5% as AI stocks rebound",
-      "link": "https://investinglive.com/stock-market-update/asia-midday-nikkei-up-for-third-day-kosdaq-jumps-5-as-ai-stocks-rebound/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-11T03:23:36.000Z"
-    },
-    {
-      "title": "Morgan Stanley’s Wilson: correction in final phase, three reasons oil can fall into 2027",
-      "link": "https://investinglive.com/commodities/morgan-stanley-s-wilson-correction-in-final-phase-three-reasons-oil-can-fall-into-2027/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-11T03:04:38.000Z"
-    },
-    {
-      "title": "CoreWeave stock jumps nearly 13% after earnings. Buy the rally or sell into resistance?",
-      "link": "https://investinglive.com/stocks/coreweave-stock-jumps-nearly-13-after-earnings-buy-the-rally-or-sell-into-resistance/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-11T02:57:30.000Z"
-    },
-    {
-      "title": "Morgans’ Stickley: S&P 500 up after every midterm since 1950 as Nvidia looks cheap",
-      "link": "https://investinglive.com/stock-market-update/morgans-stickley-s-p-500-up-after-every-midterm-since-1950-as-nvidia-looks-cheap/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-11T01:57:02.000Z"
-    },
-    {
       "title": "Dollar jumps as hot CPI and Waller comments bring supersized Fed hike into play",
       "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-holds-losses-ahead-of-us-inflation-data-5014050",
       "source": "Investing.com",
@@ -208,20 +222,6 @@
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-10T09:14:10.000Z"
-    },
-    {
-      "title": "Dollar slips, taking a breather after last week’s advance a day ahead of CPI test",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-gains-as-dollar-steadies-after-strong-us-jobs-data-china-cpi-in-focus-5010449",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-09T22:32:44.000Z"
-    },
-    {
-      "title": "U.S. treasuries tread water after jobs shock as CPI, auction gauntlet looms",
-      "link": "https://www.investing.com/news/forex-news/eurozone-yields-consolidate-after-us-payrolls-shock-5010731",
-      "source": "Investing.com",
-      "category": "Macro data",
-      "published": "2026-11-09T13:21:52.000Z"
     }
   ]
 }
