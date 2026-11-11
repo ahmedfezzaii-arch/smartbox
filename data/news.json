@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T19:09:27.826Z",
+  "updated": "2026-11-11T01:20:10.248Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,18 +7,151 @@
   ],
   "items": [
     {
+      "title": "CoreWeave’s stock pops as new financing playbook eases debt concerns",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-as-new-financing-playbook-eases-debt-concerns-70241525?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-11T01:12:00.000Z"
+    },
+    {
+      "title": "Australian investor home lending plunges 32% in Q3 as tax curbs and RBA hikes bite harder",
+      "link": "https://investinglive.com/news/australian-investor-home-lending-plunges-32-in-q3-as-tax-curbs-and-rba-hikes-bite-harder/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-11T00:46:34.000Z"
+    },
+    {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6855 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6855-reuters-estimate/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-11T00:22:32.000Z"
+    },
+    {
+      "title": "NIESR sees UK inflation above BoE target for four years, peaking at 4.4% in 2027",
+      "link": "https://investinglive.com/central-banks/niesr-sees-uk-inflation-above-boe-target-for-four-years-peaking-at-4-4-in-2027/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-11T00:09:22.000Z"
+    },
+    {
+      "title": "Fed’s Goolsbee calls CPI ‘borderline disturbing’, flags three inflation worries",
+      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-calls-cpi-borderline-disturbing-flags-three-inflation-worries/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-10T23:53:32.000Z"
+    },
+    {
+      "title": "Fed’s Paulson backs further gradual rate hikes, names three triggers for faster action",
+      "link": "https://investinglive.com/central-banks/fed-s-paulson-backs-further-gradual-rate-hikes-names-three-triggers-for-faster-action/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-10T23:37:18.000Z"
+    },
+    {
+      "title": "Mizuho’s Klein calls Nvidia ‘silly cheap’ below 10x earnings despite Huang uncertainty",
+      "link": "https://investinglive.com/stocks/mizuho-s-klein-calls-nvidia-silly-cheap-below-10x-earnings-despite-huang-uncertainty/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-10T23:25:20.000Z"
+    },
+    {
+      "title": "Anthropic reserves up to 20% of its $64 billion IPO for retail investors",
+      "link": "https://investinglive.com/stocks/anthropic-reserves-up-to-20-of-its-64-billion-ipo-for-retail-investors/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-10T23:11:56.000Z"
+    },
+    {
+      "title": "UBS keeps 8,900 S&P 500 target for end-2027, says 20% derating sets up strong gains",
+      "link": "https://investinglive.com/stock-market-update/ubs-keeps-8-900-s-p-500-target-for-end-2027-says-20-derating-sets-up-strong-gains/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-10T22:54:42.000Z"
+    },
+    {
+      "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
+      "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-10T22:37:00.000Z"
+    },
+    {
+      "title": "Looking to buy the dip in chip stocks? Here’s how to avoid buying too soon.",
+      "link": "https://www.marketwatch.com/story/ignore-the-wild-swings-in-chip-stocks-until-they-reach-these-lines-in-the-sand-feb6e00f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-10T22:30:00.000Z"
+    },
+    {
+      "title": "Private oil inventory survey shows huge headline build vs. draw expected",
+      "link": "https://investinglive.com/commodities/private-oil-inventory-survey-shows-huge-headline-build-vs-draw-expected/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-10T22:27:53.000Z"
+    },
+    {
+      "title": "More from Fed’s Bowman: Shifts focus to inflation, wants AI and Middle East risks to ease first",
+      "link": "https://investinglive.com/central-banks/more-from-fed-s-bowman-shifts-focus-to-inflation-wants-ai-and-middle-east-risks-to-ease-first/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-10T21:42:12.000Z"
+    },
+    {
+      "title": "Stocks fall as the 10-year Treasury yield nears 5% mark",
+      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Macro data",
+      "published": "2026-11-10T21:42:00.000Z"
+    },
+    {
+      "title": "Economic and event calendar in Asia Wednesday, November 11, 2026 - two Fed speakers",
+      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-wednesday-november-11-2026-two-fed-speakers/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-10T21:41:25.000Z"
+    },
+    {
+      "title": "investingLive Americas FX news wrap 10 Nov: It’s a Wrap. Hot US CPI puts a bigger Fed hike in play",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-10-nov-it-s-a-wrap-hot-us-cpi-puts-a-bigger-fed-hike-in-play/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-10T21:33:59.000Z"
+    },
+    {
+      "title": "US stock market close: Hot CPI leads to a selloff",
+      "link": "https://investinglive.com/stock-market-update/us-stock-market-close-hot-cpi-leads-to-a-selloff/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-10T21:00:24.000Z"
+    },
+    {
+      "title": "Fed's Bowman: Persistent inflation, firming labor conditions suggest 'work to do'",
+      "link": "https://investinglive.com/central-banks/fed-s-bowman-persistent-inflation-firming-labor-conditions-suggest-work-to-do/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-10T20:36:28.000Z"
+    },
+    {
+      "title": "Dollar jumps as hot CPI and Waller comments bring supersized Fed hike into play",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-holds-losses-ahead-of-us-inflation-data-5014050",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-10T20:21:43.000Z"
+    },
+    {
+      "title": "Anthropic looks to be pricing its IPO for success",
+      "link": "https://investinglive.com/stocks/anthropic-looks-to-be-pricing-its-ipo-for-success/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-10T19:40:23.000Z"
+    },
+    {
       "title": "Fed's Schmid: Some concerning trends in prices, underneath the whole energy story",
       "link": "https://investinglive.com/central-banks/fed-s-schmid-some-concerning-trends-in-prices-underneath-the-whole-energy-story/",
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-10T18:51:31.000Z"
-    },
-    {
-      "title": "Even Wall Street’s lone Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
-      "link": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-10T18:16:00.000Z"
     },
     {
       "title": "U.S. Treasury sells $42 billion of 10 year notes at a high yield of 5.02%",
@@ -35,137 +168,11 @@
       "published": "2026-11-10T17:59:09.000Z"
     },
     {
-      "title": "Stocks fall as the 10-year Treasury yield reclaims 5%",
-      "link": "https://www.marketwatch.com/story/why-stocks-are-falling-and-10-year-yields-are-climbing-back-near-5-after-tuesdays-inflation-report-389b8392?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Macro data",
-      "published": "2026-11-10T17:34:00.000Z"
-    },
-    {
-      "title": "Anthropic officially sets the stage for an IPO valuing the company north of $1 trillion",
-      "link": "https://www.marketwatch.com/story/anthropic-reportedly-retracts-ipo-terms-sent-to-banks-by-mistake-exposing-jitters-over-ai-investments-6116578d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-10T17:33:00.000Z"
-    },
-    {
-      "title": "European stocks mostly higher as hot US CPI sends Treasury yields above 5%",
-      "link": "https://investinglive.com/stocks/european-stocks-mostly-higher-as-hot-us-cpi-sends-treasury-yields-above-5/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-10T17:32:18.000Z"
-    },
-    {
-      "title": "As yields run higher so does the US dollar. What next technically for the major currency pairs?",
-      "link": "https://investinglive.com/technical-analysis/as-yields-run-higher-so-does-the-us-dollar-what-next-technically-for-the-major-currency-pairs/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-10T16:46:29.000Z"
-    },
-    {
-      "title": "Bitcoin tests its 200 day moving average after hotter US CPI data",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-its-200-day-moving-average-after-hotter-us-cpi-data/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-10T16:11:22.000Z"
-    },
-    {
-      "title": "Fed's Logan: It's clear that Fed needs at least two more quarter-point rate hikes",
-      "link": "https://investinglive.com/central-banks/fed-s-logan-it-s-clear-that-fed-needs-at-least-two-more-quarter-point-rate-hikes/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T15:55:17.000Z"
-    },
-    {
-      "title": "Stocks rebounding despite higher-than-expected CPI",
-      "link": "https://investinglive.com/stocks/stocks-rebounding-despite-higher-than-expected-cpi/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-10T15:23:16.000Z"
-    },
-    {
-      "title": "US 2-year yields surge as the market realizes the US has an inflation problem",
-      "link": "https://investinglive.com/forex/us-2-year-yields-surge-as-the-market-realizes-the-us-has-an-inflation-problem/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-10T15:09:13.000Z"
-    },
-    {
-      "title": "US stocks slide, yields jump, USD higher after hotter-than-expected October CPI",
-      "link": "https://investinglive.com/technical-analysis/us-stocks-slide-yields-jump-usd-higher-after-hotter-than-expected-october-cpi/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-10T14:06:23.000Z"
-    },
-    {
       "title": "U.S. Treasury yields spike as hot CPI binds with resilient labor market",
       "link": "https://www.investing.com/news/forex-news/euro-yields-linger--at-1month-lows-as-sinking-oil-calms-inflation-jitters-5014393",
       "source": "Investing.com",
       "category": "Macro data",
       "published": "2026-11-10T13:42:22.000Z"
-    },
-    {
-      "title": "US October core CPI +0.3% vs +0.2% expected",
-      "link": "https://investinglive.com/news/us-october-core-cpi-vs-0-2-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-10T13:30:06.000Z"
-    },
-    {
-      "title": "Morning Kickstart. Oil slides as Waller puts a half-point hike in play. Markets brace for CPI",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-oil-slides-as-waller-puts-a-half-point-hike-in-play-markets-brace-for-cpi/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-10T13:21:16.000Z"
-    },
-    {
-      "title": "investingLive European news wrap: Fed's Waller floats case for 50 bps hike in December",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-fed-s-waller-floats-case-for-50-bps-hike-in-december/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-10T12:39:32.000Z"
-    },
-    {
-      "title": "Zcash remains stuck in a range as macro headwinds continue to limit the upside. What's next?",
-      "link": "https://investinglive.com/cryptocurrency/zcash-remains-stuck-in-a-range-as-macro-headwinds-continue-to-limit-the-upside-what-s-next/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-10T11:32:51.000Z"
-    },
-    {
-      "title": "Crude oil loses ground on renewed US-Iran deal hopes, but a concrete breakthrough isn't in sight yet",
-      "link": "https://investinglive.com/commodities/crude-oil-loses-ground-on-renewed-us-iran-deal-hopes-but-a-concrete-breakthrough-isn-t-in-sight-yet/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-10T10:55:50.000Z"
-    },
-    {
-      "title": "Chart of the day: Nasdaq comeback looks to have the breadth but does it have the staying power?",
-      "link": "https://investinglive.com/stocks/chart-of-the-day-nasdaq-comeback-looks-to-have-the-breadth-but-does-it-have-the-staying-power/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-10T10:41:43.000Z"
-    },
-    {
-      "title": "Bitcoin stays under pressure ahead of the US CPI report as Waller raises prospect of a 50 bps hike",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-stays-under-pressure-ahead-of-the-us-cpi-report-as-waller-raises-prospect-of-a-50-bps-hike/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-10T10:24:23.000Z"
-    },
-    {
-      "title": "Dollar steadies after losses as U.S. inflation data reinforces rate-hike bets",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-dollar-holds-losses-ahead-of-us-inflation-data-5014050",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-10T10:15:09.000Z"
-    },
-    {
-      "title": "Stock earnings pick of the week: Can Applied Materials spot cracks in the AI spending boom?",
-      "link": "https://investinglive.com/stocks/stock-earnings-pick-of-the-week-can-applied-materials-spot-cracks-in-the-ai-spending-boom/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-10T09:46:32.000Z"
     },
     {
       "title": "Sterling today: Pound slips as dollar steadies on Fed tightening bets",
@@ -201,20 +208,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-09T01:18:23.000Z"
-    },
-    {
-      "title": "US Treasury sanctions Canadian money services firms over Iran-related transactions",
-      "link": "https://www.investing.com/news/forex-news/us-treasury-sanctions-canadian-money-services-firms-over-iranrelated-transactions-5009126",
-      "source": "Investing.com",
-      "category": "Macro data",
-      "published": "2026-11-06T22:48:20.000Z"
-    },
-    {
-      "title": "Dollar sees best day since June after stellar jobs report, set for weekly gain",
-      "link": "https://www.investing.com/news/forex-news/asian-fx-mixed-as-yen-gains-on-risk-aversion-taiwan-dollar-breaks-33-amid-ai-rout-5006410",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-06T20:54:24.000Z"
     }
   ]
 }
