@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:27:39.971Z",
+  "updated": "2026-11-12T19:10:50.031Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,123 @@
   ],
   "items": [
     {
-      "title": "Wendy’s rejects a takeover offer, scales back breakfast and still sees its stock surge",
-      "link": "https://www.marketwatch.com/story/wendys-rejects-a-takeover-offer-scales-back-breakfast-and-still-sees-its-stock-surge-4e398cde?mod=mw_rss_topstories",
+      "title": "Fed's Daly: How much tightening and when is no a decision for right now",
+      "link": "https://investinglive.com/central-banks/fed-s-daly-how-much-tightening-and-when-is-no-a-decision-for-right-now/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-12T18:40:56.000Z"
+    },
+    {
+      "title": "U.S. inflation is already bad enough. It might get worse.",
+      "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Macro data",
+      "published": "2026-11-12T18:39:00.000Z"
+    },
+    {
+      "title": "Nvidia’s stock is on sale after Jensen Huang’s exit. But is the selloff just beginning?",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
-      "published": "2026-11-12T13:05:00.000Z"
+      "published": "2026-11-12T18:09:00.000Z"
+    },
+    {
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Forex",
+      "published": "2026-11-12T17:59:00.000Z"
+    },
+    {
+      "title": "Gold tumbles $112 as sellers break below the late-October/early-November low",
+      "link": "https://investinglive.com/commodities/gold-tumbles-112-as-sellers-break-below-the-late-october-early-november-low/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-12T17:58:47.000Z"
+    },
+    {
+      "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+      "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-12T17:42:00.000Z"
+    },
+    {
+      "title": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-12T17:38:00.000Z"
+    },
+    {
+      "title": "Crude oil inventories +4.657 million versus -1.109 million estimate",
+      "link": "https://investinglive.com/commodities/crude-oil-inventories-4-657-million-versus-1-109-million-estimate/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-12T17:01:07.000Z"
+    },
+    {
+      "title": "Crude oil futures trying to keep a technical ceiling in place.",
+      "link": "https://investinglive.com/commodities/crude-oil-futures-trying-to-keep-a-technical-ceiling-in-place/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-12T16:59:08.000Z"
+    },
+    {
+      "title": "Euro falls to the lowest since April 2025",
+      "link": "https://investinglive.com/forex/euro-falls-to-the-lowest-since-april-2025/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-12T16:44:35.000Z"
+    },
+    {
+      "title": "Fed's Goolsbee: Inflation has been well-above target",
+      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-inflation-has-been-well-above-target/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-12T16:21:01.000Z"
+    },
+    {
+      "title": "The US dollar moves higher as Treasury yields extend their gains",
+      "link": "https://investinglive.com/technical-analysis/the-us-dollar-moves-higher-as-treasury-yields-extend-their-gains/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-12T16:03:51.000Z"
+    },
+    {
+      "title": "As market digest the Nvidia fallout, what has the fallout meant for the Nasdaq composite/Nasdaq 100 indices?",
+      "link": "https://investinglive.com/stocks/as-market-digest-the-nvidia-fallout-what-has-the-fallout-meant-for-the-nasdaq-composite-nasdaq-100-indices/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-12T15:19:16.000Z"
+    },
+    {
+      "title": "Is dollar finally ready to break out? BCA weighs in",
+      "link": "https://www.investing.com/news/forex-news/is-dollar-finally-ready-to-break-out-bca-weighs-in-5022178",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-12T14:21:37.000Z"
+    },
+    {
+      "title": "Fed's Hammack: We need to move to restrictive mon pol to lower inflation",
+      "link": "https://investinglive.com/central-banks/fed-s-hammack-we-need-to-move-to-restrictive-mon-pol-to-lower-inflation/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-12T13:47:21.000Z"
+    },
+    {
+      "title": "US weekly initial jobless claims 200K vs 195K expected",
+      "link": "https://investinglive.com/news/us-weekly-initial-jobless-claims-200k-vs-195k-expected/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-12T13:30:12.000Z"
+    },
+    {
+      "title": "Morning Kickstart: Yields climb as Nvidia slides below key support. USD mixed.",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-yields-climb-as-nvidia-slides-below-key-support-usd-mixed/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-12T13:21:43.000Z"
     },
     {
       "title": "Treasury yields hold near 2-week highs as traders await next signal",
@@ -19,13 +131,6 @@
       "source": "Investing.com",
       "category": "Macro data",
       "published": "2026-11-12T13:01:31.000Z"
-    },
-    {
-      "title": "How the U.S. government’s equity holdings have surged during Trump’s second term — in one chart",
-      "link": "https://www.marketwatch.com/story/how-the-u-s-governments-equity-holdings-have-surged-during-trumps-second-term-in-one-chart-b598c369?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-12T13:00:00.000Z"
     },
     {
       "title": "investingLive European session wrap: Gold stumbles, equities mixed as Nvidia drags US futures down",
@@ -40,13 +145,6 @@
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-12T11:51:39.000Z"
-    },
-    {
-      "title": "Tech stocks may soon enjoy a ‘violent bounce’ — but one strategist warns investors not to take the bait",
-      "link": "https://www.marketwatch.com/story/tech-stocks-may-soon-enjoy-a-violent-bounce-but-one-strategist-warns-investors-not-to-take-the-bait-1a41f9c4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-12T11:34:00.000Z"
     },
     {
       "title": "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
@@ -77,104 +175,6 @@
       "published": "2026-11-12T10:14:10.000Z"
     },
     {
-      "title": "Chart of the day: USD/JPY nears 160.00 as technical warning signs raise Japan intervention risks",
-      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-usd-jpy-nears-160-00-as-technical-warning-signs-raise-japan-intervention-risks/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-12T10:11:07.000Z"
-    },
-    {
-      "title": "Nvidia’s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-12T10:07:00.000Z"
-    },
-    {
-      "title": "Bitcoin consolidates near recent lows as hawkish Fed repricing weighs on the crypto market",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-consolidates-near-recent-lows-as-hawkish-fed-repricing-weighs-on-the-crypto-market/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T09:41:23.000Z"
-    },
-    {
-      "title": "Gold erases post-midterms gains as higher real yields and US dollar hurt. What's next?",
-      "link": "https://investinglive.com/commodities/gold-erases-post-midterms-gains-as-higher-real-yields-and-us-dollar-hurt-what-s-next/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-12T08:34:16.000Z"
-    },
-    {
-      "title": "European stock market open: DAX pushes to fresh record highs as Europe defies Wall Street jitters",
-      "link": "https://investinglive.com/stocks/european-stock-market-open-dax-pushes-to-fresh-record-highs-as-europe-defies-wall-street-jitters/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-12T08:23:15.000Z"
-    },
-    {
-      "title": "Gold price faces a key test as $4,000 breaks and weekly support beckons",
-      "link": "https://investinglive.com/commodities/gold-price-faces-a-key-test-as-4-000-breaks-and-weekly-support-beckons/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-12T08:08:13.000Z"
-    },
-    {
-      "title": "UK September GDP beats expectations as resilient growth keeps BOE December rate hike on track",
-      "link": "https://investinglive.com/news/uk-september-gdp-beats-expectations-as-resilient-growth-keeps-boe-december-rate-hike-on-track/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T07:00:41.000Z"
-    },
-    {
-      "title": "UK Q3 GDP meets estimates as resilient growth gives BOE more room to tackle inflation",
-      "link": "https://investinglive.com/news/uk-q3-gdp-meets-estimates-as-resilient-growth-gives-boe-more-room-to-tackle-inflation/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T07:00:23.000Z"
-    },
-    {
-      "title": "Nasdaq futures are under pressure. Is it too late to short?",
-      "link": "https://investinglive.com/technical-analysis/nasdaq-futures-are-under-pressure-is-it-too-late-to-short/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-12T06:25:25.000Z"
-    },
-    {
-      "title": "BOJ policymaker Asada urges caution on further rate hikes even as December move remains firmly in play",
-      "link": "https://investinglive.com/central-banks/boj-policymaker-asada-urges-caution-on-further-rate-hikes-even-as-december-move-remains-firmly-in-play/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T06:22:17.000Z"
-    },
-    {
-      "title": "AUD/USD faces a make-or-break test as dollar bulls turn up the heat",
-      "link": "https://investinglive.com/forex/aud-usd-faces-a-make-or-break-test-as-dollar-bulls-turn-up-the-heat/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-12T06:02:02.000Z"
-    },
-    {
-      "title": "Nvidia stock plunges 8.6%, but AMD and Broadcom rally. Which chip stocks are worth buying?",
-      "link": "https://investinglive.com/stocks/nvidia-stock-plunges-8-6-but-amd-and-broadcom-rally-which-chip-stocks-are-worth-buying/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-12T05:18:09.000Z"
-    },
-    {
-      "title": "Heads up: UK September GDP in focus but will weak growth really stop the BOE from hiking again?",
-      "link": "https://investinglive.com/news/heads-up-uk-september-gdp-in-focus-but-will-weak-growth-really-stop-the-boe-from-hiking-again/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T05:14:16.000Z"
-    },
-    {
-      "title": "CBA’s Chambers sees room for higher US 10-year yields despite the slide in oil prices",
-      "link": "https://investinglive.com/stocks/cba-s-chambers-sees-room-for-higher-us-10-year-yields-despite-the-slide-in-oil-prices/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-12T03:09:38.000Z"
-    },
-    {
       "title": "Dollar extends surge on raised Fed rate hike expectations, hits over 19-month high",
       "link": "https://www.investing.com/news/forex-news/asian-fx-steadies-after-falling-on-hot-us-cpi-yen-near-6wk-low-5017608",
       "source": "Investing.com",
@@ -201,13 +201,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-11T13:16:25.000Z"
-    },
-    {
-      "title": "INR/USD hits 6-month high on strong inflows",
-      "link": "https://www.investing.com/news/forex-news/inrusd-hits-6month-high-on-strong-inflows-93CH-5018390",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-11T11:25:47.000Z"
     }
   ]
 }
