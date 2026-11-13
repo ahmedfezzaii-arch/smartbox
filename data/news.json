@@ -1,11 +1,137 @@
 {
-  "updated": "2026-11-13T07:30:37.342Z",
+  "updated": "2026-11-13T13:24:40.046Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Nasdaq's suckers' rally is approaching a key resistance amid hawkish Fed bets, US-Iran tensions",
+      "link": "https://investinglive.com/stocks/nasdaq-s-suckers-rally-is-approaching-a-key-resistance-amid-hawkish-fed-bets-us-iran-tensions/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-13T12:58:28.000Z"
+    },
+    {
+      "title": "investingLive European session wrap: Wall Street eyes a rebound but rising Treasury yields keep traders on edge",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-wall-street-eyes-a-rebound-but-rising-treasury-yields-keep-traders-on-edge/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-13T12:46:51.000Z"
+    },
+    {
+      "title": "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signals",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-hit-multiweek-highs-as-hawkish-fed-shatters-global-bond-rally-5024281",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-13T12:36:20.000Z"
+    },
+    {
+      "title": "Microsoft stock slumps on outage that includes the Copilot tool it has been heavily promoting",
+      "link": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-13T12:14:00.000Z"
+    },
+    {
+      "title": "How have interest rate expectations changed after this week's events?",
+      "link": "https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-8/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-13T12:01:49.000Z"
+    },
+    {
+      "title": "Profit surprises are normalizing — and that may signal a healthier stock market, say Citi strategists",
+      "link": "https://www.marketwatch.com/story/profit-surprises-are-normalizing-and-that-may-signal-a-healthier-stock-market-say-citi-strategists-d8cce7c2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-13T11:41:00.000Z"
+    },
+    {
+      "title": "Solana remains under pressure amid hawkish Fed bets and renewed US-Iran tensions. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/solana-remains-under-pressure-amid-hawkish-fed-bets-and-renewed-us-iran-tensions-what-s-next/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-13T11:20:18.000Z"
+    },
+    {
+      "title": "Wall Street steadies despite Nvidia drama but dip buyers are still walking a tight rope",
+      "link": "https://investinglive.com/stocks/wall-street-steadies-despite-nvidia-drama-but-dip-buyers-are-still-walking-a-tight-rope/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-13T11:17:22.000Z"
+    },
+    {
+      "title": "Dollar bulls stampede to best week Since Sept; Yen teeters near 160",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-13T10:44:06.000Z"
+    },
+    {
+      "title": "Crude oil jumps as escalation risks increase after Trump says the US doesn't need Iran deal",
+      "link": "https://investinglive.com/commodities/crude-oil-jumps-as-escalation-risks-increase-after-trump-says-the-us-doesn-t-need-iran-deal/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-13T10:41:05.000Z"
+    },
+    {
+      "title": "Earnings growth is set to peter out — but not the bull market, says Goldman Sachs. Here’s what the firm recommends.",
+      "link": "https://www.marketwatch.com/story/earnings-growth-is-set-to-peter-out-but-not-the-bull-market-says-goldman-sachs-heres-what-the-firm-recommends-bf409a6d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-13T10:14:00.000Z"
+    },
+    {
+      "title": "Eurozone Q3 GDP unchanged in second estimate as uneven growth clouds the outlook",
+      "link": "https://investinglive.com/news/eurozone-q3-gdp-unchanged-in-second-estimate-as-uneven-growth-clouds-the-outlook/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-13T10:00:16.000Z"
+    },
+    {
+      "title": "The macro backdrop remains negative for Ethereum as Trump's Iran remarks fuel renewed risk aversion",
+      "link": "https://investinglive.com/cryptocurrency/the-macro-backdrop-remains-negative-for-ethereum-as-trump-s-iran-remarks-fuel-renewed-risk-aversion/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-13T09:18:58.000Z"
+    },
+    {
+      "title": "Sterling today: Pound steady as hawkish Fed keeps dollar bid",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-hawkish-fed-keeps-dollar-bid-5024553",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-13T09:08:09.000Z"
+    },
+    {
+      "title": "European stock market open: Stocks ease slightly as the rally takes a breather",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-ease-slightly-as-the-rally-takes-a-breather/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-13T08:29:49.000Z"
+    },
+    {
+      "title": "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal in jeopardy",
+      "link": "https://investinglive.com/commodities/higher-real-yields-and-stronger-us-dollar-weigh-on-gold-as-trump-puts-iran-deal-in-jeopardy/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-13T08:27:07.000Z"
+    },
+    {
+      "title": "Spain inflation remains stubborn in October, keeping ECB rate hike expectations firmly alive",
+      "link": "https://investinglive.com/news/spain-inflation-remains-stubborn-in-october-keeping-ecb-rate-hike-expectations-firmly-alive/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-13T08:00:18.000Z"
+    },
+    {
+      "title": "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive",
+      "link": "https://investinglive.com/news/france-october-inflation-accelerates-as-energy-prices-surge-keeping-ecb-rate-hike-bets-alive/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-13T07:47:27.000Z"
+    },
     {
       "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level",
       "link": "https://investinglive.com/forex/japan-prime-minister-takaichi-fires-another-verbal-warning-as-usd-jpy-flirts-with-the-160-level/",
@@ -35,13 +161,6 @@
       "published": "2026-11-13T03:36:20.000Z"
     },
     {
-      "title": "Dollar near 19-mth high on rate hike bets; yen back on intervention watch",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-13T03:25:27.000Z"
-    },
-    {
       "title": "Bitcoin dipped under $70K, first time since August",
       "link": "https://investinglive.com/cryptocurrency/bitcoin-dipped-under-70k-first-time-since-august/",
       "source": "investingLive",
@@ -61,104 +180,6 @@
       "source": "investingLive",
       "category": "Commodities",
       "published": "2026-11-13T02:49:17.000Z"
-    },
-    {
-      "title": "Anthropic IPO six times oversubscribed: what retail investors can realistically expect",
-      "link": "https://investinglive.com/stocks/anthropic-ipo-six-times-oversubscribed-what-retail-investors-can-realistically-expect/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-13T02:39:52.000Z"
-    },
-    {
-      "title": "Gold set for $3.3bn of index fund buying in January as rebalancing flips in its favour",
-      "link": "https://investinglive.com/commodities/gold-set-for-3-3bn-of-index-fund-buying-in-january-as-rebalancing-flips-in-its-favour/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-13T01:22:37.000Z"
-    },
-    {
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7152 (vs. estimate at 6.6756)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7152-vs-estimate-at-6-6756/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-13T01:15:30.000Z"
-    },
-    {
-      "title": "Japan’s Katayama warns of one-sided yen moves near 160, will coordinate with US Treasury",
-      "link": "https://investinglive.com/news/japan-s-katayama-warns-of-one-sided-yen-moves-near-160-will-coordinate-with-us-treasury/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-13T00:46:36.000Z"
-    },
-    {
-      "title": "Barclays sees oil risks skewed higher with Middle East flows still 15% below pre-war",
-      "link": "https://investinglive.com/commodities/barclays-sees-oil-risks-skewed-higher-with-middle-east-flows-still-15-below-pre-war/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-13T00:27:25.000Z"
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6756 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6756-reuters-estimate-0/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-13T00:24:23.000Z"
-    },
-    {
-      "title": "Fed’s Williams says inflation stubbornly high and Fed still has work to do on policy",
-      "link": "https://investinglive.com/central-banks/fed-s-williams-says-inflation-stubbornly-high-and-fed-still-has-work-to-do-on-policy/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-13T00:06:28.000Z"
-    },
-    {
-      "title": "US Treasury bought yen in July, its first intervention since 1998, as yen nears 160 again",
-      "link": "https://investinglive.com/central-banks/us-treasury-bought-yen-in-july-its-first-intervention-since-1998-as-yen-nears-160-again/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-12T23:43:48.000Z"
-    },
-    {
-      "title": "BlackRock sees gold support intact despite near 30% drop from record, expects milder gains",
-      "link": "https://investinglive.com/commodities/blackrock-sees-gold-support-intact-despite-near-30-drop-from-record-expects-milder-gains/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-12T23:12:29.000Z"
-    },
-    {
-      "title": "UBS sees no RBA cuts until late 2027 as AI boom fuels inflation, growth slowing to 1.4%",
-      "link": "https://investinglive.com/central-banks/ubs-sees-no-rba-cuts-until-late-2027-as-ai-boom-fuels-inflation-growth-slowing-to-1-4/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T22:53:32.000Z"
-    },
-    {
-      "title": "Anthropic IPO targets around $1 trillion valuation, half the $2 trillion once whispered",
-      "link": "https://investinglive.com/stocks/anthropic-ipo-targets-around-1-trillion-valuation-half-the-2-trillion-once-whispered/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-12T22:37:13.000Z"
-    },
-    {
-      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-      "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Central banks",
-      "published": "2026-11-12T22:16:00.000Z"
-    },
-    {
-      "title": "The 10 best stocks for a year-end momentum trade",
-      "link": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-12T21:50:00.000Z"
-    },
-    {
-      "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-12T21:08:00.000Z"
     },
     {
       "title": "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
@@ -187,20 +208,6 @@
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-12T10:14:10.000Z"
-    },
-    {
-      "title": "Dollar extends surge on raised Fed rate hike expectations, hits over 19-month high",
-      "link": "https://www.investing.com/news/forex-news/asian-fx-steadies-after-falling-on-hot-us-cpi-yen-near-6wk-low-5017608",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-11T22:22:54.000Z"
-    },
-    {
-      "title": "A contrarian ECB rate bet targets 2.5% deposit rate through mid-March",
-      "link": "https://www.investing.com/news/forex-news/a-contrarian-ecb-rate-bet-targets-25-deposit-rate-through-midmarch-93CH-5019580",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-11T16:43:02.000Z"
     }
   ]
 }
