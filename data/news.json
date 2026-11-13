@@ -1,11 +1,88 @@
 {
-  "updated": "2026-11-13T01:23:42.390Z",
+  "updated": "2026-11-13T07:30:37.342Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Japan prime minister Takaichi fires another verbal warning as USD/JPY flirts with the 160 level",
+      "link": "https://investinglive.com/forex/japan-prime-minister-takaichi-fires-another-verbal-warning-as-usd-jpy-flirts-with-the-160-level/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-13T05:17:01.000Z"
+    },
+    {
+      "title": "US bond market cracks resurface as higher for longer fears return to haunt Wall Street",
+      "link": "https://investinglive.com/news/us-bond-market-cracks-resurface-as-higher-for-longer-fears-return-to-haunt-wall-street/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-13T04:52:25.000Z"
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-fed-hike-bets-ripple-through-asia/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-13T04:26:00.000Z"
+    },
+    {
+      "title": "Asian stocks steady as Nikkei gains 1.4%, Hang Seng slips on Nvidia leadership fallout",
+      "link": "https://investinglive.com/stock-market-update/asian-stocks-steady-as-nikkei-gains-1-4-hang-seng-slips-on-nvidia-leadership-fallout/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-13T03:36:20.000Z"
+    },
+    {
+      "title": "Dollar near 19-mth high on rate hike bets; yen back on intervention watch",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-13T03:25:27.000Z"
+    },
+    {
+      "title": "Bitcoin dipped under $70K, first time since August",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-dipped-under-70k-first-time-since-august/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-13T03:03:46.000Z"
+    },
+    {
+      "title": "Japanese yen tests 160 again, drawing intervention threats",
+      "link": "https://www.investing.com/news/forex-news/japanese-yen-tests-160-again-drawing-intervention-threats-5023989",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-13T02:55:28.000Z"
+    },
+    {
+      "title": "Iran’s Guards claim strike on US radar in Bahrain, warn firms over Hormuz oil trade",
+      "link": "https://investinglive.com/commodities/iran-s-guards-claim-strike-on-us-radar-in-bahrain-warn-firms-over-hormuz-oil-trade/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-13T02:49:17.000Z"
+    },
+    {
+      "title": "Anthropic IPO six times oversubscribed: what retail investors can realistically expect",
+      "link": "https://investinglive.com/stocks/anthropic-ipo-six-times-oversubscribed-what-retail-investors-can-realistically-expect/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-13T02:39:52.000Z"
+    },
+    {
+      "title": "Gold set for $3.3bn of index fund buying in January as rebalancing flips in its favour",
+      "link": "https://investinglive.com/commodities/gold-set-for-3-3bn-of-index-fund-buying-in-january-as-rebalancing-flips-in-its-favour/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-13T01:22:37.000Z"
+    },
+    {
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7152 (vs. estimate at 6.6756)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7152-vs-estimate-at-6-6756/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-13T01:15:30.000Z"
+    },
     {
       "title": "Japan’s Katayama warns of one-sided yen moves near 160, will coordinate with US Treasury",
       "link": "https://investinglive.com/news/japan-s-katayama-warns-of-one-sided-yen-moves-near-160-will-coordinate-with-us-treasury/",
@@ -77,13 +154,6 @@
       "published": "2026-11-12T21:50:00.000Z"
     },
     {
-      "title": "NZ manufacturing PMI eases to 54.9 in October but extends expansion run to 16 months",
-      "link": "https://investinglive.com/news/nz-manufacturing-pmi-eases-to-54-9-in-october-but-extends-expansion-run-to-16-months/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-12T21:43:34.000Z"
-    },
-    {
       "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
       "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -91,67 +161,11 @@
       "published": "2026-11-12T21:08:00.000Z"
     },
     {
-      "title": "Economic and event calendar in Asia Friday, November 13, 2026 - NY Fed's Williams on the agenda",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-friday-november-13-2026-ny-fed-s-williams-on-the-agenda/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T21:03:40.000Z"
-    },
-    {
       "title": "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
       "link": "https://www.investing.com/news/forex-news/asia-fx-holds-losses-as-dollar-hits-19mth-high-yen-nears-160-5020289",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-12T20:53:38.000Z"
-    },
-    {
-      "title": "Oil prices rise after Iran reports strikes",
-      "link": "https://investinglive.com/news/oil-prices-rise-after-iran-reports-strikes/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-12T19:51:36.000Z"
-    },
-    {
-      "title": "Fed's Daly: How much tightening and when is no a decision for right now",
-      "link": "https://investinglive.com/central-banks/fed-s-daly-how-much-tightening-and-when-is-no-a-decision-for-right-now/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T18:40:56.000Z"
-    },
-    {
-      "title": "Gold tumbles $112 as sellers break below the late-October/early-November low",
-      "link": "https://investinglive.com/commodities/gold-tumbles-112-as-sellers-break-below-the-late-october-early-november-low/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-12T17:58:47.000Z"
-    },
-    {
-      "title": "Crude oil inventories +4.657 million versus -1.109 million estimate",
-      "link": "https://investinglive.com/commodities/crude-oil-inventories-4-657-million-versus-1-109-million-estimate/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-12T17:01:07.000Z"
-    },
-    {
-      "title": "Crude oil futures trying to keep a technical ceiling in place.",
-      "link": "https://investinglive.com/commodities/crude-oil-futures-trying-to-keep-a-technical-ceiling-in-place/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-12T16:59:08.000Z"
-    },
-    {
-      "title": "Euro falls to the lowest since April 2025",
-      "link": "https://investinglive.com/forex/euro-falls-to-the-lowest-since-april-2025/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-12T16:44:35.000Z"
-    },
-    {
-      "title": "Fed's Goolsbee: Inflation has been well-above target",
-      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-inflation-has-been-well-above-target/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T16:21:01.000Z"
     },
     {
       "title": "Is dollar finally ready to break out? BCA weighs in",
@@ -187,20 +201,6 @@
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-11T16:43:02.000Z"
-    },
-    {
-      "title": "Global bonds reel as hot U.S. CPI and hawkish Fed revive 50-bp hike fears",
-      "link": "https://www.investing.com/news/forex-news/global-bonds-fall-as-hot-us-cpi-and-fed-rhetoric-stoke-fears-of-50bps-hike-5018037",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-11T13:34:47.000Z"
-    },
-    {
-      "title": "BofA: Retail yen selling rises but offset by foreign inflows",
-      "link": "https://www.investing.com/news/forex-news/bofa-retail-yen-selling-rises-but-offset-by-foreign-inflows-93CH-5018832",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-11T13:16:25.000Z"
     }
   ]
 }
