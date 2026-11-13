@@ -1,11 +1,116 @@
 {
-  "updated": "2026-11-12T19:10:50.031Z",
+  "updated": "2026-11-13T01:23:42.390Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Japan’s Katayama warns of one-sided yen moves near 160, will coordinate with US Treasury",
+      "link": "https://investinglive.com/news/japan-s-katayama-warns-of-one-sided-yen-moves-near-160-will-coordinate-with-us-treasury/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-13T00:46:36.000Z"
+    },
+    {
+      "title": "Barclays sees oil risks skewed higher with Middle East flows still 15% below pre-war",
+      "link": "https://investinglive.com/commodities/barclays-sees-oil-risks-skewed-higher-with-middle-east-flows-still-15-below-pre-war/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-13T00:27:25.000Z"
+    },
+    {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6756 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6756-reuters-estimate-0/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-13T00:24:23.000Z"
+    },
+    {
+      "title": "Fed’s Williams says inflation stubbornly high and Fed still has work to do on policy",
+      "link": "https://investinglive.com/central-banks/fed-s-williams-says-inflation-stubbornly-high-and-fed-still-has-work-to-do-on-policy/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-13T00:06:28.000Z"
+    },
+    {
+      "title": "US Treasury bought yen in July, its first intervention since 1998, as yen nears 160 again",
+      "link": "https://investinglive.com/central-banks/us-treasury-bought-yen-in-july-its-first-intervention-since-1998-as-yen-nears-160-again/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-12T23:43:48.000Z"
+    },
+    {
+      "title": "BlackRock sees gold support intact despite near 30% drop from record, expects milder gains",
+      "link": "https://investinglive.com/commodities/blackrock-sees-gold-support-intact-despite-near-30-drop-from-record-expects-milder-gains/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-12T23:12:29.000Z"
+    },
+    {
+      "title": "UBS sees no RBA cuts until late 2027 as AI boom fuels inflation, growth slowing to 1.4%",
+      "link": "https://investinglive.com/central-banks/ubs-sees-no-rba-cuts-until-late-2027-as-ai-boom-fuels-inflation-growth-slowing-to-1-4/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-12T22:53:32.000Z"
+    },
+    {
+      "title": "Anthropic IPO targets around $1 trillion valuation, half the $2 trillion once whispered",
+      "link": "https://investinglive.com/stocks/anthropic-ipo-targets-around-1-trillion-valuation-half-the-2-trillion-once-whispered/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-12T22:37:13.000Z"
+    },
+    {
+      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+      "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Central banks",
+      "published": "2026-11-12T22:16:00.000Z"
+    },
+    {
+      "title": "The 10 best stocks for a year-end momentum trade",
+      "link": "https://www.marketwatch.com/story/the-10-best-stocks-for-a-year-end-momentum-trade-8d4cf8f7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-12T21:50:00.000Z"
+    },
+    {
+      "title": "NZ manufacturing PMI eases to 54.9 in October but extends expansion run to 16 months",
+      "link": "https://investinglive.com/news/nz-manufacturing-pmi-eases-to-54-9-in-october-but-extends-expansion-run-to-16-months/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-12T21:43:34.000Z"
+    },
+    {
+      "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-12T21:08:00.000Z"
+    },
+    {
+      "title": "Economic and event calendar in Asia Friday, November 13, 2026 - NY Fed's Williams on the agenda",
+      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-friday-november-13-2026-ny-fed-s-williams-on-the-agenda/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-12T21:03:40.000Z"
+    },
+    {
+      "title": "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-holds-losses-as-dollar-hits-19mth-high-yen-nears-160-5020289",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-12T20:53:38.000Z"
+    },
+    {
+      "title": "Oil prices rise after Iran reports strikes",
+      "link": "https://investinglive.com/news/oil-prices-rise-after-iran-reports-strikes/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-12T19:51:36.000Z"
+    },
     {
       "title": "Fed's Daly: How much tightening and when is no a decision for right now",
       "link": "https://investinglive.com/central-banks/fed-s-daly-how-much-tightening-and-when-is-no-a-decision-for-right-now/",
@@ -14,46 +119,11 @@
       "published": "2026-11-12T18:40:56.000Z"
     },
     {
-      "title": "U.S. inflation is already bad enough. It might get worse.",
-      "link": "https://www.marketwatch.com/story/u-s-inflation-is-already-bad-enough-it-might-get-worse-bae54da9?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Macro data",
-      "published": "2026-11-12T18:39:00.000Z"
-    },
-    {
-      "title": "Nvidia’s stock is on sale after Jensen Huang’s exit. But is the selloff just beginning?",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-sale-after-jensen-huangs-exit-but-is-the-selloff-just-beginning-84121513?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-12T18:09:00.000Z"
-    },
-    {
-      "title": "The trillion-dollar mistake corporate America is making about retirement",
-      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Forex",
-      "published": "2026-11-12T17:59:00.000Z"
-    },
-    {
       "title": "Gold tumbles $112 as sellers break below the late-October/early-November low",
       "link": "https://investinglive.com/commodities/gold-tumbles-112-as-sellers-break-below-the-late-october-early-november-low/",
       "source": "investingLive",
       "category": "Commodities",
       "published": "2026-11-12T17:58:47.000Z"
-    },
-    {
-      "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
-      "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-12T17:42:00.000Z"
-    },
-    {
-      "title": "The S&P 500 is shrugging off Nvidia’s selloff. Here’s what’s keeping the rest of the market afloat.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-12T17:38:00.000Z"
     },
     {
       "title": "Crude oil inventories +4.657 million versus -1.109 million estimate",
@@ -84,20 +154,6 @@
       "published": "2026-11-12T16:21:01.000Z"
     },
     {
-      "title": "The US dollar moves higher as Treasury yields extend their gains",
-      "link": "https://investinglive.com/technical-analysis/the-us-dollar-moves-higher-as-treasury-yields-extend-their-gains/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-12T16:03:51.000Z"
-    },
-    {
-      "title": "As market digest the Nvidia fallout, what has the fallout meant for the Nasdaq composite/Nasdaq 100 indices?",
-      "link": "https://investinglive.com/stocks/as-market-digest-the-nvidia-fallout-what-has-the-fallout-meant-for-the-nasdaq-composite-nasdaq-100-indices/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-12T15:19:16.000Z"
-    },
-    {
       "title": "Is dollar finally ready to break out? BCA weighs in",
       "link": "https://www.investing.com/news/forex-news/is-dollar-finally-ready-to-break-out-bca-weighs-in-5022178",
       "source": "Investing.com",
@@ -105,67 +161,11 @@
       "published": "2026-11-12T14:21:37.000Z"
     },
     {
-      "title": "Fed's Hammack: We need to move to restrictive mon pol to lower inflation",
-      "link": "https://investinglive.com/central-banks/fed-s-hammack-we-need-to-move-to-restrictive-mon-pol-to-lower-inflation/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T13:47:21.000Z"
-    },
-    {
-      "title": "US weekly initial jobless claims 200K vs 195K expected",
-      "link": "https://investinglive.com/news/us-weekly-initial-jobless-claims-200k-vs-195k-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-12T13:30:12.000Z"
-    },
-    {
-      "title": "Morning Kickstart: Yields climb as Nvidia slides below key support. USD mixed.",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-yields-climb-as-nvidia-slides-below-key-support-usd-mixed/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-12T13:21:43.000Z"
-    },
-    {
       "title": "Treasury yields hold near 2-week highs as traders await next signal",
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-hold-near-1week-highs-investors-weigh-hawkish-fed-bets-5020470",
       "source": "Investing.com",
       "category": "Macro data",
       "published": "2026-11-12T13:01:31.000Z"
-    },
-    {
-      "title": "investingLive European session wrap: Gold stumbles, equities mixed as Nvidia drags US futures down",
-      "link": "https://investinglive.com/news/investinglive-european-fx-news-wrap-12-nov/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-12T12:43:23.000Z"
-    },
-    {
-      "title": "Zcash tumbles as hawkish Fed repricing weighs on the crypto market; focus remains on the Fed and US-Iran negotiations",
-      "link": "https://investinglive.com/cryptocurrency/zcash-tumbles-as-hawkish-fed-repricing-weighs-on-the-crypto-market-focus-remains-on-the-fed-and-us-iran-negotiations/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-12T11:51:39.000Z"
-    },
-    {
-      "title": "India October CPI inflation rises to 6.09%, food inflation accelerates to 8.94%",
-      "link": "https://investinglive.com/news/india-october-cpi-inflation-rises-to-6-09-food-inflation-accelerates-to-8-94/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-12T10:45:02.000Z"
-    },
-    {
-      "title": "Dollar scales 2025 peak on hawkish Fed bets; yen nears 160-level",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-holds-losses-as-dollar-hits-19mth-high-yen-nears-160-5020289",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-12T10:37:12.000Z"
-    },
-    {
-      "title": "Crude oil is caught between hopes of de-escalation and concerns of further escalation. What's next?",
-      "link": "https://investinglive.com/commodities/crude-oil-is-caught-between-hopes-of-de-escalation-and-concerns-of-further-escalation-what-s-next/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-12T10:22:37.000Z"
     },
     {
       "title": "Sterling today: Pound dips on hawkish Fed despite 0.7% GDP growth",
