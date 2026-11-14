@@ -1,11 +1,32 @@
 {
-  "updated": "2026-11-14T07:18:11.178Z",
+  "updated": "2026-11-14T13:06:04.412Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "These 6 battered AI stocks could bounce back big, an analyst says",
+      "link": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-14T13:00:00.000Z"
+    },
+    {
+      "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
+      "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-14T12:00:00.000Z"
+    },
+    {
+      "title": "Gold futures rose Friday, but the rally failed. What I’m watching next week",
+      "link": "https://investinglive.com/commodities/gold-futures-rose-friday-but-the-rally-failed-what-i-m-watching-next-week/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-14T07:42:55.000Z"
+    },
     {
       "title": "14 dividend stocks selected for long-term growth",
       "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
@@ -33,20 +54,6 @@
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-13T22:02:47.000Z"
-    },
-    {
-      "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
-      "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Crypto",
-      "published": "2026-11-13T21:26:00.000Z"
-    },
-    {
-      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
-      "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-13T21:10:00.000Z"
     },
     {
       "title": "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
@@ -194,13 +201,6 @@
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-13T08:29:49.000Z"
-    },
-    {
-      "title": "Higher real yields and stronger US dollar weigh on gold as Trump puts Iran deal in jeopardy",
-      "link": "https://investinglive.com/commodities/higher-real-yields-and-stronger-us-dollar-weigh-on-gold-as-trump-puts-iran-deal-in-jeopardy/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-13T08:27:07.000Z"
     },
     {
       "title": "Japanese yen tests 160 again, drawing intervention threats",
