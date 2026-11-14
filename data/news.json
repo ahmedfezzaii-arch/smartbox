@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T13:06:04.412Z",
+  "updated": "2026-11-14T18:57:36.017Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,18 +7,25 @@
   ],
   "items": [
     {
-      "title": "These 6 battered AI stocks could bounce back big, an analyst says",
-      "link": "https://www.marketwatch.com/story/these-6-battered-ai-stocks-could-bounce-back-big-an-analyst-says-e9f29c24?mod=mw_rss_topstories",
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-14T13:00:00.000Z"
+      "category": "Forex",
+      "published": "2026-11-14T17:50:00.000Z"
     },
     {
-      "title": "China’s hottest stocks these days have one thing in common: names that sound like sheep",
-      "link": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
+      "title": "Why this ‘big idea’ to fix Social Security relies on a massive stock-market gamble",
+      "link": "https://www.marketwatch.com/story/why-this-big-idea-to-fix-social-security-relies-on-a-massive-stock-market-gamble-5423f50f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
-      "published": "2026-11-14T12:00:00.000Z"
+      "published": "2026-11-14T17:50:00.000Z"
+    },
+    {
+      "title": "The scandal at Nvidia is exactly what’s wrong with the S&P 500",
+      "link": "https://www.marketwatch.com/story/the-scandal-at-nvidia-is-exactly-whats-wrong-with-the-s-p-500-7307457e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-14T17:50:00.000Z"
     },
     {
       "title": "Gold futures rose Friday, but the rally failed. What I’m watching next week",
@@ -26,27 +33,6 @@
       "source": "investingLive",
       "category": "Commodities",
       "published": "2026-11-14T07:42:55.000Z"
-    },
-    {
-      "title": "14 dividend stocks selected for long-term growth",
-      "link": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-14T01:58:00.000Z"
-    },
-    {
-      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-13T22:21:00.000Z"
-    },
-    {
-      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
-      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Commodities",
-      "published": "2026-11-13T22:04:00.000Z"
     },
     {
       "title": "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
