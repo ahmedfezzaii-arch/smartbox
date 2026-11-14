@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T19:08:52.256Z",
+  "updated": "2026-11-14T01:17:37.597Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,18 +7,74 @@
   ],
   "items": [
     {
+      "title": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-13T22:21:00.000Z"
+    },
+    {
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Commodities",
+      "published": "2026-11-13T22:04:00.000Z"
+    },
+    {
+      "title": "investingLive Americas market news wrap: Hawkish Fed worries ebb after PPI",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-hawkish-fed-worries-ebb-after-ppi/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-13T22:02:47.000Z"
+    },
+    {
+      "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+      "link": "https://www.marketwatch.com/story/bitcoin-could-fall-even-further-if-investors-cash-out-to-buy-into-the-anthropic-ipo-5a14f46a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Crypto",
+      "published": "2026-11-13T21:26:00.000Z"
+    },
+    {
+      "title": "AMD and other chip stocks slide as Wall Street rethinks the AI trade without Jensen Huang",
+      "link": "https://www.marketwatch.com/story/amd-and-other-chip-stocks-slide-as-wall-street-rethinks-the-ai-trade-without-jensen-huang-2fb74547?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-13T21:10:00.000Z"
+    },
+    {
+      "title": "The trillion-dollar mistake corporate America is making about retirement",
+      "link": "https://www.marketwatch.com/story/corporate-america-is-making-a-trillion-dollar-mistake-about-retirement-234c8996?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Forex",
+      "published": "2026-11-13T21:09:00.000Z"
+    },
+    {
+      "title": "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-13T20:41:10.000Z"
+    },
+    {
+      "title": "US stock markets slide but the selling is localized around chip names",
+      "link": "https://investinglive.com/stocks/us-stock-markets-slide-but-the-selling-is-localized-around-chip-names/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-13T19:33:45.000Z"
+    },
+    {
+      "title": "Chile peso hits 19-month low as copper drops, US rate outlook weighs",
+      "link": "https://www.investing.com/news/forex-news/chile-peso-hits-19month-low-as-copper-drops-us-rate-outlook-weighs-93CH-5026374",
+      "source": "Investing.com",
+      "category": "Commodities",
+      "published": "2026-11-13T19:30:07.000Z"
+    },
+    {
       "title": "Fed's Daly: In all likelihood, we need to raise rates",
       "link": "https://investinglive.com/central-banks/fed-s-daly-in-all-likelihood-we-need-to-raise-rates/",
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-13T17:23:46.000Z"
-    },
-    {
-      "title": "How low does Nvidia’s stock need to go before it’s a screaming bargain?",
-      "link": "https://www.marketwatch.com/story/how-low-does-nvidias-stock-need-to-go-before-its-a-screaming-bargain-c25302ed?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-13T17:07:00.000Z"
     },
     {
       "title": "Earnings week ahead: Nvidia without Jensen, Anthropic’s IPO, and the consumer meets a hiking Fed",
@@ -54,13 +110,6 @@
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-13T13:53:11.000Z"
-    },
-    {
-      "title": "U.S. dollar eyes biggest weekly gain since September as inflation boosts Fed rate",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-13T13:45:15.000Z"
     },
     {
       "title": "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signals",
@@ -154,20 +203,6 @@
       "published": "2026-11-13T08:27:07.000Z"
     },
     {
-      "title": "Spain inflation remains stubborn in October, keeping ECB rate hike expectations firmly alive",
-      "link": "https://investinglive.com/news/spain-inflation-remains-stubborn-in-october-keeping-ecb-rate-hike-expectations-firmly-alive/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-13T08:00:18.000Z"
-    },
-    {
-      "title": "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive",
-      "link": "https://investinglive.com/news/france-october-inflation-accelerates-as-energy-prices-surge-keeping-ecb-rate-hike-bets-alive/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-13T07:47:27.000Z"
-    },
-    {
       "title": "Japanese yen tests 160 again, drawing intervention threats",
       "link": "https://www.investing.com/news/forex-news/japanese-yen-tests-160-again-drawing-intervention-threats-5023989",
       "source": "Investing.com",
@@ -194,13 +229,6 @@
       "source": "Investing.com",
       "category": "Macro data",
       "published": "2026-11-12T13:01:31.000Z"
-    },
-    {
-      "title": "Sterling today: Pound dips on hawkish Fed despite 0.7% GDP growth",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-dips-on-hawkish-fed-despite-07-gdp-growth-5020808",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-12T10:14:10.000Z"
     }
   ]
 }
