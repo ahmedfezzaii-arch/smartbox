@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T15:20:16.807Z",
+  "updated": "2026-11-16T19:11:10.234Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,67 @@
   ],
   "items": [
     {
+      "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
+      "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-16T18:54:00.000Z"
+    },
+    {
+      "title": "Nvidia’s stock extends declines following harsh words from the U.S. government",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-16T18:11:00.000Z"
+    },
+    {
+      "title": "How will AI shake up the economy? Warsh says the Fed is starting to figure that out.",
+      "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Central banks",
+      "published": "2026-11-16T17:53:00.000Z"
+    },
+    {
+      "title": "Natural gas analysis with the \"perfect\" trading range",
+      "link": "https://investinglive.com/commodities/natural-gas-analysis-with-the-perfect-trading-range/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-16T17:17:24.000Z"
+    },
+    {
+      "title": "Fed’s Warsh doesn’t talk about monetary policy in a speech on AI",
+      "link": "https://investinglive.com/central-banks/fed-s-warsh-doesn-t-talk-about-monetary-policy-in-a-speech-on-ai/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-16T17:06:20.000Z"
+    },
+    {
       "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
       "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
-      "published": "2026-11-16T14:07:00.000Z"
+      "published": "2026-11-16T16:37:00.000Z"
+    },
+    {
+      "title": "Dollar rally gathers pace as Japan’s economic slump puts yen under pressure",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-16T16:26:24.000Z"
+    },
+    {
+      "title": "SpaceX widens its lead in the space race, even as a tech selloff weighs on its stock",
+      "link": "https://www.marketwatch.com/story/spacex-widens-its-lead-in-the-space-race-even-as-a-tech-selloff-weighs-on-its-stock-975f5c1f?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-16T15:59:00.000Z"
+    },
+    {
+      "title": "Forget the petro-dollar, introducing the chip-dollar",
+      "link": "https://investinglive.com/forex/forget-the-petro-dollar-introducing-the-chip-dollar/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-16T15:28:28.000Z"
     },
     {
       "title": "Goldman Sachs gets bearish on oil prices but doesn't see help for consumers",
@@ -28,13 +84,6 @@
       "published": "2026-11-16T13:45:54.000Z"
     },
     {
-      "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
-      "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Commodities",
-      "published": "2026-11-16T13:36:00.000Z"
-    },
-    {
       "title": "Canada October CPI 3.1% vs +3.2% expected",
       "link": "https://investinglive.com/news/canada-october-cpi-3-1-vs-3-2-expected/",
       "source": "investingLive",
@@ -47,13 +96,6 @@
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-16T11:06:12.000Z"
-    },
-    {
-      "title": "Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-16T10:41:15.000Z"
     },
     {
       "title": "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets",
@@ -96,34 +138,6 @@
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-16T04:06:40.000Z"
-    },
-    {
-      "title": "Goldman sees Brent at $78 by end-2027 as oil surplus returns, flags near-term upside risk",
-      "link": "https://investinglive.com/commodities/goldman-sees-brent-at-78-by-end-2027-as-oil-surplus-returns-flags-near-term-upside-risk/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-16T03:47:23.000Z"
-    },
-    {
-      "title": "China factory output slows to 4.8% in October, retail sales up just 0.4% as demand sags",
-      "link": "https://investinglive.com/news/china-factory-output-slows-to-4-8-in-october-retail-sales-up-just-0-4-as-demand-sags/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-16T03:05:56.000Z"
-    },
-    {
-      "title": "Japan economy shrinks 0.1% in Q3, first fall in 4 quarters as inflation hits households",
-      "link": "https://investinglive.com/news/japan-economy-shrinks-0-1-in-q3-first-fall-in-4-quarters-as-inflation-hits-households/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-16T02:44:54.000Z"
-    },
-    {
-      "title": "China’s October data shows the economy losing momentum on retail sales and industry output",
-      "link": "https://investinglive.com/news/china-s-october-data-shows-the-economy-losing-momentum-on-retail-sales-and-industry-output/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-16T02:09:25.000Z"
     },
     {
       "title": "Yen steady against euro and dollar after soft Japanese GDP data",
