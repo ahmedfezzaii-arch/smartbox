@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T08:59:14.077Z",
+  "updated": "2026-11-16T15:20:16.807Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,81 @@
   ],
   "items": [
     {
+      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
+      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-16T14:07:00.000Z"
+    },
+    {
+      "title": "Goldman Sachs gets bearish on oil prices but doesn't see help for consumers",
+      "link": "https://investinglive.com/commodities/goldman-sachs-gets-bearish-on-oil-prices-but-doesn-t-see-help-for-consumers/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-16T14:00:53.000Z"
+    },
+    {
+      "title": "Treasury yields pause near 1-month highs as traders brace for Fed signals",
+      "link": "https://www.investing.com/news/forex-news/eurozone-yields-stall-after-volatile-week-as-traders-brace-for-ai-megatests-5028425",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-16T13:45:54.000Z"
+    },
+    {
       "title": "Why this 40-year market veteran is making a lonely bet on a 40% stock-market crash — and $500 oil",
       "link": "https://www.marketwatch.com/story/why-this-40-year-market-veteran-is-making-a-lonely-bet-on-a-40-stock-market-crash-and-500-oil-c62aefdb?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Commodities",
-      "published": "2026-11-16T08:06:00.000Z"
+      "published": "2026-11-16T13:36:00.000Z"
+    },
+    {
+      "title": "Canada October CPI 3.1% vs +3.2% expected",
+      "link": "https://investinglive.com/news/canada-october-cpi-3-1-vs-3-2-expected/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-16T13:30:13.000Z"
+    },
+    {
+      "title": "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
+      "link": "https://investinglive.com/cryptocurrency/zcash-needs-a-dovish-fed-or-a-us-iran-breakthrough-to-reverse-the-bearish-trend/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-16T11:06:12.000Z"
+    },
+    {
+      "title": "Dollar at 19-month peaks as Japan GDP contraction pins yen in intervention zone",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-16T10:41:15.000Z"
+    },
+    {
+      "title": "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-extends-slide-as-dollar-firms-on-hawkish-fed-bets-5028808",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-16T10:14:08.000Z"
+    },
+    {
+      "title": "Crude oil remains supported amid the prolonged US-Iran standoff and risks of military escalation",
+      "link": "https://investinglive.com/commodities/crude-oil-remains-supported-amid-the-prolonged-us-iran-standoff-and-risks-of-military-escalation/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-16T10:10:56.000Z"
+    },
+    {
+      "title": "Hawkish Fed repricing and Iran tensions trigger a major Bitcoin liquidation wave",
+      "link": "https://investinglive.com/cryptocurrency/hawkish-fed-repricing-and-iran-tensions-trigger-a-major-bitcoin-liquidation-wave/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-16T09:21:02.000Z"
+    },
+    {
+      "title": "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
+      "link": "https://investinglive.com/commodities/gold-threatens-a-major-breakdown-amid-a-more-hawkish-fed-what-to-watch-next/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-16T08:30:00.000Z"
     },
     {
       "title": "Nvidia earnings could test a fragile market. Five stocks are already offering clues",
@@ -19,13 +89,6 @@
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-16T06:55:45.000Z"
-    },
-    {
-      "title": "Dollar holds near 19-mth high; yen steady after weak GDP",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-16T06:29:02.000Z"
     },
     {
       "title": "BOJ’s Takata calls for nimble hikes after 1.5% bid, says neutral rate may top estimates",
@@ -56,13 +119,6 @@
       "published": "2026-11-16T02:44:54.000Z"
     },
     {
-      "title": "Morgan Stanley goes max overweight global stocks, sees 15% S&P 500 upside on AI capex",
-      "link": "https://investinglive.com/stocks/morgan-stanley-goes-max-overweight-global-stocks-sees-15-s-p-500-upside-on-ai-capex/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-16T02:11:08.000Z"
-    },
-    {
       "title": "China’s October data shows the economy losing momentum on retail sales and industry output",
       "link": "https://investinglive.com/news/china-s-october-data-shows-the-economy-losing-momentum-on-retail-sales-and-industry-output/",
       "source": "investingLive",
@@ -70,88 +126,11 @@
       "published": "2026-11-16T02:09:25.000Z"
     },
     {
-      "title": "Oil price analysis: Sellers are losing momentum, but $86.75 remains the danger line",
-      "link": "https://investinglive.com/commodities/oil-price-analysis-sellers-are-losing-momentum-but-86-75-remains-the-danger-line/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-16T01:51:55.000Z"
-    },
-    {
-      "title": "Weekend - Bitcoin fell to four-month low near $62,000 as crypto liquidations top $2 billion",
-      "link": "https://investinglive.com/cryptocurrency/weekend-bitcoin-fell-to-four-month-low-near-62-000-as-crypto-liquidations-top-2-billion/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-16T01:49:44.000Z"
-    },
-    {
-      "title": "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
-      "link": "https://investinglive.com/commodities/gold-slips-toward-3-876-ahead-of-warsh-as-fed-speakers-line-up-behind-tighter-policy/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T01:40:19.000Z"
-    },
-    {
-      "title": "Goldman’s second gold forecast downgrade in a month turns its bear case into the base case",
-      "link": "https://investinglive.com/commodities/goldman-s-second-gold-forecast-downgrade-in-a-month-turns-its-bear-case-into-the-base-case/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-16T01:15:58.000Z"
-    },
-    {
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7141 (vs. estimate at 6.7152)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7141-vs-estimate-at-6-7152/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T01:15:27.000Z"
-    },
-    {
       "title": "Yen steady against euro and dollar after soft Japanese GDP data",
       "link": "https://www.investing.com/news/forex-news/yen-steady-against-euro-and-dollar-after-soft-japanese-gdp-data-5028268",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-16T01:12:19.000Z"
-    },
-    {
-      "title": "ICYMI: Fed’s Jefferson says inflation is the key signal for rates, with PCE still at 3.6%",
-      "link": "https://investinglive.com/central-banks/icymi-fed-s-jefferson-says-inflation-is-the-key-signal-for-rates-with-pce-still-at-3-6/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T00:53:15.000Z"
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6771 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6771-reuters-estimate/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T00:30:25.000Z"
-    },
-    {
-      "title": "Japan Q3 GDP shrinks 0.1% annualised vs +0.3% expected as exports and consumers weigh",
-      "link": "https://investinglive.com/news/japan-q3-gdp-shrinks-0-1-annualised-vs-0-3-expected-as-exports-and-consumers-weigh/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-15T23:57:57.000Z"
-    },
-    {
-      "title": "US futures open firmer as Nasdaq leads, oil slips despite Iran tanker claims: 5 things",
-      "link": "https://investinglive.com/stocks/us-futures-open-firmer-as-nasdaq-leads-oil-slips-despite-iran-tanker-claims-5-things/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-15T23:48:16.000Z"
-    },
-    {
-      "title": "ECB bond market intervention warning from Governor Knot. Can’t replace sound fiscal policy,",
-      "link": "https://investinglive.com/central-banks/ecb-bond-market-intervention-warning-from-governor-knot-can-t-replace-sound-fiscal-policy/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-15T23:22:51.000Z"
-    },
-    {
-      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-15T21:32:00.000Z"
     },
     {
       "title": "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
@@ -187,20 +166,6 @@
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-13T09:08:09.000Z"
-    },
-    {
-      "title": "Japanese yen tests 160 again, drawing intervention threats",
-      "link": "https://www.investing.com/news/forex-news/japanese-yen-tests-160-again-drawing-intervention-threats-5023989",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-13T02:55:28.000Z"
-    },
-    {
-      "title": "Dollar scales fresh 19-month peak, yen hits 160 for first time since September",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-holds-losses-as-dollar-hits-19mth-high-yen-nears-160-5020289",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-12T20:53:38.000Z"
     }
   ]
 }
