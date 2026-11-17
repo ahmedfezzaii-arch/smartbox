@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T07:34:17.173Z",
+  "updated": "2026-11-17T13:26:16.143Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,88 @@
   ],
   "items": [
     {
-      "title": "Dollar hits fresh 19-mth peak on Fed tightening bets",
+      "title": "investingLive European news wrap: Risk sentiment remains tentative amid hawkish Fed and US-Iran stalemate",
+      "link": "https://investinglive.com/news/investinglive-european-news-wrap-risk-sentiment-remains-tentative-amid-hawkish-fed-and-us-iran-stalemate/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-17T12:51:36.000Z"
+    },
+    {
+      "title": "Solana's recovery hinges on the Fed and US-Iran breakthrough as risk sentiment remains negative",
+      "link": "https://investinglive.com/cryptocurrency/solana-s-recovery-hinges-on-the-fed-and-us-iran-breakthrough-as-risk-sentiment-remains-negative/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-17T12:06:14.000Z"
+    },
+    {
+      "title": "Citi forecasts Brazilian real to weaken to 5.50 per dollar in 2027",
+      "link": "https://www.investing.com/news/forex-news/citi-forecasts-brazilian-real-to-weaken-to-550-per-dollar-in-2027-93CH-5032448",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-17T11:51:05.000Z"
+    },
+    {
+      "title": "Crude oil erases recent gains despite no change in the US-Iran situation. What's next?",
+      "link": "https://investinglive.com/commodities/crude-oil-erases-recent-gains-despite-no-change-in-the-us-iran-situation-what-s-next/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-17T11:36:39.000Z"
+    },
+    {
+      "title": "Pick the two sectors where earnings growth will accelerate — as long as the 10-year stays below this key level, say strategists",
+      "link": "https://www.marketwatch.com/story/pick-the-two-sectors-where-earnings-growth-will-accelerate-as-long-as-the-10-year-stays-below-this-key-level-say-strategists-e7c13914?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-17T10:47:00.000Z"
+    },
+    {
+      "title": "S&P 500 analysis before Nvidia's earnings tonight",
+      "link": "https://investinglive.com/technical-analysis/s-p-500-analysis-before-nvidia-s-earnings-tonight/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-17T10:33:49.000Z"
+    },
+    {
+      "title": "Dollar scales new 19-month peak on hawkish Fed bets; Yen hemmed near 160",
       "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hits-19mth-peak-on-fed-tightening-bets-5031600",
       "source": "Investing.com",
       "category": "Central banks",
-      "published": "2026-11-17T07:11:26.000Z"
+      "published": "2026-11-17T10:31:31.000Z"
+    },
+    {
+      "title": "Ethereum's bearish trend could extend further without a dovish Fed pivot or a US-Iran breakthrough",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-s-bearish-trend-could-extend-further-without-a-dovish-fed-pivot-or-a-us-iran-breakthrough/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-17T10:29:44.000Z"
+    },
+    {
+      "title": "Tepper and Loeb among fund managers piling into Nvidia and other megacap tech stocks on eve of October drawdown",
+      "link": "https://www.marketwatch.com/story/tepper-loeb-among-fund-managers-piling-into-nvidia-and-other-megacap-tech-on-the-eve-of-october-drawdown-de45f572?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-17T10:28:00.000Z"
+    },
+    {
+      "title": "Gold consolidates as growth concerns gain traction amid a falling stock market. What's next?",
+      "link": "https://investinglive.com/commodities/gold-consolidates-as-growth-concerns-gain-traction-amid-a-falling-stock-market-what-s-next/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-17T10:24:05.000Z"
+    },
+    {
+      "title": "Sterling today: Pound set to snap slide as dollar pauses; UK jobless dips to 4.6%",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-set-to-snap-slide-as-dollar-pauses-uk-jobless-dips-to-46-5032079",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-17T09:22:09.000Z"
+    },
+    {
+      "title": "Euro yields hold near 1-month peaks on relentless U.S. Treasury pull",
+      "link": "https://www.investing.com/news/forex-news/euro-yields-hold-near-1month-peaks-on-relentless-us-treasury-pull-5031817",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-17T09:00:34.000Z"
     },
     {
       "title": "UK September ILO unemployment rate 4.6% vs 4.7% expected",
@@ -84,95 +161,11 @@
       "published": "2026-11-17T01:43:24.000Z"
     },
     {
-      "title": "PBOC sets USD/ CNY central rate at 6.7132 (vs. estimate at 6.6715)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-vs-estimate-at-6-6715/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-17T01:15:38.000Z"
-    },
-    {
-      "title": "Gold hits 1-year low near $3,830, on course for worst year since 2015 as yields bite",
-      "link": "https://investinglive.com/commodities/gold-hits-1-year-low-near-3-830-on-course-for-worst-year-since-2015-as-yields-bite/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-17T00:51:57.000Z"
-    },
-    {
-      "title": "RBA minutes: 6 members saw rates “not clearly sufficient”, 3 warned of sharper downturn",
-      "link": "https://investinglive.com/central-banks/rba-minutes-6-members-saw-rates-not-clearly-sufficient-3-warned-of-sharper-downturn/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-17T00:36:04.000Z"
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6715 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6715-reuters-estimate/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-17T00:30:16.000Z"
-    },
-    {
-      "title": "China resumes crude stockpiling, leaving room for fuel exports at 3 times prewar margins",
-      "link": "https://investinglive.com/commodities/china-resumes-crude-stockpiling-leaving-room-for-fuel-exports-at-3-times-prewar-margins/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-16T23:44:58.000Z"
-    },
-    {
-      "title": "RBA’s Bullock says inflation risks still skewed to upside ahead of 6-3 vote minutes",
-      "link": "https://investinglive.com/central-banks/rba-s-bullock-says-inflation-risks-still-skewed-to-upside-ahead-of-6-3-vote-minutes/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T23:28:49.000Z"
-    },
-    {
-      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
-      "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-16T23:28:00.000Z"
-    },
-    {
       "title": "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets",
       "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-16T23:17:29.000Z"
-    },
-    {
-      "title": "BlackRock keeps 5-year US equity overweight on AI conviction despite tactical caution",
-      "link": "https://investinglive.com/stocks/blackrock-keeps-5-year-us-equity-overweight-on-ai-conviction-despite-tactical-caution/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-16T22:51:05.000Z"
-    },
-    {
-      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
-      "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Forex",
-      "published": "2026-11-16T22:46:00.000Z"
-    },
-    {
-      "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
-      "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-16T22:33:00.000Z"
-    },
-    {
-      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
-      "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-16T22:21:00.000Z"
-    },
-    {
-      "title": "Goldman Sachs: chip stocks near 3-year valuation low even as demand outruns supply",
-      "link": "https://investinglive.com/stocks/goldman-sachs-chip-stocks-near-3-year-valuation-low-even-as-demand-outruns-supply/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-16T22:16:55.000Z"
     },
     {
       "title": "Treasury yields pause near 1-month highs as traders brace for Fed signals",
@@ -194,34 +187,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-16T01:12:19.000Z"
-    },
-    {
-      "title": "U.S. dollar surges to biggest weekly gain since September on Fed hike certainty",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-yen-intervention-in-focus-as-rate-hike-bets-put-dollar-near-19mth-high-5024024",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-13T20:41:10.000Z"
-    },
-    {
-      "title": "Chile peso hits 19-month low as copper drops, US rate outlook weighs",
-      "link": "https://www.investing.com/news/forex-news/chile-peso-hits-19month-low-as-copper-drops-us-rate-outlook-weighs-93CH-5026374",
-      "source": "Investing.com",
-      "category": "Commodities",
-      "published": "2026-11-13T19:30:07.000Z"
-    },
-    {
-      "title": "Canadian dollar holds near one-month low as U.S. producer inflation keeps Fed bets",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-holds-near-onemonth-low-as-us-producer-inflation-keeps-fed-bets-5025909",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-13T14:38:09.000Z"
-    },
-    {
-      "title": "Treasury yields log steepest weekly spikes since April 2025 on hawkish Fed signals",
-      "link": "https://www.investing.com/news/forex-news/euro-yields-hit-multiweek-highs-as-hawkish-fed-shatters-global-bond-rally-5024281",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-13T13:39:09.000Z"
     }
   ]
 }
