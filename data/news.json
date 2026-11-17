@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T19:11:10.234Z",
+  "updated": "2026-11-17T01:27:19.486Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,25 +7,130 @@
   ],
   "items": [
     {
-      "title": "Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies",
-      "link": "https://www.marketwatch.com/story/micron-amd-and-other-ai-stocks-fall-as-the-chip-sectors-selloff-intensifies-48e38bdf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-16T18:54:00.000Z"
+      "title": "Gold hits 1-year low near $3,830, on course for worst year since 2015 as yields bite",
+      "link": "https://investinglive.com/commodities/gold-hits-1-year-low-near-3-830-on-course-for-worst-year-since-2015-as-yields-bite/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-17T00:51:57.000Z"
     },
     {
-      "title": "Nvidia’s stock extends declines following harsh words from the U.S. government",
+      "title": "RBA minutes: 6 members saw rates “not clearly sufficient”, 3 warned of sharper downturn",
+      "link": "https://investinglive.com/central-banks/rba-minutes-6-members-saw-rates-not-clearly-sufficient-3-warned-of-sharper-downturn/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-17T00:36:04.000Z"
+    },
+    {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6715 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6715-reuters-estimate/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-17T00:30:16.000Z"
+    },
+    {
+      "title": "China resumes crude stockpiling, leaving room for fuel exports at 3 times prewar margins",
+      "link": "https://investinglive.com/commodities/china-resumes-crude-stockpiling-leaving-room-for-fuel-exports-at-3-times-prewar-margins/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-16T23:44:58.000Z"
+    },
+    {
+      "title": "RBA’s Bullock says inflation risks still skewed to upside ahead of 6-3 vote minutes",
+      "link": "https://investinglive.com/central-banks/rba-s-bullock-says-inflation-risks-still-skewed-to-upside-ahead-of-6-3-vote-minutes/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-16T23:28:49.000Z"
+    },
+    {
+      "title": "Stanley Druckenmiller dumped these chip stocks while buying into SpaceX and Palantir",
+      "link": "https://www.marketwatch.com/story/stanley-druckenmiller-dumped-these-chip-stocks-while-buying-into-spacex-and-palantir-9ae1f078?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-16T23:28:00.000Z"
+    },
+    {
+      "title": "Dollar hits 19-month high as hawkish Fed signals bolster rate hike bets",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-16T23:17:29.000Z"
+    },
+    {
+      "title": "BlackRock keeps 5-year US equity overweight on AI conviction despite tactical caution",
+      "link": "https://investinglive.com/stocks/blackrock-keeps-5-year-us-equity-overweight-on-ai-conviction-despite-tactical-caution/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-16T22:51:05.000Z"
+    },
+    {
+      "title": "U.S. dollar’s AI-driven breakout could become a stock-market wrecking ball",
+      "link": "https://www.marketwatch.com/story/u-s-dollars-ai-driven-breakout-could-become-a-stock-market-wrecking-ball-18199b95?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Forex",
+      "published": "2026-11-16T22:46:00.000Z"
+    },
+    {
+      "title": "Berkshire upped its bet on a beleaguered U.S. housing market, while souring on these bank stocks",
+      "link": "https://www.marketwatch.com/story/berkshire-upped-its-bet-on-a-beleaguered-u-s-housing-market-while-souring-on-these-bank-stocks-2e8de402?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-16T22:33:00.000Z"
+    },
+    {
+      "title": "The FDA declined to approve one of biotech’s most closely watched cancer drugs. The company’s stock tumbled.",
+      "link": "https://www.marketwatch.com/story/the-fda-declined-to-approve-one-of-biotechs-most-closely-watched-cancer-drugs-d7c6a0a3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-16T22:21:00.000Z"
+    },
+    {
+      "title": "Goldman Sachs: chip stocks near 3-year valuation low even as demand outruns supply",
+      "link": "https://investinglive.com/stocks/goldman-sachs-chip-stocks-near-3-year-valuation-low-even-as-demand-outruns-supply/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-16T22:16:55.000Z"
+    },
+    {
+      "title": "New Zealand food prices fall 0.4% in October as RBNZ flags 3 rising global risks",
+      "link": "https://investinglive.com/central-banks/new-zealand-food-prices-fall-0-4-in-october-as-rbnz-flags-3-rising-global-risks/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-16T21:59:33.000Z"
+    },
+    {
+      "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
       "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
-      "published": "2026-11-16T18:11:00.000Z"
+      "published": "2026-11-16T21:53:00.000Z"
     },
     {
-      "title": "How will AI shake up the economy? Warsh says the Fed is starting to figure that out.",
-      "link": "https://www.marketwatch.com/story/how-will-ai-shake-up-the-economy-warsh-says-the-fed-is-starting-to-figure-that-out-a72f80c4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "investingLive Americas market news wrap: Chip stocks dump again",
+      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-chip-stocks-dump-again/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-16T21:19:27.000Z"
+    },
+    {
+      "title": "Economic and event calendar in Asia Tuesday, November 17, 2026: RBA minutes, plus Bullock",
+      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-tuesday-november-17-2026-rba-minutes-plus-bullock/",
+      "source": "investingLive",
       "category": "Central banks",
-      "published": "2026-11-16T17:53:00.000Z"
+      "published": "2026-11-16T21:11:48.000Z"
+    },
+    {
+      "title": "US stock markets slump badly as chipmakers struggle once again",
+      "link": "https://investinglive.com/stocks/us-stock-markets-slump-badly-as-chipmakers-struggle-once-again/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-16T21:03:01.000Z"
+    },
+    {
+      "title": "Hammack: Economy can handle more restriction, unclear how far Fed has to go",
+      "link": "https://investinglive.com/central-banks/hammack-economy-can-handle-more-restriction-unclear-how-far-fed-has-to-go/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-16T19:28:18.000Z"
     },
     {
       "title": "Natural gas analysis with the \"perfect\" trading range",
@@ -40,27 +145,6 @@
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-16T17:06:20.000Z"
-    },
-    {
-      "title": "Nvidia is gearing up for one of Wall Street’s most anticipated earnings calls in years",
-      "link": "https://www.marketwatch.com/story/nvidia-is-gearing-up-for-one-of-wall-streets-most-anticipated-earnings-calls-in-years-91855b1e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-16T16:37:00.000Z"
-    },
-    {
-      "title": "Dollar rally gathers pace as Japan’s economic slump puts yen under pressure",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-muted-as-dollar-holds-near-19mth-high-yen-steady-after-weak-gdp-5028358",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-16T16:26:24.000Z"
-    },
-    {
-      "title": "SpaceX widens its lead in the space race, even as a tech selloff weighs on its stock",
-      "link": "https://www.marketwatch.com/story/spacex-widens-its-lead-in-the-space-race-even-as-a-tech-selloff-weighs-on-its-stock-975f5c1f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-16T15:59:00.000Z"
     },
     {
       "title": "Forget the petro-dollar, introducing the chip-dollar",
@@ -91,53 +175,11 @@
       "published": "2026-11-16T13:30:13.000Z"
     },
     {
-      "title": "Zcash needs a dovish Fed or a US-Iran breakthrough to reverse the bearish trend",
-      "link": "https://investinglive.com/cryptocurrency/zcash-needs-a-dovish-fed-or-a-us-iran-breakthrough-to-reverse-the-bearish-trend/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T11:06:12.000Z"
-    },
-    {
       "title": "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-extends-slide-as-dollar-firms-on-hawkish-fed-bets-5028808",
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-16T10:14:08.000Z"
-    },
-    {
-      "title": "Crude oil remains supported amid the prolonged US-Iran standoff and risks of military escalation",
-      "link": "https://investinglive.com/commodities/crude-oil-remains-supported-amid-the-prolonged-us-iran-standoff-and-risks-of-military-escalation/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-16T10:10:56.000Z"
-    },
-    {
-      "title": "Hawkish Fed repricing and Iran tensions trigger a major Bitcoin liquidation wave",
-      "link": "https://investinglive.com/cryptocurrency/hawkish-fed-repricing-and-iran-tensions-trigger-a-major-bitcoin-liquidation-wave/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T09:21:02.000Z"
-    },
-    {
-      "title": "Gold threatens a major breakdown amid a more hawkish Fed. What to watch next?",
-      "link": "https://investinglive.com/commodities/gold-threatens-a-major-breakdown-amid-a-more-hawkish-fed-what-to-watch-next/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T08:30:00.000Z"
-    },
-    {
-      "title": "Nvidia earnings could test a fragile market. Five stocks are already offering clues",
-      "link": "https://investinglive.com/stocks/nvidia-earnings-could-test-a-fragile-market-five-stocks-are-already-offering-clues/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-16T06:55:45.000Z"
-    },
-    {
-      "title": "BOJ’s Takata calls for nimble hikes after 1.5% bid, says neutral rate may top estimates",
-      "link": "https://investinglive.com/central-banks/boj-s-takata-calls-for-nimble-hikes-after-1-5-bid-says-neutral-rate-may-top-estimates/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T04:06:40.000Z"
     },
     {
       "title": "Yen steady against euro and dollar after soft Japanese GDP data",
