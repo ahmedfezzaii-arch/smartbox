@@ -1,11 +1,95 @@
 {
-  "updated": "2026-11-17T01:27:19.486Z",
+  "updated": "2026-11-17T07:34:17.173Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Dollar hits fresh 19-mth peak on Fed tightening bets",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hits-19mth-peak-on-fed-tightening-bets-5031600",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-17T07:11:26.000Z"
+    },
+    {
+      "title": "UK September ILO unemployment rate 4.6% vs 4.7% expected",
+      "link": "https://investinglive.com/news/uk-september-ilo-unemployment-rate-4-6-vs-4-7-expected/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-17T07:00:33.000Z"
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: RBA minutes lean hawkish",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-rba-minutes-lean-hawkish/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-17T04:51:02.000Z"
+    },
+    {
+      "title": "Kuroda, once Japan’s great easer, says BOJ rates may need to rise above neutral",
+      "link": "https://investinglive.com/central-banks/kuroda-once-japan-s-great-easer-says-boj-rates-may-need-to-rise-above-neutral/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-17T04:23:08.000Z"
+    },
+    {
+      "title": "Lock in yields not seen in 25 years, PIMCO urges, while calling stocks very expensive",
+      "link": "https://investinglive.com/stocks/lock-in-yields-not-seen-in-25-years-pimco-urges-while-calling-stocks-very-expensive/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-17T03:58:46.000Z"
+    },
+    {
+      "title": "Morgan Stanley bets on gold at $5,250, the boldest bank call with bullion near $3,875",
+      "link": "https://investinglive.com/commodities/morgan-stanley-bets-on-gold-at-5-250-the-boldest-bank-call-with-bullion-near-3-875/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-17T03:28:58.000Z"
+    },
+    {
+      "title": "More from Morgan Stanley: 8,700 S&P target and $5,250 gold lead its 2027 outlook",
+      "link": "https://investinglive.com/stock-market-update/more-from-morgan-stanley-8-700-s-p-target-and-5-250-gold-lead-its-2027-outlook/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-17T02:48:48.000Z"
+    },
+    {
+      "title": "NZ 1-year inflation expectations jump to 2.9%, but the 2-year anchor barely moves",
+      "link": "https://investinglive.com/central-banks/nz-1-year-inflation-expectations-jump-to-2-9-but-the-2-year-anchor-barely-moves/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-17T02:14:39.000Z"
+    },
+    {
+      "title": "Surplus story takes the wheel in oil for now, nudging Brent lower",
+      "link": "https://investinglive.com/commodities/surplus-story-takes-the-wheel-in-oil-for-now-nudging-brent-lower/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-17T02:05:53.000Z"
+    },
+    {
+      "title": "Two more Fed hikes, then a long pause: Goldman reads a third hot core CPI print",
+      "link": "https://investinglive.com/central-banks/two-more-fed-hikes-then-a-long-pause-goldman-reads-a-third-hot-core-cpi-print/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-17T01:55:12.000Z"
+    },
+    {
+      "title": "Japan delays its first 2-year floating-rate JGB: what it says about BOJ bets",
+      "link": "https://investinglive.com/stocks/japan-delays-its-first-2-year-floating-rate-jgb-what-it-says-about-boj-bets/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-17T01:43:24.000Z"
+    },
+    {
+      "title": "PBOC sets USD/ CNY central rate at 6.7132 (vs. estimate at 6.6715)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-vs-estimate-at-6-6715/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-17T01:15:38.000Z"
+    },
     {
       "title": "Gold hits 1-year low near $3,830, on course for worst year since 2015 as yields bite",
       "link": "https://investinglive.com/commodities/gold-hits-1-year-low-near-3-830-on-course-for-worst-year-since-2015-as-yields-bite/",
@@ -91,88 +175,11 @@
       "published": "2026-11-16T22:16:55.000Z"
     },
     {
-      "title": "New Zealand food prices fall 0.4% in October as RBNZ flags 3 rising global risks",
-      "link": "https://investinglive.com/central-banks/new-zealand-food-prices-fall-0-4-in-october-as-rbnz-flags-3-rising-global-risks/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T21:59:33.000Z"
-    },
-    {
-      "title": "Nvidia’s stock extends decline following harsh words from the U.S. government",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-extends-declines-following-harsh-words-from-the-u-s-government-d721188e?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-16T21:53:00.000Z"
-    },
-    {
-      "title": "investingLive Americas market news wrap: Chip stocks dump again",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-chip-stocks-dump-again/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-16T21:19:27.000Z"
-    },
-    {
-      "title": "Economic and event calendar in Asia Tuesday, November 17, 2026: RBA minutes, plus Bullock",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-tuesday-november-17-2026-rba-minutes-plus-bullock/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T21:11:48.000Z"
-    },
-    {
-      "title": "US stock markets slump badly as chipmakers struggle once again",
-      "link": "https://investinglive.com/stocks/us-stock-markets-slump-badly-as-chipmakers-struggle-once-again/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-16T21:03:01.000Z"
-    },
-    {
-      "title": "Hammack: Economy can handle more restriction, unclear how far Fed has to go",
-      "link": "https://investinglive.com/central-banks/hammack-economy-can-handle-more-restriction-unclear-how-far-fed-has-to-go/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T19:28:18.000Z"
-    },
-    {
-      "title": "Natural gas analysis with the \"perfect\" trading range",
-      "link": "https://investinglive.com/commodities/natural-gas-analysis-with-the-perfect-trading-range/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-16T17:17:24.000Z"
-    },
-    {
-      "title": "Fed’s Warsh doesn’t talk about monetary policy in a speech on AI",
-      "link": "https://investinglive.com/central-banks/fed-s-warsh-doesn-t-talk-about-monetary-policy-in-a-speech-on-ai/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-16T17:06:20.000Z"
-    },
-    {
-      "title": "Forget the petro-dollar, introducing the chip-dollar",
-      "link": "https://investinglive.com/forex/forget-the-petro-dollar-introducing-the-chip-dollar/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-16T15:28:28.000Z"
-    },
-    {
-      "title": "Goldman Sachs gets bearish on oil prices but doesn't see help for consumers",
-      "link": "https://investinglive.com/commodities/goldman-sachs-gets-bearish-on-oil-prices-but-doesn-t-see-help-for-consumers/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-16T14:00:53.000Z"
-    },
-    {
       "title": "Treasury yields pause near 1-month highs as traders brace for Fed signals",
       "link": "https://www.investing.com/news/forex-news/eurozone-yields-stall-after-volatile-week-as-traders-brace-for-ai-megatests-5028425",
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-16T13:45:54.000Z"
-    },
-    {
-      "title": "Canada October CPI 3.1% vs +3.2% expected",
-      "link": "https://investinglive.com/news/canada-october-cpi-3-1-vs-3-2-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-16T13:30:13.000Z"
     },
     {
       "title": "Sterling today: Pound extends slide as dollar firms on hawkish Fed bets",
@@ -215,13 +222,6 @@
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-13T13:39:09.000Z"
-    },
-    {
-      "title": "Sterling today: Pound steady as hawkish Fed keeps dollar bid",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-hawkish-fed-keeps-dollar-bid-5024553",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-13T09:08:09.000Z"
     }
   ]
 }
