@@ -1,11 +1,102 @@
 {
-  "updated": "2026-11-18T13:28:40.782Z",
+  "updated": "2026-11-18T19:11:34.587Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Fed's Barr supports further rate hikes as inflation remains too high",
+      "link": "https://investinglive.com/central-banks/fed-s-barr-supports-further-rate-hikes-as-inflation-remains-too-high/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-18T18:39:42.000Z"
+    },
+    {
+      "title": "‘GTA 6’ is the biggest game ever. Take-Two’s stock, delivery apps and podcasts are along for the ride.",
+      "link": "https://www.marketwatch.com/story/gta-6-is-the-biggest-game-ever-take-twos-stock-delivery-apps-and-podcasts-are-along-for-the-ride-71014bf2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-18T18:28:00.000Z"
+    },
+    {
+      "title": "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
+      "link": "https://investinglive.com/news/the-us-treasury-auctions-16b-of-20-year-bonds-at-a-high-year-at-5-495/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-18T18:04:41.000Z"
+    },
+    {
+      "title": "BoC’s Gravelle says policy scenarios help build credibility",
+      "link": "https://investinglive.com/central-banks/boc-s-gravelle-says-policy-scenarios-help-build-credibility/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-18T17:44:26.000Z"
+    },
+    {
+      "title": "Fed’s Daly says inflation has been too high for too long as consumer spending holds up",
+      "link": "https://investinglive.com/central-banks/fed-s-daly-says-inflation-has-been-too-high-for-too-long-as-consumer-spending-holds-up/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-18T17:37:51.000Z"
+    },
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks and buy real estate?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-18T17:15:00.000Z"
+    },
+    {
+      "title": "GBP/USD slide driven by dollar strength, not sterling weakness",
+      "link": "https://www.investing.com/news/forex-news/gbpusd-slide-driven-by-dollar-strength-not-sterling-weakness-93CH-5036710",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-18T17:01:53.000Z"
+    },
+    {
+      "title": "Crude oil is trading lower after yesterday's run to the upside found willing sellers. What next?",
+      "link": "https://investinglive.com/commodities/crude-oil-is-trading-lower-after-yesterday-s-run-to-the-upside-found-willing-sellers-what-next/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-18T15:56:50.000Z"
+    },
+    {
+      "title": "US weekly crude oil inventories +3380K vs +58K expected",
+      "link": "https://investinglive.com/commodities/us-weekly-crude-oil-inventories-vs-58k-expected/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-18T15:30:37.000Z"
+    },
+    {
+      "title": "The broader NASDAQ indices open higher but move into negative territory. Nvidia also gives early gains after earnings beat",
+      "link": "https://investinglive.com/stocks/the-broader-nasdaq-indices-open-higher-but-move-into-negative-territory-nvidia-also-gives-early-gains-after-earnings-beat/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-18T15:05:27.000Z"
+    },
+    {
+      "title": "As Bitcoin consolidates, the technical resistance gets closer and closer to the price. What next?",
+      "link": "https://investinglive.com/cryptocurrency/as-bitcoin-consolidates-the-technical-resistance-gets-closer-and-closer-to-the-price-what-next/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-18T14:22:54.000Z"
+    },
+    {
+      "title": "Macro signals from today's earnings: Target, TJX and Lowe’s",
+      "link": "https://investinglive.com/stocks/macro-signals-from-today-s-earnings-target-tjx-and-lowe-s/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-18T14:05:40.000Z"
+    },
+    {
+      "title": "Morning Kickstart: Waller makes the case for 50 bps as Nvidia lifts Nasdaq futures",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-waller-makes-the-case-for-50-bps-as-nvidia-lifts-nasdaq-futures/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-18T13:22:41.000Z"
+    },
     {
       "title": "After $6.3 billion crypto heist, Binance plans Asia expansion",
       "link": "https://www.investing.com/news/forex-news/after-63-billion-crypto-heist-binance-plans-foray-into-5-asian-markets-5034971",
@@ -21,32 +112,11 @@
       "published": "2026-11-18T13:06:03.000Z"
     },
     {
-      "title": "‘Nvidia’s turmoil has me spooked’: Has the time come to sell my stocks?",
-      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-18T13:00:00.000Z"
-    },
-    {
       "title": "Fed's Waller calls for more aggressive action to break psychology that 3% inflation is the norm",
       "link": "https://investinglive.com/central-banks/fed-s-waller-calls-for-more-aggressive-action-to-break-psychology-that-3-inflation-is-the-norm/",
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-18T12:52:48.000Z"
-    },
-    {
-      "title": "Nvidia’s leadership saga unfolds as demand is surging for Anthropic’s IPO",
-      "link": "https://www.marketwatch.com/story/nvidias-leadership-saga-unfolds-as-demand-is-surging-for-anthropics-ipo-a7a12d40?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-18T12:22:00.000Z"
-    },
-    {
-      "title": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
-      "link": "https://www.marketwatch.com/story/the-fed-is-tightening-the-economy-is-slowing-and-thats-the-perfect-setup-to-buy-bonds-this-trader-argues-b1c88b23?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Central banks",
-      "published": "2026-11-18T11:38:00.000Z"
     },
     {
       "title": "Zcash extends recovery but significant headwinds persist amid hawkish Fed and US-Iran tensions",
@@ -112,62 +182,6 @@
       "published": "2026-11-18T07:00:29.000Z"
     },
     {
-      "title": "investingLive Asia-Pacific market news: Gold breaks below $3,800",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-breaks-below-3-800/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-18T04:35:33.000Z"
-    },
-    {
-      "title": "Recap: Australian wages grow at fastest pace in nearly 3 years, yet swaps see a 75% RBA peak",
-      "link": "https://investinglive.com/news/recap-australian-wages-grow-at-fastest-pace-in-nearly-3-years-yet-swaps-see-a-75-rba-peak/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-18T03:51:30.000Z"
-    },
-    {
-      "title": "Gold’s worst enemy right now is a 5% Treasury yield, not the headlines from the Middle East",
-      "link": "https://investinglive.com/commodities/gold-s-worst-enemy-right-now-is-a-5-treasury-yield-not-the-headlines-from-the-middle-east/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-18T03:23:32.000Z"
-    },
-    {
-      "title": "Morgan Stanley sees USD/JPY fair value above 170, forecasts yen at 162 by late 2027",
-      "link": "https://investinglive.com/forex/morgan-stanley-sees-usd-jpy-fair-value-above-170-forecasts-yen-at-162-by-late-2027/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-18T02:39:14.000Z"
-    },
-    {
-      "title": "Ueda keeps December hike in play as BOJ wants inflation anchored around 2%",
-      "link": "https://investinglive.com/central-banks/ueda-keeps-december-hike-in-play-as-boj-wants-inflation-anchored-around-2/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-18T01:23:57.000Z"
-    },
-    {
-      "title": "PBOC sets USD/ CNY mid-point today at 6.7118 (vs. estimate at 6.6654)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7118-vs-estimate-at-6-6654/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-18T01:16:03.000Z"
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6654 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate-9/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-18T00:29:15.000Z"
-    },
-    {
-      "title": "Back to the future! Nvidia earnings/forecast lifts Nasdaq futures 1.3%",
-      "link": "https://investinglive.com/stocks/back-to-the-future-nvidia-earnings-forecast-lifts-nasdaq-futures-1-3/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-17T23:46:21.000Z"
-    },
-    {
       "title": "Dollar finally dips after fresh 19-month peak, set to snap five-day win streak",
       "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hits-19mth-peak-on-fed-tightening-bets-5031600",
       "source": "Investing.com",
@@ -187,13 +201,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-17T11:51:05.000Z"
-    },
-    {
-      "title": "Sterling today: Pound set to snap slide as dollar pauses; UK jobless dips to 4.6%",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-set-to-snap-slide-as-dollar-pauses-uk-jobless-dips-to-46-5032079",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-17T09:22:09.000Z"
     }
   ]
 }
