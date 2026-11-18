@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T01:30:54.529Z",
+  "updated": "2026-11-18T07:31:04.102Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,74 @@
   ],
   "items": [
     {
+      "title": "UK October CPI +3.6% vs +3.6% y/y expected",
+      "link": "https://investinglive.com/news/uk-october-cpi-3-6-vs-3-6-y-y-expected/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-18T07:00:29.000Z"
+    },
+    {
+      "title": "Dollar holds near 19-mth high on Fed hike bets",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-19mth-high-on-fed-hike-bets-5034711",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-18T06:56:05.000Z"
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Gold breaks below $3,800",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-gold-breaks-below-3-800/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-18T04:35:33.000Z"
+    },
+    {
+      "title": "Recap: Australian wages grow at fastest pace in nearly 3 years, yet swaps see a 75% RBA peak",
+      "link": "https://investinglive.com/news/recap-australian-wages-grow-at-fastest-pace-in-nearly-3-years-yet-swaps-see-a-75-rba-peak/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-18T03:51:30.000Z"
+    },
+    {
+      "title": "Gold’s worst enemy right now is a 5% Treasury yield, not the headlines from the Middle East",
+      "link": "https://investinglive.com/commodities/gold-s-worst-enemy-right-now-is-a-5-treasury-yield-not-the-headlines-from-the-middle-east/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-18T03:23:32.000Z"
+    },
+    {
+      "title": "Morgan Stanley sees USD/JPY fair value above 170, forecasts yen at 162 by late 2027",
+      "link": "https://investinglive.com/forex/morgan-stanley-sees-usd-jpy-fair-value-above-170-forecasts-yen-at-162-by-late-2027/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-18T02:39:14.000Z"
+    },
+    {
+      "title": "CoreWeave’s stock pops — even as Nvidia talks up a ‘disciplined’ approach to financing",
+      "link": "https://www.marketwatch.com/story/coreweaves-stock-pops-even-as-nvidia-talks-up-a-disciplined-approach-to-financing-e7f00876?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-18T01:59:00.000Z"
+    },
+    {
       "title": "Nvidia’s stock rises as blowout numbers help ease CEO transition fears",
       "link": "https://www.marketwatch.com/story/nvidias-stock-rises-as-blowout-numbers-help-ease-ceo-transition-fears-2f20d38a?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
       "published": "2026-11-18T01:28:00.000Z"
+    },
+    {
+      "title": "Ueda keeps December hike in play as BOJ wants inflation anchored around 2%",
+      "link": "https://investinglive.com/central-banks/ueda-keeps-december-hike-in-play-as-boj-wants-inflation-anchored-around-2/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-18T01:23:57.000Z"
+    },
+    {
+      "title": "PBOC sets USD/ CNY mid-point today at 6.7118 (vs. estimate at 6.6654)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-mid-point-today-at-6-7118-vs-estimate-at-6-6654/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-18T01:16:03.000Z"
     },
     {
       "title": "PBOC is expected to set the USD/CNY reference rate at 6.6654 – Reuters estimate",
@@ -56,53 +119,11 @@
       "published": "2026-11-17T21:17:45.000Z"
     },
     {
-      "title": "Why Salesforce’s stock led the S&P 500’s decliners amid tech jitters",
-      "link": "https://www.marketwatch.com/story/why-salesforces-stock-is-leading-s-p-500-decliners-amid-tech-jitters-17510caf?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-17T21:12:00.000Z"
-    },
-    {
-      "title": "investingLive Americas market news wrap: US retail sales continue to show resilience",
-      "link": "https://investinglive.com/news/investinglive-americas-market-news-wrap-us-retail-sales-continue-to-show-resilience/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-17T21:02:14.000Z"
-    },
-    {
-      "title": "Fed's Williams: The economy is getting stronger, inflation not moving in the right direction",
-      "link": "https://investinglive.com/central-banks/fed-s-williams-the-economy-is-getting-stronger-inflation-not-moving-in-the-right-direction/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-17T19:34:33.000Z"
-    },
-    {
       "title": "Dollar finally dips after fresh 19-month peak, set to snap five-day win streak",
       "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-hits-19mth-peak-on-fed-tightening-bets-5031600",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-17T19:14:14.000Z"
-    },
-    {
-      "title": "Nvidia earnings after the close. The price is testing a key downside target. What are the key levels for traders?",
-      "link": "https://investinglive.com/stocks/nvidia-earnings-are-to-be-released-after-the-close-the-price-is-testing-a-key-downside-target/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-17T18:03:44.000Z"
-    },
-    {
-      "title": "Flight to safety concerns from continued cyber issues send stocks lower, yields lower, gold higher, JPY and CHF up",
-      "link": "https://investinglive.com/technical-analysis/flight-to-safety-concerns-from-continued-cyber-issues-send-stocks-lower-yields-lower-gold-higher-jpy-and-chf-up/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-17T16:15:53.000Z"
-    },
-    {
-      "title": "Nasdaq stretching toward the swing area and 50% retracement targets. Key support being tested.",
-      "link": "https://investinglive.com/stocks/nasdaq-stretching-toward-the-swing-area-and-50-retracement-targets-key-support-being-tested/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-17T15:11:02.000Z"
     },
     {
       "title": "U.S. Treasury yields catch their breath near one-month highs",
