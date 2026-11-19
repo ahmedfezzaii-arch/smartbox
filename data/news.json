@@ -1,11 +1,81 @@
 {
-  "updated": "2026-11-19T01:28:08.098Z",
+  "updated": "2026-11-19T07:33:57.830Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Dollar hits fresh 19-mth peak on hawkish Fed; Aussie slides after weak jobs data",
+      "link": "https://www.investing.com/news/forex-news/dollar-hits-fresh-19mth-peak-on-hawkish-fed-aussie-slides-after-weak-jobs-data-5037703",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-19T06:36:25.000Z"
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Oil holds near $92 as Gulf attacks mount,",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-oil-holds-near-92-as-gulf-attacks-mount/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-19T04:55:23.000Z"
+    },
+    {
+      "title": "GTA VI lifts Sony shares as PlayStation takes three-quarters of 17 million sales",
+      "link": "https://investinglive.com/stocks/gta-vi-lifts-sony-shares-as-playstation-takes-three-quarters-of-17-million-sales/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-19T04:37:38.000Z"
+    },
+    {
+      "title": "ETH whales keep buying through the slide while bitcoin whales send coins to exchanges",
+      "link": "https://investinglive.com/cryptocurrency/eth-whales-keep-buying-through-the-slide-while-bitcoin-whales-send-coins-to-exchanges/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-19T03:29:27.000Z"
+    },
+    {
+      "title": "Japan’s AI stocks lose their premium as three threats emerge after Nvidia’s CEO exit",
+      "link": "https://investinglive.com/stock-market-update/japan-s-ai-stocks-lose-their-premium-as-three-threats-emerge-after-nvidia-s-ceo-exit/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-19T02:23:12.000Z"
+    },
+    {
+      "title": "Lava CEO says bitcoin sellers are spent, but whale exchange flows point the other way",
+      "link": "https://investinglive.com/cryptocurrency/lava-ceo-says-bitcoin-sellers-are-spent-but-whale-exchange-flows-point-the-other-way/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-19T02:08:25.000Z"
+    },
+    {
+      "title": "More from Ueda: real rates still low, and BOJ finances can withstand further hikes",
+      "link": "https://investinglive.com/central-banks/more-from-ueda-real-rates-still-low-and-boj-finances-can-withstand-further-hikes/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-19T01:45:12.000Z"
+    },
+    {
+      "title": "BOJ’s Ueda expects to keep raising rates, warning inflation could overshoot 2% target",
+      "link": "https://investinglive.com/central-banks/boj-s-ueda-expects-to-keep-raising-rates-warning-inflation-could-overshoot-2-target/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-19T01:16:19.000Z"
+    },
+    {
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7128 (vs. estimate at 6.6684)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7128-vs-estimate-at-6-6684/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-19T01:15:30.000Z"
+    },
+    {
+      "title": "BlackRock says bitcoin’s fading link to stocks strengthens the case for allocation",
+      "link": "https://investinglive.com/cryptocurrency/blackrock-says-bitcoin-s-fading-link-to-stocks-strengthens-the-case-for-allocation/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-19T01:10:04.000Z"
+    },
     {
       "title": "Palo Alto Networks’ stock gets a fresh AI-fueled boost from earnings",
       "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-soars-as-earnings-show-ai-has-upped-the-stakes-for-cybersecurity-308e34b8?mod=mw_rss_topstories",
@@ -91,13 +161,6 @@
       "published": "2026-11-18T22:26:25.000Z"
     },
     {
-      "title": "Has the stock market’s slump hit bottom yet? Here’s what these contrarian indicators say.",
-      "link": "https://www.marketwatch.com/story/has-the-stock-markets-correction-hit-bottom-yet-heres-what-these-contrarian-indicators-say-f9104879?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-18T21:58:00.000Z"
-    },
-    {
       "title": "Dollar pinned at 19-month high amid hawkish signals from Fed’s Waller, minutes",
       "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-19mth-high-on-fed-hike-bets-5034711",
       "source": "Investing.com",
@@ -110,69 +173,6 @@
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-18T21:40:03.000Z"
-    },
-    {
-      "title": "investingLive Americas FX news wrap 18 Nov: Waller/Fed minutes put a bigger December hike in play",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-18-nov-waller-fed-minutes-put-a-bigger-december-hike-in-play/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-18T21:33:37.000Z"
-    },
-    {
-      "title": "Kashkari says markets see more Fed hikes than officials do as four Fed voices turn hawkish",
-      "link": "https://investinglive.com/central-banks/kashkari-says-markets-see-more-fed-hikes-than-officials-do-as-four-fed-voices-turn-hawkish/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-18T21:32:19.000Z"
-    },
-    {
-      "title": "Dow continues its fall with a decline of 561 points. Nasdaq rebounds",
-      "link": "https://investinglive.com/stocks/dow-continues-its-fall-with-a-decline-of-561-points-nasdaq-rebounds/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-18T21:18:34.000Z"
-    },
-    {
-      "title": "The market's verdict on Nvidia earnings is a problem for the AI boom trade",
-      "link": "https://investinglive.com/stocks/the-market-s-verdict-on-nvidia-earnings-is-a-problem-for-the-ai-boom-trade/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-18T19:28:58.000Z"
-    },
-    {
-      "title": "FOMC Minutes: A couple of participants noted a hike of more than 25 bps could warrant consideration in December",
-      "link": "https://investinglive.com/central-banks/fomc-minutes-a-couple-of-participants-noted-a-hike-of-more-than-25-bps-could-warrant-consideration-in-december/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-18T19:03:20.000Z"
-    },
-    {
-      "title": "Fed's Barr supports further rate hikes as inflation remains too high",
-      "link": "https://investinglive.com/central-banks/fed-s-barr-supports-further-rate-hikes-as-inflation-remains-too-high/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-18T18:39:42.000Z"
-    },
-    {
-      "title": "The US Treasury auctions $16B of 20 year bonds at a high year at 5.459%",
-      "link": "https://investinglive.com/news/the-us-treasury-auctions-16b-of-20-year-bonds-at-a-high-year-at-5-495/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-18T18:04:41.000Z"
-    },
-    {
-      "title": "BoC’s Gravelle says policy scenarios help build credibility",
-      "link": "https://investinglive.com/central-banks/boc-s-gravelle-says-policy-scenarios-help-build-credibility/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-18T17:44:26.000Z"
-    },
-    {
-      "title": "Fed’s Daly says inflation has been too high for too long as consumer spending holds up",
-      "link": "https://investinglive.com/central-banks/fed-s-daly-says-inflation-has-been-too-high-for-too-long-as-consumer-spending-holds-up/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-18T17:37:51.000Z"
     },
     {
       "title": "GBP/USD slide driven by dollar strength, not sterling weakness",
@@ -215,13 +215,6 @@
       "source": "Investing.com",
       "category": "Macro data",
       "published": "2026-11-17T13:37:22.000Z"
-    },
-    {
-      "title": "Citi forecasts Brazilian real to weaken to 5.50 per dollar in 2027",
-      "link": "https://www.investing.com/news/forex-news/citi-forecasts-brazilian-real-to-weaken-to-550-per-dollar-in-2027-93CH-5032448",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-17T11:51:05.000Z"
     }
   ]
 }
