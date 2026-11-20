@@ -1,11 +1,74 @@
 {
-  "updated": "2026-11-20T01:23:21.364Z",
+  "updated": "2026-11-20T07:31:57.702Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Dollar holds near 19-mth peak amid Fed tightening bets; Aussie hits 11-mth low",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-struggles-as-dollar-holds-near-19mth-high-aussie-hits-11month-low-5040667",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-20T06:59:36.000Z"
+    },
+    {
+      "title": "Global bond yields plunge as AI rout triggers flight to safety",
+      "link": "https://www.investing.com/news/forex-news/global-bond-yields-plunge-as-ai-rout-triggers-flight-to-safety-5040733",
+      "source": "Investing.com",
+      "category": "Macro data",
+      "published": "2026-11-20T06:15:41.000Z"
+    },
+    {
+      "title": "Paulson tells Q&A the Fed has more tightening to do, after a speech with no rate steer",
+      "link": "https://investinglive.com/central-banks/paulson-tells-q-a-the-fed-has-more-tightening-to-do-after-a-speech-with-no-rate-steer/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-20T04:08:37.000Z"
+    },
+    {
+      "title": "UBS cuts global stocks to Neutral, days after Morgan Stanley went maximum overweight",
+      "link": "https://investinglive.com/stock-market-update/ubs-cuts-global-stocks-to-neutral-days-after-morgan-stanley-went-maximum-overweight/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-20T03:54:38.000Z"
+    },
+    {
+      "title": "No, the Fed isn’t pumping $1.756 billion into markets on Friday morning: what that viral post gets wrong",
+      "link": "https://investinglive.com/stocks/no-the-fed-isn-t-pumping-1-756-billion-into-markets-on-friday-morning-what-that-viral-post-gets-wrong/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-20T03:24:06.000Z"
+    },
+    {
+      "title": "A December BoJ hike may not be enough: why a fuzzy endpoint keeps yen bears circling",
+      "link": "https://investinglive.com/central-banks/a-december-boj-hike-may-not-be-enough-why-a-fuzzy-endpoint-keeps-yen-bears-circling/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-20T02:58:28.000Z"
+    },
+    {
+      "title": "No way back for oil after Hormuz, says IEA’s Birol, but Goldman still sees Brent at $78",
+      "link": "https://investinglive.com/commodities/no-way-back-for-oil-after-hormuz-says-iea-s-birol-but-goldman-still-sees-brent-at-78/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-20T02:21:15.000Z"
+    },
+    {
+      "title": "Some analysts now see BoJ rates at 2.5% by mid-2027, despite slower underlying inflation",
+      "link": "https://investinglive.com/central-banks/some-analysts-now-see-boj-rates-at-2-5-by-mid-2027-despite-slower-underlying-inflation/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-20T01:36:34.000Z"
+    },
+    {
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7131 (vs. estimate at 6.6731)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7131-vs-estimate-at-6-6731/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-20T01:15:39.000Z"
+    },
     {
       "title": "Nikkei slides 4.5% and KOSPI tumbles as Wall Street’s AI reversal hits Asian chipmakers",
       "link": "https://investinglive.com/stock-market-update/nikkei-slides-4-5-and-kospi-tumbles-as-wall-street-s-ai-reversal-hits-asian-chipmakers/",
@@ -112,13 +175,6 @@
       "published": "2026-11-19T21:58:01.000Z"
     },
     {
-      "title": "investingLive Americas FX news wrap 19 Nov Inflation worries sink stocks",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-19-nov-inflation-worries-sink-stocks/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-19T21:50:11.000Z"
-    },
-    {
       "title": "Nvidia’s stock falls further. It has lost $669 billion in six trading days.",
       "link": "https://www.marketwatch.com/story/nvidias-stock-falls-further-it-has-lost-611-billion-in-six-trading-days-434af231?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -126,67 +182,11 @@
       "published": "2026-11-19T21:45:00.000Z"
     },
     {
-      "title": "J.P. Morgan now sees three straight Fed hikes, dropping its ‘December and done’ call",
-      "link": "https://investinglive.com/central-banks/j-p-morgan-now-sees-three-straight-fed-hikes-dropping-its-december-and-done-call/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-19T21:40:56.000Z"
-    },
-    {
-      "title": "Why Micron, Broadcom and other AI stocks gave up their gains Thursday",
-      "link": "https://www.marketwatch.com/story/why-micron-intel-and-other-ai-stocks-are-getting-a-lift-on-thursday-cf6f59f8?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-19T21:27:00.000Z"
-    },
-    {
-      "title": "Stock indices get beat up with the Dow, S&P, Nasdaq and Russell indices all falling more than 2%",
-      "link": "https://investinglive.com/stocks/stock-indices-get-beat-up-with-the-dow-s-p-nasdaq-and-russell-indices-all-falling-more-than-2/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-19T21:25:55.000Z"
-    },
-    {
-      "title": "UnitedHealth’s stock tumbles after government signals crackdown on Medicare Advantage fraud",
-      "link": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-19T21:22:00.000Z"
-    },
-    {
-      "title": "More from Fed’s Goolsbee: AI boom a ‘pig through the python’ that risks overheating US economy",
-      "link": "https://investinglive.com/central-banks/more-from-fed-s-goolsbee-ai-boom-a-pig-through-the-python-that-risks-overheating-us-economy/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-19T21:16:42.000Z"
-    },
-    {
-      "title": "Economic and event calendar in Asia Friday, November 20, 2026: Fed's Paulson, Japan CPI and China’s LPR",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-friday-november-20-2026-fed-s-paulson-japan-cpi-and-china-s-lpr/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-19T21:04:41.000Z"
-    },
-    {
-      "title": "Fed’s Goolsbee says he sees no clear path back to 2% inflation",
-      "link": "https://investinglive.com/central-banks/fed-s-goolsbee-says-he-sees-no-clear-path-back-to-2-inflation/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-19T21:00:16.000Z"
-    },
-    {
       "title": "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
       "link": "https://www.investing.com/news/forex-news/dollar-hits-fresh-19mth-peak-on-hawkish-fed-aussie-slides-after-weak-jobs-data-5037703",
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-19T20:49:01.000Z"
-    },
-    {
-      "title": "No relief for US stocks. Major indices trade to new lows",
-      "link": "https://investinglive.com/stocks/no-relief-for-us-stocks-major-indices-trade-to-new-lows/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-19T20:13:23.000Z"
     },
     {
       "title": "Dollar index hits 52-week high, driven by haven demand and rate expectations",
@@ -222,20 +222,6 @@
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-19T09:09:11.000Z"
-    },
-    {
-      "title": "Dollar pinned at 19-month high amid hawkish signals from Fed’s Waller, minutes",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-19mth-high-on-fed-hike-bets-5034711",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-18T21:43:53.000Z"
-    },
-    {
-      "title": "GBP/USD slide driven by dollar strength, not sterling weakness",
-      "link": "https://www.investing.com/news/forex-news/gbpusd-slide-driven-by-dollar-strength-not-sterling-weakness-93CH-5036710",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-18T17:01:53.000Z"
     }
   ]
 }
