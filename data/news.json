@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T13:27:55.889Z",
+  "updated": "2026-11-20T19:16:06.666Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,88 @@
   ],
   "items": [
     {
-      "title": "Intuit’s downbeat outlook deepens Wall Street’s anxiety about software companies",
-      "link": "https://www.marketwatch.com/story/intuits-downbeat-outlook-deepens-wall-streets-anxiety-about-software-companies-15b878e5?mod=mw_rss_topstories",
+      "title": "Nvidia’s stock heads for a stretch of weekly losses not seen since 2008",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-heads-for-a-stretch-of-weekly-losses-unseen-since-2008-91aba9a6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
-      "published": "2026-11-20T12:59:00.000Z"
+      "published": "2026-11-20T19:04:00.000Z"
+    },
+    {
+      "title": "European stocks end a bruising week. German DAX falls 7.29%.",
+      "link": "https://investinglive.com/news/european-stocks-end-a-bruising-week-german-dax-falls-7-29/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-20T18:12:25.000Z"
+    },
+    {
+      "title": "Why year-end portfolio rebalancing is a risky bet that bonds will beat stocks in 2027",
+      "link": "https://www.marketwatch.com/story/why-year-end-portfolio-rebalancing-is-a-risky-bet-that-bonds-will-beat-stocks-in-2027-1b438892?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-20T17:49:00.000Z"
+    },
+    {
+      "title": "Anthropic’s stock slides closer to IPO price and drags down the AI trade",
+      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-20T17:47:00.000Z"
+    },
+    {
+      "title": "Fed’s Cook says monetary policy isn’t restrictive enough",
+      "link": "https://investinglive.com/central-banks/fed-s-cook-says-monetary-policy-isn-t-restrictive-enough/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-20T17:21:55.000Z"
+    },
+    {
+      "title": "NASDAQ composite is now down on the year",
+      "link": "https://investinglive.com/stocks/nasdaq-composite-is-now-down-on-the-year/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-20T16:49:23.000Z"
+    },
+    {
+      "title": "Gold breaks below the 50% midpoint. Can buyers hold the old breakout area?",
+      "link": "https://investinglive.com/commodities/gold-breaks-below-the-50-midpoint-can-buyers-hold-the-old-breakout-area/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-20T16:29:36.000Z"
+    },
+    {
+      "title": "AI-linked stocks slide. Sandisk leads 14 names down more than 9%",
+      "link": "https://investinglive.com/stocks/ai-linked-stocks-slide-sandisk-leads-14-names-down-more-than-9/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-20T15:57:08.000Z"
+    },
+    {
+      "title": "S&P 500 turns positive, but the Nasdaq indices remain in technical triage",
+      "link": "https://investinglive.com/stocks/s-p-500-turns-positive-but-the-nasdaq-indices-remain-in-technical-triage/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-20T15:17:01.000Z"
+    },
+    {
+      "title": "Bitcoin tests key swing area low. A break below will target the 2026 lows",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-key-swing-area-low-a-break-below-will-target-the-2026-lows/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-20T14:22:41.000Z"
+    },
+    {
+      "title": "Canada retail sales comes in stronger at 0.8% vs 0.7% estimate. Core up 1.0% vs 0.7% estimate.",
+      "link": "https://investinglive.com/news/canada-retail-sales-comes-in-stronger-at-0-8-vs-0-7-estimate-core-up-1-0-vs-0-7-estimate/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-20T13:30:24.000Z"
+    },
+    {
+      "title": "Morning Kickstart. Anthropic slides after its IPO and gold breaks lower",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-anthropic-slides-after-its-ipo-and-gold-breaks-lower/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-20T13:25:32.000Z"
     },
     {
       "title": "Is ANT stock a buy or sell?",
@@ -21,53 +98,11 @@
       "published": "2026-11-20T12:45:20.000Z"
     },
     {
-      "title": "These 5 defense stocks are drawing millions in insider bets ahead of military-spending boom in 2027",
-      "link": "https://www.marketwatch.com/story/these-5-defense-stocks-are-drawing-millions-in-insider-bets-ahead-of-military-spending-boom-in-2027-8b3b556b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-20T12:45:00.000Z"
-    },
-    {
-      "title": "Bank of America strategist warns doom loop could hit stocks with Wall Street underpricing hard-landing risks",
-      "link": "https://www.marketwatch.com/story/bank-of-america-strategist-warns-doom-loop-could-hit-stocks-with-wall-street-underpricing-hard-landing-risks-c3181e57?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-20T12:43:00.000Z"
-    },
-    {
       "title": "investingLive European news wrap: Stock markets remain under pressure, bonds rally on slowdown expectations",
       "link": "https://investinglive.com/news/investinglive-european-news-wrap-stock-markets-remain-under-pressure-bonds-rally-on-slowdown-expectations/",
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-20T12:31:26.000Z"
-    },
-    {
-      "title": "GameStop has transformed from a meme stock into a ‘real company,’ analysts say",
-      "link": "https://www.marketwatch.com/story/gamestop-has-transformed-from-a-meme-stock-into-a-real-company-analysts-say-7ae5c7ed?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-20T12:24:00.000Z"
-    },
-    {
-      "title": "Anthropic soared in its debut as stocks tanked. Only one other IPO has done that since 1990.",
-      "link": "https://www.marketwatch.com/story/anthropic-soared-in-its-debut-as-stocks-tanked-only-one-other-ipo-has-done-that-since-1990-77b75258?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-20T12:19:00.000Z"
-    },
-    {
-      "title": "Anthropic’s stock surges in its debut — and the rest of the market dives anyway",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-surges-in-its-debut-and-the-rest-of-the-market-dives-anyway-19671218?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-20T12:04:00.000Z"
-    },
-    {
-      "title": "Citi warns a key stock-market signal is close to flashing red",
-      "link": "https://www.marketwatch.com/story/citi-warns-a-key-stock-market-signal-is-close-to-flashing-red-5cbee1c3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-20T11:45:00.000Z"
     },
     {
       "title": "How have interest rate expectations changed after this week's events?",
@@ -145,69 +180,6 @@
       "source": "investingLive",
       "category": "Commodities",
       "published": "2026-11-20T08:56:10.000Z"
-    },
-    {
-      "title": "UK October retail sales +0.7% vs +0.0% m/m expected",
-      "link": "https://investinglive.com/news/uk-october-retail-sales-0-7-vs-0-0-m-m-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-20T07:00:37.000Z"
-    },
-    {
-      "title": "UBS cuts global stocks to Neutral, days after Morgan Stanley went maximum overweight",
-      "link": "https://investinglive.com/stock-market-update/ubs-cuts-global-stocks-to-neutral-days-after-morgan-stanley-went-maximum-overweight/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T03:54:38.000Z"
-    },
-    {
-      "title": "No, the Fed isn’t pumping $1.756 billion into markets on Friday morning: what that viral post gets wrong",
-      "link": "https://investinglive.com/stocks/no-the-fed-isn-t-pumping-1-756-billion-into-markets-on-friday-morning-what-that-viral-post-gets-wrong/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-20T03:24:06.000Z"
-    },
-    {
-      "title": "A December BoJ hike may not be enough: why a fuzzy endpoint keeps yen bears circling",
-      "link": "https://investinglive.com/central-banks/a-december-boj-hike-may-not-be-enough-why-a-fuzzy-endpoint-keeps-yen-bears-circling/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-20T02:58:28.000Z"
-    },
-    {
-      "title": "No way back for oil after Hormuz, says IEA’s Birol, but Goldman still sees Brent at $78",
-      "link": "https://investinglive.com/commodities/no-way-back-for-oil-after-hormuz-says-iea-s-birol-but-goldman-still-sees-brent-at-78/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-20T02:21:15.000Z"
-    },
-    {
-      "title": "Some analysts now see BoJ rates at 2.5% by mid-2027, despite slower underlying inflation",
-      "link": "https://investinglive.com/central-banks/some-analysts-now-see-boj-rates-at-2-5-by-mid-2027-despite-slower-underlying-inflation/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-20T01:36:34.000Z"
-    },
-    {
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7131 (vs. estimate at 6.6731)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7131-vs-estimate-at-6-6731/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-20T01:15:39.000Z"
-    },
-    {
-      "title": "Nikkei slides 4.5% and KOSPI tumbles as Wall Street’s AI reversal hits Asian chipmakers",
-      "link": "https://investinglive.com/stock-market-update/nikkei-slides-4-5-and-kospi-tumbles-as-wall-street-s-ai-reversal-hits-asian-chipmakers/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T00:52:21.000Z"
-    },
-    {
-      "title": "Japan CPI misses on all three measures, but core stays above 2% ahead of a BoJ hike call",
-      "link": "https://investinglive.com/central-banks/japan-cpi-misses-on-all-three-measures-but-core-stays-above-2-ahead-of-a-boj-hike-call/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-20T00:29:51.000Z"
     },
     {
       "title": "Dollar sits at over 19-month high on surge in Fed rate hike expectations",
