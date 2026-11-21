@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T07:26:44.113Z",
+  "updated": "2026-11-21T13:13:20.724Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,25 @@
   ],
   "items": [
     {
+      "title": "Larry McDonald survived Lehman’s collapse. Now he warns the credit market is signaling a growth shock for stocks.",
+      "link": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-21T12:31:00.000Z"
+    },
+    {
+      "title": "How a brutal week for stocks almost wiped out their gains for the entire year",
+      "link": "https://www.marketwatch.com/story/how-a-brutal-week-for-stocks-almost-wiped-out-their-gains-for-the-entire-year-ae6773c3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-21T12:00:00.000Z"
+    },
+    {
       "title": "Bitcoin falls to its lowest in two years",
       "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
       "source": "Investing.com",
       "category": "Crypto",
-      "published": "2026-11-21T06:06:19.000Z"
+      "published": "2026-11-21T09:12:18.000Z"
     },
     {
       "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
@@ -82,20 +96,6 @@
       "source": "MarketWatch",
       "category": "Stocks",
       "published": "2026-11-20T21:39:00.000Z"
-    },
-    {
-      "title": "Micron and Sandisk stocks might look like bargains, but analysts say that’s actually a red flag",
-      "link": "https://www.marketwatch.com/story/micron-and-sandisk-stocks-might-look-like-bargains-but-analysts-say-thats-actually-a-red-flag-da1f1f5d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-20T21:36:00.000Z"
-    },
-    {
-      "title": "Anthropic’s stock sees dramatic slide but manages to stay above its IPO price",
-      "link": "https://www.marketwatch.com/story/anthropics-stock-slides-closer-to-ipo-price-and-drags-down-the-ai-trade-cc43a0c4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-20T21:25:00.000Z"
     },
     {
       "title": "European stocks end a bruising week. German DAX falls 7.29%.",
