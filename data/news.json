@@ -1,11 +1,18 @@
 {
-  "updated": "2026-11-21T01:28:04.425Z",
+  "updated": "2026-11-21T07:26:44.113Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Bitcoin falls to its lowest in two years",
+      "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
+      "source": "Investing.com",
+      "category": "Crypto",
+      "published": "2026-11-21T06:06:19.000Z"
+    },
     {
       "title": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
       "link": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
@@ -222,13 +229,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-19T16:17:42.000Z"
-    },
-    {
-      "title": "Mexican peso falls to 52-week low as Banxico-Fed rate gap narrows",
-      "link": "https://www.investing.com/news/forex-news/mexican-peso-falls-to-52week-low-as-banxicofed-rate-gap-narrows-93CH-5039488",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-19T15:42:30.000Z"
     }
   ]
 }
