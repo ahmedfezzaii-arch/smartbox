@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T13:10:45.030Z",
+  "updated": "2026-11-22T19:02:35.417Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,18 +7,32 @@
   ],
   "items": [
     {
+      "title": "Private equity has been buying up hospice centers — with striking consequences",
+      "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-22T17:22:00.000Z"
+    },
+    {
+      "title": "‘Nvidia’s turmoil has me spooked’: Is it time to sell my stocks and buy real estate?",
+      "link": "https://www.marketwatch.com/story/nvidia-spooked-me-should-i-sell-my-stocks-or-ride-out-the-market-turmoil-560583c6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-22T17:00:00.000Z"
+    },
+    {
+      "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
+      "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-22T14:00:00.000Z"
+    },
+    {
       "title": "Bitcoin analysis: More volume, but less downside damage (possible dip?)",
       "link": "https://investinglive.com/cryptocurrency/bitcoin-analysis-more-volume-but-less-downside-damage-possible-dip/",
       "source": "investingLive",
       "category": "Crypto",
       "published": "2026-11-22T12:53:44.000Z"
-    },
-    {
-      "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
-      "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-22T12:30:00.000Z"
     },
     {
       "title": "Bitcoin rises after falling to two-year low",
