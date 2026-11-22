@@ -1,10 +1,25 @@
 {
-  "updated": "2026-11-22T07:26:26.013Z",
+  "updated": "2026-11-22T13:10:45.030Z",
   "sources": [
     "Investing.com",
+    "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Bitcoin analysis: More volume, but less downside damage (possible dip?)",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-analysis-more-volume-but-less-downside-damage-possible-dip/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-22T12:53:44.000Z"
+    },
+    {
+      "title": "Can stocks bounce back after a brutal week? This timing model says history is on the market’s side.",
+      "link": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-22T12:30:00.000Z"
+    },
     {
       "title": "Bitcoin rises after falling to two-year low",
       "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
@@ -137,13 +152,6 @@
       "source": "investingLive",
       "category": "Crypto",
       "published": "2026-11-20T11:10:55.000Z"
-    },
-    {
-      "title": "Is Nvidia stock a buy or sell? My opinion and 'buy the dip' trade plan",
-      "link": "https://investinglive.com/stocks/is-nvidia-stock-a-buy-or-sell-my-opinion-and-buy-the-dip-trade-plan/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T11:08:35.000Z"
     },
     {
       "title": "UBS flags further euro downside as dollar strength keeps EUR/USD under pressure",
