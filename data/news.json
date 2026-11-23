@@ -1,11 +1,53 @@
 {
-  "updated": "2026-11-22T19:02:35.417Z",
+  "updated": "2026-11-23T01:29:25.426Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6775 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6775-reuters-estimate/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-23T00:24:04.000Z"
+    },
+    {
+      "title": "SNB's Martin eyes second-round effects after inflation jumps to 1.5%, hike in view",
+      "link": "https://investinglive.com/central-banks/snb-s-martin-eyes-second-round-effects-after-inflation-jumps-to-1-5-hike-in-view/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-23T00:01:13.000Z"
+    },
+    {
+      "title": "Gold sinks 9% in a week as margin calls and Fed hike bets override its haven role",
+      "link": "https://investinglive.com/commodities/gold-sinks-9-in-a-week-as-margin-calls-and-fed-hike-bets-override-its-haven-role/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-22T23:51:03.000Z"
+    },
+    {
+      "title": "Australia flash PMI sinks to 46.1 as private sector shrinks at fastest pace in 5 years",
+      "link": "https://investinglive.com/news/australia-flash-pmi-sinks-to-46-1-as-private-sector-shrinks-at-fastest-pace-in-5-years/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-22T22:09:56.000Z"
+    },
+    {
+      "title": "Goldman names 3 signals that could mark a bottom as the S&P 500 sits 12% below its record",
+      "link": "https://investinglive.com/stock-market-update/goldman-names-3-signals-that-could-mark-a-bottom-as-the-s-p-500-sits-12-below-its-record/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-22T22:00:59.000Z"
+    },
+    {
+      "title": "US equity rout: Bessent cautions Fed against overtightening, before its December decision",
+      "link": "https://investinglive.com/central-banks/us-equity-rout-bessent-cautions-fed-against-overtightening-before-its-december-decision/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-22T21:26:35.000Z"
+    },
     {
       "title": "Private equity has been buying up hospice centers — with striking consequences",
       "link": "https://www.marketwatch.com/story/private-equity-has-been-buying-up-hospice-centers-with-striking-consequences-63642545?mod=mw_rss_topstories",
@@ -19,13 +61,6 @@
       "source": "MarketWatch",
       "category": "Stocks",
       "published": "2026-11-22T17:00:00.000Z"
-    },
-    {
-      "title": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace for next.",
-      "link": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-22T14:00:00.000Z"
     },
     {
       "title": "Bitcoin analysis: More volume, but less downside damage (possible dip?)",
@@ -89,83 +124,6 @@
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-20T17:21:55.000Z"
-    },
-    {
-      "title": "NASDAQ composite is now down on the year",
-      "link": "https://investinglive.com/stocks/nasdaq-composite-is-now-down-on-the-year/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T16:49:23.000Z"
-    },
-    {
-      "title": "Gold breaks below the 50% midpoint. Can buyers hold the old breakout area?",
-      "link": "https://investinglive.com/commodities/gold-breaks-below-the-50-midpoint-can-buyers-hold-the-old-breakout-area/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-20T16:29:36.000Z"
-    },
-    {
-      "title": "AI-linked stocks slide. Sandisk leads 14 names down more than 9%",
-      "link": "https://investinglive.com/stocks/ai-linked-stocks-slide-sandisk-leads-14-names-down-more-than-9/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T15:57:08.000Z"
-    },
-    {
-      "title": "S&P 500 turns positive, but the Nasdaq indices remain in technical triage",
-      "link": "https://investinglive.com/stocks/s-p-500-turns-positive-but-the-nasdaq-indices-remain-in-technical-triage/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T15:17:01.000Z"
-    },
-    {
-      "title": "Bitcoin tests key swing area low. A break below will target the 2026 lows",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-tests-key-swing-area-low-a-break-below-will-target-the-2026-lows/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-20T14:22:41.000Z"
-    },
-    {
-      "title": "Canada retail sales comes in stronger at 0.8% vs 0.7% estimate. Core up 1.0% vs 0.7% estimate.",
-      "link": "https://investinglive.com/news/canada-retail-sales-comes-in-stronger-at-0-8-vs-0-7-estimate-core-up-1-0-vs-0-7-estimate/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-20T13:30:24.000Z"
-    },
-    {
-      "title": "Morning Kickstart. Anthropic slides after its IPO and gold breaks lower",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-anthropic-slides-after-its-ipo-and-gold-breaks-lower/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-20T13:25:32.000Z"
-    },
-    {
-      "title": "Is ANT stock a buy or sell?",
-      "link": "https://investinglive.com/stocks/is-ant-stock-a-buy-or-sell/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T12:45:20.000Z"
-    },
-    {
-      "title": "investingLive European news wrap: Stock markets remain under pressure, bonds rally on slowdown expectations",
-      "link": "https://investinglive.com/news/investinglive-european-news-wrap-stock-markets-remain-under-pressure-bonds-rally-on-slowdown-expectations/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T12:31:26.000Z"
-    },
-    {
-      "title": "How have interest rate expectations changed after this week's events?",
-      "link": "https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-9/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-20T11:41:42.000Z"
-    },
-    {
-      "title": "Zcash's bearish trend remains intact as the path to recovery depends on two major macro catalysts",
-      "link": "https://investinglive.com/cryptocurrency/zcash-s-bearish-trend-remains-intact-as-the-path-to-recovery-depends-on-two-major-macro-catalysts/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-20T11:10:55.000Z"
     },
     {
       "title": "UBS flags further euro downside as dollar strength keeps EUR/USD under pressure",
