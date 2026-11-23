@@ -1,11 +1,74 @@
 {
-  "updated": "2026-11-23T01:29:25.426Z",
+  "updated": "2026-11-23T07:50:17.942Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Nasdaq analysis today as we wake up to the green",
+      "link": "https://investinglive.com/stocks/nasdaq-analysis-today-as-we-wake-up-to-the-green/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-23T06:29:13.000Z"
+    },
+    {
+      "title": "The number of 401(k) millionaires drops amid stock-market swings",
+      "link": "https://www.marketwatch.com/story/the-number-of-401-k-millionaires-drops-amid-stock-market-swings-23939b94?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-23T05:01:00.000Z"
+    },
+    {
+      "title": "Asia FX mixed as dollar retreats from 19-month high; yen, won weaken",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-23T04:35:28.000Z"
+    },
+    {
+      "title": "Crypto crime: Fusionist's ACE bridge emptied of $3.7 million as traders follow a $2 million exploit",
+      "link": "https://investinglive.com/cryptocurrency/crypto-crime-fusionist-s-ace-bridge-emptied-of-3-7-million-as-traders-follow-a-2-million-exploit/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-23T03:20:36.000Z"
+    },
+    {
+      "title": "OCBC: AI rout becomes a growth shock as EM currencies take the dollar's strength",
+      "link": "https://investinglive.com/central-banks/ocbc-ai-rout-becomes-a-growth-shock-as-em-currencies-take-the-dollar-s-strength/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-23T02:23:56.000Z"
+    },
+    {
+      "title": "JPMorgan's Kelly: tech correction overdue, stocks to bounce, Fed to hike once then pause",
+      "link": "https://investinglive.com/central-banks/jpmorgan-s-kelly-tech-correction-overdue-stocks-to-bounce-fed-to-hike-once-then-pause/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-23T02:04:59.000Z"
+    },
+    {
+      "title": "Ackman urges Fed to drop 2% inflation goal for 3%, warns 9 December hike risks recession",
+      "link": "https://investinglive.com/central-banks/ackman-urges-fed-to-drop-2-inflation-goal-for-3-warns-9-december-hike-risks-recession/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-23T01:36:28.000Z"
+    },
+    {
+      "title": "US stock futures jump over 2% in relief bounce, gold rallies, but Kospi slides nearly 4%",
+      "link": "https://investinglive.com/stock-market-update/us-stock-futures-jump-over-2-in-relief-bounce-gold-rallies-but-kospi-slides-nearly-4/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-23T01:28:12.000Z"
+    },
+    {
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7120 (vs. estimate at 6.6775)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7120-vs-estimate-at-6-6775/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-23T01:15:30.000Z"
+    },
     {
       "title": "PBOC is expected to set the USD/CNY reference rate at 6.6775 – Reuters estimate",
       "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6775-reuters-estimate/",
@@ -63,13 +126,6 @@
       "published": "2026-11-22T17:00:00.000Z"
     },
     {
-      "title": "Bitcoin analysis: More volume, but less downside damage (possible dip?)",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-analysis-more-volume-but-less-downside-damage-possible-dip/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-22T12:53:44.000Z"
-    },
-    {
       "title": "Bitcoin rises after falling to two-year low",
       "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
       "source": "Investing.com",
@@ -91,39 +147,11 @@
       "published": "2026-11-20T22:34:35.000Z"
     },
     {
-      "title": "investingLive Americas FX news wrap 20 Nov: Stocks get hammered as Nasdaq plunges 5.28%",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-20-nov-stocks-get-hammered-as-nasdaq-plunges-5-28/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T22:21:47.000Z"
-    },
-    {
-      "title": "Nasdaq 100 posts worst week since March 2020",
-      "link": "https://investinglive.com/stocks/nasdaq-100-posts-worst-week-since-march-2020/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T22:03:17.000Z"
-    },
-    {
       "title": "Dollar set for 4-week win streak; yen jumps on safe-haven bid, hot inflation data",
       "link": "https://www.investing.com/news/forex-news/asia-fx-struggles-as-dollar-holds-near-19mth-high-aussie-hits-11month-low-5040667",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-20T21:44:47.000Z"
-    },
-    {
-      "title": "European stocks end a bruising week. German DAX falls 7.29%.",
-      "link": "https://investinglive.com/news/european-stocks-end-a-bruising-week-german-dax-falls-7-29/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-20T18:12:25.000Z"
-    },
-    {
-      "title": "Fed’s Cook says monetary policy isn’t restrictive enough",
-      "link": "https://investinglive.com/central-banks/fed-s-cook-says-monetary-policy-isn-t-restrictive-enough/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-20T17:21:55.000Z"
     },
     {
       "title": "UBS flags further euro downside as dollar strength keeps EUR/USD under pressure",
@@ -152,13 +180,6 @@
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-19T20:49:01.000Z"
-    },
-    {
-      "title": "Dollar index hits 52-week high, driven by haven demand and rate expectations",
-      "link": "https://www.investing.com/news/forex-news/dollar-index-hits-52week-high-driven-by-haven-demand-and-rate-expectations-93CH-5039556",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-19T16:17:42.000Z"
     }
   ]
 }
