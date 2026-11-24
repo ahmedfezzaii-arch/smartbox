@@ -1,11 +1,81 @@
 {
-  "updated": "2026-11-24T01:28:02.239Z",
+  "updated": "2026-11-24T07:36:35.035Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Dollar holds near 20-mth high amid AI rally, Fed tightening bets",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-20mth-high-on-ai-rally-5046950",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-24T06:20:11.000Z"
+    },
+    {
+      "title": "Dollar perky as renewed AI euphoria fuels Fed hike bets",
+      "link": "https://www.investing.com/news/forex-news/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets-5046813",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-24T06:00:29.000Z"
+    },
+    {
+      "title": "US dollar refuses to budge despite the risk-on bounce, so what's keeping it so strong?",
+      "link": "https://investinglive.com/forex/us-dollar-refuses-to-budge-despite-the-risk-on-bounce-so-what-s-keeping-it-so-strong/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-24T05:57:47.000Z"
+    },
+    {
+      "title": "Gold gets a bit of a lifeline but the technical damage runs deep, so what now?",
+      "link": "https://investinglive.com/commodities/gold-gets-a-bit-of-a-lifeline-but-the-technical-damage-runs-deep-so-what-now/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-24T05:10:33.000Z"
+    },
+    {
+      "title": "Wall Street catches Jensen Huang fever, but is this all a dead cat bounce?",
+      "link": "https://investinglive.com/stocks/wall-street-catches-jensen-huang-fever-but-is-this-all-a-dead-cat-bounce/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-24T04:37:35.000Z"
+    },
+    {
+      "title": "Iran says three tankers hit mines, yet oil sits near a three-month low as supply wins",
+      "link": "https://investinglive.com/commodities/iran-says-three-tankers-hit-mines-yet-oil-sits-near-a-three-month-low-as-supply-wins/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-24T03:58:55.000Z"
+    },
+    {
+      "title": "CFTC staff let exchanges count bitcoin and ether toward reserves, after a 20% haircut",
+      "link": "https://investinglive.com/cryptocurrency/cftc-staff-let-exchanges-count-bitcoin-and-ether-toward-reserves-after-a-20-haircut/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-24T02:21:50.000Z"
+    },
+    {
+      "title": "Gold's road back to $5,000: four big banks bet on recovery, but the Fed sets the pace",
+      "link": "https://investinglive.com/commodities/gold-s-road-back-to-5-000-four-big-banks-bet-on-recovery-but-the-fed-sets-the-pace/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-24T01:34:56.000Z"
+    },
+    {
+      "title": "BlackRock says markets overprice Fed hikes, sees two not three as energy shock fades",
+      "link": "https://investinglive.com/central-banks/blackrock-says-markets-overprice-fed-hikes-sees-two-not-three-as-energy-shock-fades/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-24T01:21:05.000Z"
+    },
+    {
+      "title": "PBOC sets USD/ CNY central rate at 6.7111 (vs. estimate at 6.6757)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7111-vs-estimate-at-6-6757/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-24T01:16:09.000Z"
+    },
     {
       "title": "HPE just posted its strongest growth ever — but its stock is sinking",
       "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
@@ -112,27 +182,6 @@
       "published": "2026-11-23T21:19:00.000Z"
     },
     {
-      "title": "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
-      "link": "https://investinglive.com/central-banks/williams-keeps-december-fed-hike-in-play-as-inflation-seen-above-2-until-2028/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-23T21:06:53.000Z"
-    },
-    {
-      "title": "Silver sets the technical boundaries in the short term for traders",
-      "link": "https://investinglive.com/commodities/silver-sets-the-technical-boundaries-in-the-short-term-for-traders/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-23T21:03:58.000Z"
-    },
-    {
-      "title": "Crude oil settles at $80.17. Trades at its lowest level since August 26.",
-      "link": "https://investinglive.com/commodities/crude-oil-settles-at-80-17-trades-at-its-lowest-level-since-august-26/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-23T20:52:37.000Z"
-    },
-    {
       "title": "Dollar index technical outlook: rally extended but overbought signals flash caution",
       "link": "https://www.investing.com/news/forex-news/dollar-index-technical-outlook-rally-extended-but-overbought-signals-flash-caution-93CH-5046271",
       "source": "Investing.com",
@@ -140,32 +189,11 @@
       "published": "2026-11-23T19:26:13.000Z"
     },
     {
-      "title": "Gold rebounds 3.2% despite a stronger dollar and higher yields.",
-      "link": "https://investinglive.com/commodities/gold-rebounds-3-2-despite-a-stronger-dollar-and-higher-yields/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-23T18:57:30.000Z"
-    },
-    {
-      "title": "U.S. Treasury sells $69 billion the two-year notes at a high yield of 4.700%",
-      "link": "https://investinglive.com/news/u-s-treasury-sells-69-billion-the-two-year-notes-at-a-high-yield-of-4-700/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-23T18:03:10.000Z"
-    },
-    {
       "title": "Barclays’ USD/SEK tactical long: still attractive after a 10-day run?",
       "link": "https://www.investing.com/news/forex-news/barclays-usdsek-tactical-long-still-attractive-after-a-10day-run-93CH-5046175",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-23T17:32:13.000Z"
-    },
-    {
-      "title": "Nvidia is lifting all boats. Nvidia is up 32.6% and that is lifting AI and chip stocks after last week’s rout.",
-      "link": "https://investinglive.com/stocks/nvidia-jumps-32-6-as-ai-and-chip-stocks-rebound-from-last-week-s-rout-nvidia-is-lifting-all-boats/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-23T16:43:18.000Z"
     },
     {
       "title": "USD/JPY to return to the 140s in 2027: Deutsche Bank",
@@ -187,20 +215,6 @@
       "source": "Investing.com",
       "category": "Macro data",
       "published": "2026-11-23T13:02:08.000Z"
-    },
-    {
-      "title": "Canadian dollar steadies near 19-month low as oil weakness and rate gap weigh",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-steadies-near-19month-low-as-oil-weakness-and-rate-gap-weigh-5045295",
-      "source": "Investing.com",
-      "category": "Commodities",
-      "published": "2026-11-23T12:22:11.000Z"
-    },
-    {
-      "title": "UBS downgrades New Zealand dollar on weak domestic outlook",
-      "link": "https://www.investing.com/news/forex-news/ubs-downgrades-new-zealand-dollar-on-weak-domestic-outlook-93CH-5045178",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-23T12:04:02.000Z"
     }
   ]
 }
