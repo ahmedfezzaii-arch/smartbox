@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T19:15:02.994Z",
+  "updated": "2026-11-24T01:28:02.239Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,18 +7,144 @@
   ],
   "items": [
     {
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-24T01:01:00.000Z"
+    },
+    {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6757 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6757-reuters-estimate/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-24T00:26:59.000Z"
+    },
+    {
+      "title": "NinjaTrader Bid/Ask data change: does it affect your indicators and Tick Replay?",
+      "link": "https://investinglive.com/technical-analysis/ninjatrader-bid-ask-data-change-does-it-affect-your-indicators-and-tick-replay/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-24T00:07:17.000Z"
+    },
+    {
+      "title": "Singapore Q3 GDP jumps 6.1%, growth forecast lifted to around 6% as exports boom",
+      "link": "https://investinglive.com/news/singapore-q3-gdp-jumps-6-1-growth-forecast-lifted-to-around-6-as-exports-boom/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-24T00:05:25.000Z"
+    },
+    {
+      "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+      "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-23T23:18:00.000Z"
+    },
+    {
+      "title": "Fed's Williams won't rule out back-to-back rate hikes as data drives the path",
+      "link": "https://investinglive.com/central-banks/fed-s-williams-won-t-rule-out-back-to-back-rate-hikes-as-data-drives-the-path/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-23T23:08:03.000Z"
+    },
+    {
+      "title": "ANZ pulls first RBA rate cut forward to June 2027, sees three cuts by early 2028",
+      "link": "https://investinglive.com/central-banks/anz-pulls-first-rba-rate-cut-forward-to-june-2027-sees-three-cuts-by-early-2028/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-23T22:58:43.000Z"
+    },
+    {
+      "title": "Dollar at nearly 20-month high as AI trade reignites, boosting growth prospects",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-23T22:32:38.000Z"
+    },
+    {
+      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-23T22:04:00.000Z"
+    },
+    {
+      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+      "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-23T21:51:00.000Z"
+    },
+    {
+      "title": "Fed's Williams pins inflation on unusual factors, sees 2027 bringing it lower",
+      "link": "https://investinglive.com/central-banks/fed-s-williams-pins-inflation-on-unusual-factors-sees-2027-bringing-it-lower/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-23T21:45:59.000Z"
+    },
+    {
+      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+      "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-23T21:45:00.000Z"
+    },
+    {
+      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+      "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-23T21:36:00.000Z"
+    },
+    {
+      "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
+      "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-23T21:24:00.000Z"
+    },
+    {
+      "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
+      "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-23T21:19:00.000Z"
+    },
+    {
+      "title": "Williams keeps December Fed hike in play as inflation seen above 2% until 2028",
+      "link": "https://investinglive.com/central-banks/williams-keeps-december-fed-hike-in-play-as-inflation-seen-above-2-until-2028/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-23T21:06:53.000Z"
+    },
+    {
+      "title": "Silver sets the technical boundaries in the short term for traders",
+      "link": "https://investinglive.com/commodities/silver-sets-the-technical-boundaries-in-the-short-term-for-traders/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-23T21:03:58.000Z"
+    },
+    {
+      "title": "Crude oil settles at $80.17. Trades at its lowest level since August 26.",
+      "link": "https://investinglive.com/commodities/crude-oil-settles-at-80-17-trades-at-its-lowest-level-since-august-26/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-23T20:52:37.000Z"
+    },
+    {
+      "title": "Dollar index technical outlook: rally extended but overbought signals flash caution",
+      "link": "https://www.investing.com/news/forex-news/dollar-index-technical-outlook-rally-extended-but-overbought-signals-flash-caution-93CH-5046271",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-23T19:26:13.000Z"
+    },
+    {
       "title": "Gold rebounds 3.2% despite a stronger dollar and higher yields.",
       "link": "https://investinglive.com/commodities/gold-rebounds-3-2-despite-a-stronger-dollar-and-higher-yields/",
       "source": "investingLive",
       "category": "Commodities",
       "published": "2026-11-23T18:57:30.000Z"
-    },
-    {
-      "title": "Trump is open to capping credit-card interest rates — but holiday shoppers shouldn’t bank on it yet",
-      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Central banks",
-      "published": "2026-11-23T18:55:00.000Z"
     },
     {
       "title": "U.S. Treasury sells $69 billion the two-year notes at a high yield of 4.700%",
@@ -28,13 +154,6 @@
       "published": "2026-11-23T18:03:10.000Z"
     },
     {
-      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, are among the S&P 500’s biggest losers Monday",
-      "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-23T17:54:00.000Z"
-    },
-    {
       "title": "Barclays’ USD/SEK tactical long: still attractive after a 10-day run?",
       "link": "https://www.investing.com/news/forex-news/barclays-usdsek-tactical-long-still-attractive-after-a-10day-run-93CH-5046175",
       "source": "Investing.com",
@@ -42,32 +161,11 @@
       "published": "2026-11-23T17:32:13.000Z"
     },
     {
-      "title": "The return of Jensen Huang has saved the U.S. stock market — for now. Why the rebound may not last.",
-      "link": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-23T16:44:00.000Z"
-    },
-    {
       "title": "Nvidia is lifting all boats. Nvidia is up 32.6% and that is lifting AI and chip stocks after last week’s rout.",
       "link": "https://investinglive.com/stocks/nvidia-jumps-32-6-as-ai-and-chip-stocks-rebound-from-last-week-s-rout-nvidia-is-lifting-all-boats/",
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-23T16:43:18.000Z"
-    },
-    {
-      "title": "S&P Global US services November flash PMI 54.7 vs 55.7 expected",
-      "link": "https://investinglive.com/news/s-p-global-us-services-november-flash-pmi-54-7-vs-55-7-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-23T14:45:41.000Z"
-    },
-    {
-      "title": "Morning Kickstart. U.S. stock futures surge as the dollar trades mixed",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-u-s-stock-futures-surge-as-the-dollar-trades-mixed/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-23T13:28:52.000Z"
     },
     {
       "title": "USD/JPY to return to the 140s in 2027: Deutsche Bank",
@@ -82,13 +180,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-23T13:18:46.000Z"
-    },
-    {
-      "title": "Solana recovers some ground amid general short-covering as traders await new catalysts",
-      "link": "https://investinglive.com/cryptocurrency/solana-recovers-some-ground-amid-general-short-covering-as-traders-await-new-catalysts/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-23T13:02:25.000Z"
     },
     {
       "title": "U.S. yields extend rally as tech wipeout collides with holiday-thinned week",
@@ -110,76 +201,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-23T12:04:02.000Z"
-    },
-    {
-      "title": "Crude oil remains under pressure as demand concerns continue to weigh despite high US-Iran tensions",
-      "link": "https://investinglive.com/commodities/crude-oil-remains-under-pressure-as-demand-concerns-continue-to-weigh-despite-high-us-iran-tensions/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-23T11:38:21.000Z"
-    },
-    {
-      "title": "Ethereum rebounds, but has the crypto market selloff run its course?",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-rebounds-but-has-the-crypto-market-selloff-run-its-course/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-23T10:42:07.000Z"
-    },
-    {
-      "title": "Dollar off 19-month peaks as risk appetite rebounds in holiday-shortened week",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-23T10:30:10.000Z"
-    },
-    {
-      "title": "Gold trims losses amid broad short-covering across markets as growth concerns linger. What's next?",
-      "link": "https://investinglive.com/commodities/gold-trims-losses-amid-broad-short-covering-across-markets-as-growth-concerns-linger-what-s-next/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-23T09:45:20.000Z"
-    },
-    {
-      "title": "UK November flash services PMI 52.0 vs 53.0 expected",
-      "link": "https://investinglive.com/news/uk-november-flash-services-pmi-52-0-vs-53-0-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-23T09:30:16.000Z"
-    },
-    {
-      "title": "Sterling today: Pound firms as equity rebound trims dollar bid",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-firms-as-equity-rebound-trims-dollar-bid-5044762",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-23T09:30:09.000Z"
-    },
-    {
-      "title": "Eurozone November flash services PMI 51.2 vs 51.8 expected",
-      "link": "https://investinglive.com/news/eurozone-november-flash-services-pmi-51-2-vs-51-8-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-23T09:00:21.000Z"
-    },
-    {
-      "title": "Germany November flash manufacturing PMI 55.0 vs 54.0 expected",
-      "link": "https://investinglive.com/news/germany-november-flash-manufacturing-pmi-55-0-vs-54-0-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-23T08:30:21.000Z"
-    },
-    {
-      "title": "France November flash services PMI 46.6 vs 47.5 expected",
-      "link": "https://investinglive.com/news/france-november-flash-services-pmi-46-6-vs-47-5-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-23T08:15:30.000Z"
-    },
-    {
-      "title": "Bitcoin rises after falling to two-year low",
-      "link": "https://www.investing.com/news/forex-news/bitcoin-falls-357-to-56814-5043137",
-      "source": "Investing.com",
-      "category": "Crypto",
-      "published": "2026-11-21T17:12:18.000Z"
     }
   ]
 }
