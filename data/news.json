@@ -1,11 +1,88 @@
 {
-  "updated": "2026-11-24T13:30:46.449Z",
+  "updated": "2026-11-24T19:14:57.699Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Micron’s stock falls as an analyst warns about a future supply glut",
+      "link": "https://www.marketwatch.com/story/microns-stock-falls-as-an-analyst-warns-about-a-future-supply-glut-f7fbeefb?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-24T18:33:00.000Z"
+    },
+    {
+      "title": "Tesla has a ‘legitimate multitrillion-dollar opportunity’ in robotaxis, says former skeptic",
+      "link": "https://www.marketwatch.com/story/tesla-has-a-legitimate-multitrillion-dollar-opportunity-in-robotaxis-says-former-skeptic-23507364?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Forex",
+      "published": "2026-11-24T18:28:00.000Z"
+    },
+    {
+      "title": "The US treasury sells $70 billion of 5 year notes at a high yield of 4.719%",
+      "link": "https://investinglive.com/news/the-us-treasury-sells-70-billion-of-5-year-notes-at-a-high-yield-of-4-719/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-24T18:06:02.000Z"
+    },
+    {
+      "title": "Canadian dollar rebounds from 19-month low as U.S. dollar retreats",
+      "link": "https://www.investing.com/news/forex-news/canadian-dollar-rebounds-from-19month-low-as-us-dollar-retreats-5048801",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-24T17:28:10.000Z"
+    },
+    {
+      "title": "European stocks fall as Trump turns back to tariffs. Italy leads the declines.",
+      "link": "https://investinglive.com/news/european-stocks-fall-as-trump-turns-back-to-tariffs-italy-leads-the-declines/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-24T17:06:42.000Z"
+    },
+    {
+      "title": "Stock markets fall as Trump pivots from corporate meddling to fresh tariffs",
+      "link": "https://investinglive.com/news/stock-markets-fall-as-trump-pivots-from-corporate-meddling-to-fresh-tariffs/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-24T16:00:29.000Z"
+    },
+    {
+      "title": "US broader stock indices give up some of the gains from yesterday with sellers remaining in control",
+      "link": "https://investinglive.com/stocks/us-broader-stock-indices-give-up-some-of-the-gains-from-yesterday-with-sellers-remaining-in-control/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-24T15:28:37.000Z"
+    },
+    {
+      "title": "Dollar slips as Nvidia-fueled AI rally fades",
+      "link": "https://www.investing.com/news/forex-news/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets-5046813",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-24T15:18:36.000Z"
+    },
+    {
+      "title": "Richmond Fed composite Index for November comes in higher at 3 versus -2 last month",
+      "link": "https://investinglive.com/central-banks/richmond-fed-composite-index-for-november-3-versus-2-last-month/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-24T15:03:05.000Z"
+    },
+    {
+      "title": "Bitcoin slips back below its old floor as sellers lean on $60,000.",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-slips-back-below-its-old-floor-as-sellers-lean-on-60-000/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-24T14:27:09.000Z"
+    },
+    {
+      "title": "Morning Kickstart. Nvidia slips after Monday’s surge. Nasdaq 100 futures fall 450 points. USD mostly lower",
+      "link": "https://investinglive.com/technical-analysis/morning-kickstart-nvidia-slips-after-monday-s-surge-nasdaq-100-futures-fall-450-points-usd-mostly-lower/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-24T13:22:02.000Z"
+    },
     {
       "title": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
       "link": "https://www.investing.com/news/forex-news/global-yields-fall-as-safehaven-bid-meets-looming-us-pce-test-5047210",
@@ -14,46 +91,11 @@
       "published": "2026-11-24T13:00:01.000Z"
     },
     {
-      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
-      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-24T12:54:00.000Z"
-    },
-    {
-      "title": "Dollar takes a breather from AI-driven rally",
-      "link": "https://www.investing.com/news/forex-news/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets-5046813",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-24T12:49:34.000Z"
-    },
-    {
-      "title": "Jensen Huang’s return was worth nearly $950 billion to Nvidia. How much of the stock market should ride on one man?",
-      "link": "https://www.marketwatch.com/story/jensen-huangs-return-was-worth-nearly-950-billion-to-nvidia-how-much-of-the-stock-market-should-ride-on-one-man-c7129e95?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-24T12:21:00.000Z"
-    },
-    {
       "title": "Suckers' Rally 3.0? Nasdaq surges as Nvidia reinstates Huang following White House pressure",
       "link": "https://investinglive.com/stocks/suckers-rally-3-0-nasdaq-surges-as-nvidia-reinstates-huang-following-white-house-pressure/",
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-24T12:00:39.000Z"
-    },
-    {
-      "title": "This billionaire bought Nvidia in anticipation of Jensen Huang’s return — and warns the S&P 500 could fall by a third",
-      "link": "https://www.marketwatch.com/story/this-billionaire-bought-nvidia-in-anticipation-of-jensen-huangs-return-and-warns-the-s-p-500-could-fall-by-a-third-dcff9489?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-24T11:59:00.000Z"
-    },
-    {
-      "title": "The ‘epic’ buying of retail investors paid off after Nvidia’s 31% stock surge, says strategist",
-      "link": "https://www.marketwatch.com/story/the-epic-buying-of-retail-investors-paid-off-after-nvidias-31-stock-surge-says-strategist-c8f9a502?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-24T11:39:00.000Z"
     },
     {
       "title": "Zcash's Nvidia-induced rally fades quickly as hawkish Fed and geopolitical risks keep the market under pressure",
@@ -140,74 +182,11 @@
       "published": "2026-11-24T07:07:58.000Z"
     },
     {
-      "title": "US dollar refuses to budge despite the risk-on bounce, so what's keeping it so strong?",
-      "link": "https://investinglive.com/forex/us-dollar-refuses-to-budge-despite-the-risk-on-bounce-so-what-s-keeping-it-so-strong/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-24T05:57:47.000Z"
-    },
-    {
-      "title": "Gold gets a bit of a lifeline but the technical damage runs deep, so what now?",
-      "link": "https://investinglive.com/commodities/gold-gets-a-bit-of-a-lifeline-but-the-technical-damage-runs-deep-so-what-now/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-24T05:10:33.000Z"
-    },
-    {
-      "title": "Wall Street catches Jensen Huang fever, but is this all a dead cat bounce?",
-      "link": "https://investinglive.com/stocks/wall-street-catches-jensen-huang-fever-but-is-this-all-a-dead-cat-bounce/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-24T04:37:35.000Z"
-    },
-    {
-      "title": "Iran says three tankers hit mines, yet oil sits near a three-month low as supply wins",
-      "link": "https://investinglive.com/commodities/iran-says-three-tankers-hit-mines-yet-oil-sits-near-a-three-month-low-as-supply-wins/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-24T03:58:55.000Z"
-    },
-    {
-      "title": "CFTC staff let exchanges count bitcoin and ether toward reserves, after a 20% haircut",
-      "link": "https://investinglive.com/cryptocurrency/cftc-staff-let-exchanges-count-bitcoin-and-ether-toward-reserves-after-a-20-haircut/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-24T02:21:50.000Z"
-    },
-    {
-      "title": "Gold's road back to $5,000: four big banks bet on recovery, but the Fed sets the pace",
-      "link": "https://investinglive.com/commodities/gold-s-road-back-to-5-000-four-big-banks-bet-on-recovery-but-the-fed-sets-the-pace/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-24T01:34:56.000Z"
-    },
-    {
-      "title": "BlackRock says markets overprice Fed hikes, sees two not three as energy shock fades",
-      "link": "https://investinglive.com/central-banks/blackrock-says-markets-overprice-fed-hikes-sees-two-not-three-as-energy-shock-fades/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-24T01:21:05.000Z"
-    },
-    {
-      "title": "PBOC sets USD/ CNY central rate at 6.7111 (vs. estimate at 6.6757)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-central-rate-at-6-7111-vs-estimate-at-6-6757/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-24T01:16:09.000Z"
-    },
-    {
       "title": "Dollar at nearly 20-month high as AI trade reignites, boosting growth prospects",
       "link": "https://www.investing.com/news/forex-news/asia-fx-mixed-as-dollar-retreats-from-19month-high-yen-won-weaken-5044324",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-23T22:32:38.000Z"
-    },
-    {
-      "title": "Dollar index technical outlook: rally extended but overbought signals flash caution",
-      "link": "https://www.investing.com/news/forex-news/dollar-index-technical-outlook-rally-extended-but-overbought-signals-flash-caution-93CH-5046271",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-23T19:26:13.000Z"
     }
   ]
 }
