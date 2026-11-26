@@ -1,11 +1,130 @@
 {
-  "updated": "2026-11-25T19:09:40.845Z",
+  "updated": "2026-11-26T01:33:04.468Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
+      "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-26T00:33:00.000Z"
+    },
+    {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6655 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6655-reuters-estimate-0/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-26T00:25:40.000Z"
+    },
+    {
+      "title": "Nikkei and Kospi rebound over 1% as Asia follows Wall Street's comeback, BoK decision next",
+      "link": "https://investinglive.com/stock-market-update/nikkei-and-kospi-rebound-over-1-as-asia-follows-wall-street-s-comeback-bok-decision-next/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-26T00:20:30.000Z"
+    },
+    {
+      "title": "Citi says fear is extreme, but stocks rose after 13 of 14 past VIX spikes to 40",
+      "link": "https://investinglive.com/stocks/citi-says-fear-is-extreme-but-stocks-rose-after-13-of-14-past-vix-spikes-to-40/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-25T23:36:08.000Z"
+    },
+    {
+      "title": "Michael Burry closes his Nasdaq bets and shifts to value, but still plans an Nvidia short",
+      "link": "https://investinglive.com/stock-market-update/michael-burry-closes-his-nasdaq-bets-and-shifts-to-value-but-still-plans-an-nvidia-short/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-25T22:59:31.000Z"
+    },
+    {
+      "title": "BofA sees S&P 500 at 7,800 by end-2027, a target that only takes it back to October",
+      "link": "https://investinglive.com/stock-market-update/bofa-sees-s-p-500-at-7-800-by-end-2027-a-target-that-only-takes-it-back-to-october/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-25T22:47:28.000Z"
+    },
+    {
+      "title": "AI's debt binge is becoming a bond market problem, South Africa's central bank warns",
+      "link": "https://investinglive.com/central-banks/ai-s-debt-binge-is-becoming-a-bond-market-problem-south-africa-s-central-bank-warns/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-25T22:34:45.000Z"
+    },
+    {
+      "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
+      "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-25T22:16:00.000Z"
+    },
+    {
+      "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-25T22:11:00.000Z"
+    },
+    {
+      "title": "Gold claws back $160 from a 14-month low, but one candle doesn't necessarily make a bottom",
+      "link": "https://investinglive.com/commodities/gold-claws-back-160-from-a-14-month-low-but-one-candle-doesn-t-necessarily-make-a-bottom/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-25T22:07:48.000Z"
+    },
+    {
+      "title": "investingLive Americas FX news wrap 25 Nov: It’s a Wrap. S&P 500 and Nasdaq pare steep losses",
+      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-25-nov-it-s-a-wrap-s-p-500-and-nasdaq-pare-steep-losses/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-25T21:47:09.000Z"
+    },
+    {
+      "title": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
+      "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-25T21:36:00.000Z"
+    },
+    {
+      "title": "Gold bulls may have been waiting months for a chart like this",
+      "link": "https://investinglive.com/commodities/gold-bulls-may-have-been-waiting-months-for-a-chart-like-this/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-25T21:28:28.000Z"
+    },
+    {
+      "title": "U.S. stocks close mixed as Dow reverses a 1,105-point drop",
+      "link": "https://investinglive.com/stocks/u-s-stocks-close-mixed-as-dow-reverses-a-1-105-point-drop/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-25T21:24:54.000Z"
+    },
+    {
+      "title": "Dollar reverses course after earlier gains driven by hot U.S. data, AI rout",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-tariff-risks-aussie-hits-11month-low-5049767",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-25T21:18:43.000Z"
+    },
+    {
+      "title": "Economic and event calendar in Asia Thursday, November 26, 2026: BoK, BoJ, turkey later",
+      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-thursday-november-26-2026-bok-boj-turkey-later/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-25T21:09:34.000Z"
+    },
+    {
+      "title": "The Nasdaq looked over the edge. Support held. Now what?",
+      "link": "https://investinglive.com/stocks/the-nasdaq-looked-over-the-edge-support-held-now-what/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-25T20:20:26.000Z"
+    },
     {
       "title": "Stock markets mount a huge comeback",
       "link": "https://investinglive.com/stocks/stock-markets-mount-a-huge-comeback/",
@@ -19,27 +138,6 @@
       "source": "investingLive",
       "category": "Commodities",
       "published": "2026-11-25T18:08:30.000Z"
-    },
-    {
-      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
-      "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-25T17:39:00.000Z"
-    },
-    {
-      "title": "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-      "link": "https://www.marketwatch.com/story/inflation-gets-worse-now-the-fed-no-choice-but-to-raise-u-s-interest-rates-8b0c2c1f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Central banks",
-      "published": "2026-11-25T17:31:00.000Z"
-    },
-    {
-      "title": "HP’s stock is a standout gainer in the tech rout, as an earnings beat still matters",
-      "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-25T17:24:00.000Z"
     },
     {
       "title": "European stocks close lower as the Nasdaq 100 sheds nearly 4%.",
@@ -56,102 +154,11 @@
       "published": "2026-11-25T16:54:10.000Z"
     },
     {
-      "title": "The latest stock-market drop could lower your tax bill over your lifetime",
-      "link": "https://www.marketwatch.com/story/the-latest-stock-market-drop-could-lower-your-tax-bill-over-your-lifetime-99420b97?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-25T16:53:00.000Z"
-    },
-    {
-      "title": "Oracle’s stock sinks toward a 3-year low as the AI trade continues to unravel",
-      "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-25T16:52:00.000Z"
-    },
-    {
-      "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
-      "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-25T16:49:00.000Z"
-    },
-    {
-      "title": "Gold is sitting on the edge of support at $3,425 despite lower yields",
-      "link": "https://investinglive.com/commodities/gold-is-sitting-on-the-edge-of-support-at-3-425-despite-lower-yields/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-25T15:47:15.000Z"
-    },
-    {
-      "title": "Bitcoin is following the stocks lower. What are the charts telling traders now?",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-is-following-the-stocks-lower-what-are-the-charts-telling-traders-now/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-25T14:58:57.000Z"
-    },
-    {
-      "title": "As US stocks continue to fall, the flow of funds is leaning into the relative safety of the CHF.",
-      "link": "https://investinglive.com/technical-analysis/as-us-stocks-continue-to-fall-the-flow-of-funds-is-leaning-into-the-relative-safety-of-the-chf/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-25T14:31:00.000Z"
-    },
-    {
-      "title": "Dollar firms after hot core inflation boosts rate hike bets",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-tariff-risks-aussie-hits-11month-low-5049767",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-25T13:41:13.000Z"
-    },
-    {
-      "title": "US GDP 2nd Estimate for the 3rd quarter 4.3% vs 3.5 estimate",
-      "link": "https://investinglive.com/news/us-gdp-2nd-estimate-for-the-3rd-quarter-3-5-vs-3-5-estimate/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-25T13:30:42.000Z"
-    },
-    {
-      "title": "US Initial jobless claims 189K vs 200K estimate. Continuing claim 1.697M vs 1.721M estimate",
-      "link": "https://investinglive.com/news/us-initial-jobless-claims-200k-vs-200k-estimate-continuing-claim-1-721m-vs-1-721m-estimate/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-25T13:30:18.000Z"
-    },
-    {
-      "title": "US October PCE core inflation +0.3% m/m vs +0.3% expected",
-      "link": "https://investinglive.com/news/us-october-pce-core-inflation-m-m-vs-0-3-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-25T13:30:17.000Z"
-    },
-    {
-      "title": "Morning Kickstart. Nasdaq futures fall 742 points ahead of U.S. PCE and GDP",
-      "link": "https://investinglive.com/technical-analysis/morning-kickstart-nasdaq-futures-fall-742-points-ahead-of-u-s-pce-and-gdp/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-25T13:19:35.000Z"
-    },
-    {
       "title": "Sterling today: Pound slips as risk unwind lifts dollar before PCE data",
       "link": "https://www.investing.com/news/forex-news/sterling-today-pound-falls-as-risk-unwind-sends-funds-back-to-dollar-5050111",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-25T13:16:09.000Z"
-    },
-    {
-      "title": "Indian Rupee strengthens as falling oil prices ease pressure; Middle East escalation and recession trade remain key risks",
-      "link": "https://investinglive.com/forex/indian-rupee-strengthens-as-falling-oil-prices-ease-pressure-middle-east-escalation-and-recession-trade-remain-key-risks/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-25T13:12:46.000Z"
-    },
-    {
-      "title": "investingLive European session wrap: Equities and tech selloff deepens, gold threatens $3,500",
-      "link": "https://investinglive.com/news/investinglive-european-session-wrap-equities-and-tech-selloff-deepens-gold-threatens-3-500/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-25T12:43:36.000Z"
     },
     {
       "title": "Swiss franc safe-haven demand and USD/CHF technical outlook",
@@ -161,39 +168,11 @@
       "published": "2026-11-25T12:21:35.000Z"
     },
     {
-      "title": "Solana's bearish outlook persists amid Fed tightening, prolonged US-Iran stalemate and growth concerns",
-      "link": "https://investinglive.com/cryptocurrency/solana-s-bearish-outlook-persists-amid-fed-tightening-prolonged-us-iran-stalemate-and-growth-concerns/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-25T12:04:00.000Z"
-    },
-    {
       "title": "EUR/USD may rally to 1.12 before falling to 1.05, BCA says",
       "link": "https://www.investing.com/news/forex-news/eurusd-may-rally-to-112-before-falling-to-105-bca-says-93CH-5050407",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-25T11:39:24.000Z"
-    },
-    {
-      "title": "Wall Street braces for another beatdown as US futures tumble, tech selloff deepens",
-      "link": "https://investinglive.com/stocks/wall-street-braces-for-another-beatdown-as-us-futures-tumble-tech-selloff-deepens/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-25T11:35:49.000Z"
-    },
-    {
-      "title": "Crude oil consolidates as bearish momentum eases while geopolitical risks remain high",
-      "link": "https://investinglive.com/commodities/crude-oil-consolidates-as-bearish-momentum-eases-while-geopolitical-risks-remain-high/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-25T11:29:23.000Z"
-    },
-    {
-      "title": "Ethereum remains under pressure as macro headwinds outweigh Nvidia-driven optimism",
-      "link": "https://investinglive.com/cryptocurrency/ethereum-remains-under-pressure-as-macro-headwinds-outweigh-nvidia-driven-optimism/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-25T10:34:21.000Z"
     },
     {
       "title": "Dollar retreats from near 20-month peak, set for worst day in over two weeks",
