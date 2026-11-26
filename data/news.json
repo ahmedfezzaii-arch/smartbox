@@ -1,11 +1,81 @@
 {
-  "updated": "2026-11-26T01:33:04.468Z",
+  "updated": "2026-11-26T07:39:00.946Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
+      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-26T07:16:00.000Z"
+    },
+    {
+      "title": "BOJ policymaker Tamura hints at faster rate hikes, keeps December in focus",
+      "link": "https://investinglive.com/central-banks/boj-policymaker-tamura-hints-at-faster-rate-hikes-keeps-december-in-focus/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-26T05:26:19.000Z"
+    },
+    {
+      "title": "investingLive Asia-Pacific market news: Asia stocks extend rebound",
+      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-stocks-extend-rebound/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-26T05:11:12.000Z"
+    },
+    {
+      "title": "Dollar steady after strong PCE data, won firms as BOK hikes interest rates",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-26T04:48:40.000Z"
+    },
+    {
+      "title": "My Nvidia stock analysis shows bulls are better than what most seem to think",
+      "link": "https://investinglive.com/stocks/my-nvidia-stock-analysis-shows-bulls-are-better-than-what-most-seem-to-think/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-26T03:52:38.000Z"
+    },
+    {
+      "title": "Ray Dalio's 10-15% gold call resurfaces as bullion tries to find its feet",
+      "link": "https://investinglive.com/commodities/ray-dalio-s-10-15-gold-call-resurfaces-as-bullion-tries-to-find-its-feet/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-26T03:39:39.000Z"
+    },
+    {
+      "title": "Franklin Templeton adds Hyperliquid's HYPE to its EZPZ crypto index ETF from December 1",
+      "link": "https://investinglive.com/cryptocurrency/franklin-templeton-adds-hyperliquid-s-hype-to-its-ezpz-crypto-index-etf-from-december-1/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-26T03:00:32.000Z"
+    },
+    {
+      "title": "S&P puts Nvidia's AA rating on watch for a possible cut, as Moody's holds steady",
+      "link": "https://investinglive.com/stocks/s-p-puts-nvidia-s-aa-rating-on-watch-for-a-possible-cut-as-moody-s-holds-steady/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-26T02:23:35.000Z"
+    },
+    {
+      "title": "PBOC sets USD/ CNY reference rate for today at 6.7096 (vs. estimate at 6.6655)",
+      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7096-vs-estimate-at-6-6655/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-26T01:15:56.000Z"
+    },
+    {
+      "title": "BoJ's Tamura says rates must reach neutral 'soon', still sees neutral near 2%",
+      "link": "https://investinglive.com/central-banks/boj-s-tamura-says-rates-must-reach-neutral-soon-still-sees-neutral-near-2/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-26T01:09:17.000Z"
+    },
     {
       "title": "Why this stock-market selloff is probably going to get worse before it gets better",
       "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
@@ -77,81 +147,11 @@
       "published": "2026-11-25T22:07:48.000Z"
     },
     {
-      "title": "investingLive Americas FX news wrap 25 Nov: It’s a Wrap. S&P 500 and Nasdaq pare steep losses",
-      "link": "https://investinglive.com/news/investinglive-americas-fx-news-wrap-25-nov-it-s-a-wrap-s-p-500-and-nasdaq-pare-steep-losses/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-25T21:47:09.000Z"
-    },
-    {
-      "title": "HP’s stock is a standout gainer in the tech selloff, as an earnings beat still matters",
-      "link": "https://www.marketwatch.com/story/hps-stock-is-a-standout-gainer-in-the-tech-rout-as-an-earnings-beat-still-matters-8f6c76ad?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-25T21:36:00.000Z"
-    },
-    {
-      "title": "Gold bulls may have been waiting months for a chart like this",
-      "link": "https://investinglive.com/commodities/gold-bulls-may-have-been-waiting-months-for-a-chart-like-this/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-25T21:28:28.000Z"
-    },
-    {
-      "title": "U.S. stocks close mixed as Dow reverses a 1,105-point drop",
-      "link": "https://investinglive.com/stocks/u-s-stocks-close-mixed-as-dow-reverses-a-1-105-point-drop/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-25T21:24:54.000Z"
-    },
-    {
       "title": "Dollar reverses course after earlier gains driven by hot U.S. data, AI rout",
       "link": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-tariff-risks-aussie-hits-11month-low-5049767",
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-25T21:18:43.000Z"
-    },
-    {
-      "title": "Economic and event calendar in Asia Thursday, November 26, 2026: BoK, BoJ, turkey later",
-      "link": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-thursday-november-26-2026-bok-boj-turkey-later/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-25T21:09:34.000Z"
-    },
-    {
-      "title": "The Nasdaq looked over the edge. Support held. Now what?",
-      "link": "https://investinglive.com/stocks/the-nasdaq-looked-over-the-edge-support-held-now-what/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-25T20:20:26.000Z"
-    },
-    {
-      "title": "Stock markets mount a huge comeback",
-      "link": "https://investinglive.com/stocks/stock-markets-mount-a-huge-comeback/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-25T18:56:58.000Z"
-    },
-    {
-      "title": "Baker Hughes US rig count holds steady at 607. Oil rigs rise by one.",
-      "link": "https://investinglive.com/commodities/baker-hughes-us-rig-count-holds-steady-at-607-oil-rigs-rise-by-one/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-25T18:08:30.000Z"
-    },
-    {
-      "title": "European stocks close lower as the Nasdaq 100 sheds nearly 4%.",
-      "link": "https://investinglive.com/stocks/european-stocks-close-lower-as-the-nasdaq-100-sheds-nearly-4/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-25T17:12:01.000Z"
-    },
-    {
-      "title": "US treasury sells $44 billion of 7-year notes at a high yield of 4.708%",
-      "link": "https://investinglive.com/news/us-treasury-sells-44-billion-of-70-or-notes-at-a-high-yield-of-4-708/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-25T16:54:10.000Z"
     },
     {
       "title": "Sterling today: Pound slips as risk unwind lifts dollar before PCE data",
@@ -194,13 +194,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-24T17:28:10.000Z"
-    },
-    {
-      "title": "Global yields fall as safe-haven bid meets looming U.S. PCE test",
-      "link": "https://www.investing.com/news/forex-news/global-yields-fall-as-safehaven-bid-meets-looming-us-pce-test-5047210",
-      "source": "Investing.com",
-      "category": "Macro data",
-      "published": "2026-11-24T13:00:01.000Z"
     }
   ]
 }
