@@ -1,11 +1,109 @@
 {
-  "updated": "2026-11-26T07:39:00.946Z",
+  "updated": "2026-11-26T13:36:42.146Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "investingLive European session wrap: European stocks ride Wall Street's comeback into Thanksgiving",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-european-stocks-ride-wall-street-s-comeback-into-thanksgiving/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-26T12:51:11.000Z"
+    },
+    {
+      "title": "Wall Street’s earnings mood is starting to improve. Is the stock market finding a bottom?",
+      "link": "https://investinglive.com/stocks/wall-street-s-earnings-mood-is-starting-to-improve-is-the-stock-market-finding-a-bottom/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-26T12:47:26.000Z"
+    },
+    {
+      "title": "Zcash continues to face macro headwinds despite improving adoption developments. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/zcash-continues-to-face-macro-headwinds-despite-improving-adoption-developments-what-s-next/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-26T10:59:23.000Z"
+    },
+    {
+      "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
+      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-26T10:37:00.000Z"
+    },
+    {
+      "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
+      "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-26T10:11:00.000Z"
+    },
+    {
+      "title": "Crude oil finds some footing as prolonged US-Iran tensions keep the downside limited. What's next?",
+      "link": "https://investinglive.com/commodities/crude-oil-finds-some-footing-as-prolonged-us-iran-tensions-keep-the-downside-limited-what-s-next/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-26T10:08:04.000Z"
+    },
+    {
+      "title": "Dollar takes Thanksgiving breather below 2026 peaks; Euro dips",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-26T09:53:31.000Z"
+    },
+    {
+      "title": "Sterling today: Pound steady as dollar holds range on U.S. holiday",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-steady-as-dollar-holds-range-on-us-holiday-5052307",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-26T09:34:10.000Z"
+    },
+    {
+      "title": "Month-end FX rebalancing signals favour the dollar - Credit Agricole",
+      "link": "https://investinglive.com/orders/month-end-fx-rebalancing-signals-favour-the-dollar-credit-agricole/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-26T09:20:16.000Z"
+    },
+    {
+      "title": "Global bond rally eases as sticky PCE locks in December Fed hike",
+      "link": "https://www.investing.com/news/forex-news/global-bond-rally-eases-as-sticky-pce-locks-in-december-fed-hike-5052104",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-26T09:01:59.000Z"
+    },
+    {
+      "title": "Bitcoin consolidates at yearly lows as traders await fresh catalyst amid negative backdrop",
+      "link": "https://investinglive.com/cryptocurrency/bitcoin-consolidates-at-yearly-lows-as-traders-await-fresh-catalyst-amid-negative-backdrop/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-26T09:01:50.000Z"
+    },
+    {
+      "title": "Gold remains caught between forced liquidations and hawkish Fed bets. What could trigger a reversal?",
+      "link": "https://investinglive.com/commodities/gold-remains-caught-between-forced-liquidations-and-hawkish-fed-bets-what-could-trigger-a-reversal/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-26T08:57:33.000Z"
+    },
+    {
+      "title": "European stock market open: Stocks surge after stunning Wall Street turnaround",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-surge-after-stunning-wall-street-turnaround/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-26T08:30:17.000Z"
+    },
+    {
+      "title": "Chart of the day: Swiss franc emerges as a quiet winner in the market turmoil",
+      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-swiss-franc-emerges-as-a-quiet-winner-in-the-market-turmoil/",
+      "source": "investingLive",
+      "category": "Forex",
+      "published": "2026-11-26T07:17:40.000Z"
+    },
     {
       "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
       "link": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
@@ -26,13 +124,6 @@
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-26T05:11:12.000Z"
-    },
-    {
-      "title": "Dollar steady after strong PCE data, won firms as BOK hikes interest rates",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015",
-      "source": "Investing.com",
-      "category": "Central banks",
-      "published": "2026-11-26T04:48:40.000Z"
     },
     {
       "title": "My Nvidia stock analysis shows bulls are better than what most seem to think",
@@ -63,88 +154,11 @@
       "published": "2026-11-26T02:23:35.000Z"
     },
     {
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7096 (vs. estimate at 6.6655)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7096-vs-estimate-at-6-6655/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-26T01:15:56.000Z"
-    },
-    {
-      "title": "BoJ's Tamura says rates must reach neutral 'soon', still sees neutral near 2%",
-      "link": "https://investinglive.com/central-banks/boj-s-tamura-says-rates-must-reach-neutral-soon-still-sees-neutral-near-2/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-26T01:09:17.000Z"
-    },
-    {
       "title": "Why this stock-market selloff is probably going to get worse before it gets better",
       "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "category": "Stocks",
       "published": "2026-11-26T00:33:00.000Z"
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6655 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6655-reuters-estimate-0/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-26T00:25:40.000Z"
-    },
-    {
-      "title": "Nikkei and Kospi rebound over 1% as Asia follows Wall Street's comeback, BoK decision next",
-      "link": "https://investinglive.com/stock-market-update/nikkei-and-kospi-rebound-over-1-as-asia-follows-wall-street-s-comeback-bok-decision-next/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-26T00:20:30.000Z"
-    },
-    {
-      "title": "Citi says fear is extreme, but stocks rose after 13 of 14 past VIX spikes to 40",
-      "link": "https://investinglive.com/stocks/citi-says-fear-is-extreme-but-stocks-rose-after-13-of-14-past-vix-spikes-to-40/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-25T23:36:08.000Z"
-    },
-    {
-      "title": "Michael Burry closes his Nasdaq bets and shifts to value, but still plans an Nvidia short",
-      "link": "https://investinglive.com/stock-market-update/michael-burry-closes-his-nasdaq-bets-and-shifts-to-value-but-still-plans-an-nvidia-short/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-25T22:59:31.000Z"
-    },
-    {
-      "title": "BofA sees S&P 500 at 7,800 by end-2027, a target that only takes it back to October",
-      "link": "https://investinglive.com/stock-market-update/bofa-sees-s-p-500-at-7-800-by-end-2027-a-target-that-only-takes-it-back-to-october/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-25T22:47:28.000Z"
-    },
-    {
-      "title": "AI's debt binge is becoming a bond market problem, South Africa's central bank warns",
-      "link": "https://investinglive.com/central-banks/ai-s-debt-binge-is-becoming-a-bond-market-problem-south-africa-s-central-bank-warns/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-25T22:34:45.000Z"
-    },
-    {
-      "title": "Oracle, CoreWeave and other tech stocks bounce back after selloff",
-      "link": "https://www.marketwatch.com/story/oracles-stock-sinks-toward-a-3-year-low-as-the-ai-trade-continues-to-unravel-d4698d77?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-25T22:16:00.000Z"
-    },
-    {
-      "title": "Nvidia’s stock has given back a big chunk of Monday’s rally as dip buyers cash in",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-is-giving-back-more-than-half-of-mondays-rally-as-dip-buyers-cash-in-ee4fa52c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-25T22:11:00.000Z"
-    },
-    {
-      "title": "Gold claws back $160 from a 14-month low, but one candle doesn't necessarily make a bottom",
-      "link": "https://investinglive.com/commodities/gold-claws-back-160-from-a-14-month-low-but-one-candle-doesn-t-necessarily-make-a-bottom/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-25T22:07:48.000Z"
     },
     {
       "title": "Dollar reverses course after earlier gains driven by hot U.S. data, AI rout",
@@ -180,20 +194,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-24T20:35:38.000Z"
-    },
-    {
-      "title": "Dollar slips as Nvidia-fueled AI rally fades",
-      "link": "https://www.investing.com/news/forex-news/dollar-climbs-as-renewed-ai-euphoria-fuels-fed-hike-bets-5046813",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-24T19:49:21.000Z"
-    },
-    {
-      "title": "Canadian dollar rebounds from 19-month low as U.S. dollar retreats",
-      "link": "https://www.investing.com/news/forex-news/canadian-dollar-rebounds-from-19month-low-as-us-dollar-retreats-5048801",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-24T17:28:10.000Z"
     }
   ]
 }
