@@ -1,11 +1,39 @@
 {
-  "updated": "2026-11-26T13:36:42.146Z",
+  "updated": "2026-11-26T19:15:08.524Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "CoreWeave bond yields are approaching 19%. Why even stock investors should pay attention",
+      "link": "https://investinglive.com/stocks/coreweave-bond-yields-are-approaching-19-why-even-stock-investors-should-pay-attention/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-26T14:10:50.000Z"
+    },
+    {
+      "title": "EU leaders set to confirm backing for Spain's De Cos as next ECB President - report",
+      "link": "https://investinglive.com/central-banks/eu-leaders-set-to-confirm-backing-for-spain-s-de-cos-as-next-ecb-president-report/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-26T14:10:49.000Z"
+    },
+    {
+      "title": "EUR/USD might be bottoming out amid peak Fed hawkishness and dovish repricing risks",
+      "link": "https://investinglive.com/forex/eur-usd-might-be-bottoming-out-amid-peak-fed-hawkishness-and-dovish-repricing-risks/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-26T13:49:17.000Z"
+    },
+    {
+      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
+      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-26T13:41:00.000Z"
+    },
     {
       "title": "investingLive European session wrap: European stocks ride Wall Street's comeback into Thanksgiving",
       "link": "https://investinglive.com/news/investinglive-european-session-wrap-european-stocks-ride-wall-street-s-comeback-into-thanksgiving/",
@@ -26,20 +54,6 @@
       "source": "investingLive",
       "category": "Crypto",
       "published": "2026-11-26T10:59:23.000Z"
-    },
-    {
-      "title": "Futures point to Black Friday gains for Wall Street as global markets welcome U.S. resilience.",
-      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-26T10:37:00.000Z"
-    },
-    {
-      "title": "The tech rout should bottom soon, with a 25% rally for the S&P 500 to follow, says Deutsche Bank",
-      "link": "https://www.marketwatch.com/story/the-tech-rout-should-bottom-soon-with-a-25-rally-for-the-s-p-500-to-follow-says-deutsche-bank-c9070bf6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-26T10:11:00.000Z"
     },
     {
       "title": "Crude oil finds some footing as prolonged US-Iran tensions keep the downside limited. What's next?",
@@ -105,13 +119,6 @@
       "published": "2026-11-26T07:17:40.000Z"
     },
     {
-      "title": "Is the stock market open for Thanksgiving? The answer might surprise you.",
-      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-for-thanksgiving-the-answer-might-surprise-you-e68114d4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-26T07:16:00.000Z"
-    },
-    {
       "title": "BOJ policymaker Tamura hints at faster rate hikes, keeps December in focus",
       "link": "https://investinglive.com/central-banks/boj-policymaker-tamura-hints-at-faster-rate-hikes-keeps-december-in-focus/",
       "source": "investingLive",
@@ -138,27 +145,6 @@
       "source": "investingLive",
       "category": "Commodities",
       "published": "2026-11-26T03:39:39.000Z"
-    },
-    {
-      "title": "Franklin Templeton adds Hyperliquid's HYPE to its EZPZ crypto index ETF from December 1",
-      "link": "https://investinglive.com/cryptocurrency/franklin-templeton-adds-hyperliquid-s-hype-to-its-ezpz-crypto-index-etf-from-december-1/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-26T03:00:32.000Z"
-    },
-    {
-      "title": "S&P puts Nvidia's AA rating on watch for a possible cut, as Moody's holds steady",
-      "link": "https://investinglive.com/stocks/s-p-puts-nvidia-s-aa-rating-on-watch-for-a-possible-cut-as-moody-s-holds-steady/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-26T02:23:35.000Z"
-    },
-    {
-      "title": "Why this stock-market selloff is probably going to get worse before it gets better",
-      "link": "https://www.marketwatch.com/story/why-this-stock-market-selloff-is-probably-going-to-get-worse-before-it-gets-better-fce63a89?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-26T00:33:00.000Z"
     },
     {
       "title": "Dollar reverses course after earlier gains driven by hot U.S. data, AI rout",
