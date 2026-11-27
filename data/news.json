@@ -1,11 +1,101 @@
 {
-  "updated": "2026-11-26T19:15:08.524Z",
+  "updated": "2026-11-27T01:36:06.178Z",
   "sources": [
     "Investing.com",
-    "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "Tokyo core inflation hits 16-month high of 2.9%, firming the case for a December BoJ hike",
+      "link": "https://investinglive.com/central-banks/tokyo-core-inflation-hits-16-month-high-of-2-9-firming-the-case-for-a-december-boj-hike/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-27T00:52:06.000Z"
+    },
+    {
+      "title": "HSBC flags $3,400 as gold's next big test and says it is too early to call a bottom",
+      "link": "https://investinglive.com/commodities/hsbc-flags-3-400-as-gold-s-next-big-test-and-says-it-is-too-early-to-call-a-bottom/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-27T00:30:06.000Z"
+    },
+    {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6604 – Reuters estimate",
+      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6604-reuters-estimate/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-27T00:23:18.000Z"
+    },
+    {
+      "title": "Australia's 12% investment surge, the biggest since 2011, keeps RBA hike risk alive: Citi",
+      "link": "https://investinglive.com/central-banks/australia-s-12-investment-surge-the-biggest-since-2011-keeps-rba-hike-risk-alive-citi/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-27T00:15:53.000Z"
+    },
+    {
+      "title": "OCBC sees the Indian rupee strengthening to 92.10 per dollar by end-2027 as oil relief builds",
+      "link": "https://investinglive.com/forex/ocbc-sees-the-indian-rupee-strengthening-to-92-10-per-dollar-by-end-2027-as-oil-relief-builds/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-27T00:08:49.000Z"
+    },
+    {
+      "title": "Tokyo November core CPI rises to 2.9% y/y, just shy of 3.0% expected",
+      "link": "https://investinglive.com/news/tokyo-november-core-cpi-rises-to-2-9-y-y-just-shy-of-3-0-expected/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-26T23:30:53.000Z"
+    },
+    {
+      "title": "Gold's 37% slide from record looks overdone, says Saxo's Hansen, but $3,590 is the test",
+      "link": "https://investinglive.com/commodities/gold-s-37-slide-from-record-looks-overdone-says-saxo-s-hansen-but-3-590-is-the-test/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-26T23:01:54.000Z"
+    },
+    {
+      "title": "ECB picks Spain's Hernández de Cos as president, with 3 tests waiting from day one",
+      "link": "https://investinglive.com/central-banks/ecb-picks-spain-s-hernandez-de-cos-as-president-with-3-tests-waiting-from-day-one/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-26T22:42:53.000Z"
+    },
+    {
+      "title": "JPMorgan sees bitcoin capitulation in record Strategy discount, but 3 risks cloud the call",
+      "link": "https://investinglive.com/cryptocurrency/jpmorgan-sees-bitcoin-capitulation-in-record-strategy-discount-but-3-risks-cloud-the-call/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-26T22:28:26.000Z"
+    },
+    {
+      "title": "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data",
+      "link": "https://www.investing.com/news/forex-news/loonie-weakens-amid-thanksgiving-holiday-lull-canadian-labor-market-data-5052729",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-26T21:58:03.000Z"
+    },
+    {
+      "title": "NZ consumer confidence breaks 100 as falling fuel prices cool inflation fears",
+      "link": "https://investinglive.com/news/nz-consumer-confidence-breaks-100-as-falling-fuel-prices-cool-inflation-fears/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-26T21:32:46.000Z"
+    },
+    {
+      "title": "Tokyo CPI preview: core inflation seen jumping to 3% three weeks before BoJ decision",
+      "link": "https://investinglive.com/central-banks/tokyo-cpi-preview-core-inflation-seen-jumping-to-3-three-weeks-before-boj-decision/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-26T21:01:59.000Z"
+    },
+    {
+      "title": "European stocks surge, S&P 500 futures finish higher in Thanksgiving trading",
+      "link": "https://investinglive.com/stocks/european-stocks-surge-s-p-500-futures-finish-higher-in-thanksgiving-trading/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-26T19:41:37.000Z"
+    },
     {
       "title": "CoreWeave bond yields are approaching 19%. Why even stock investors should pay attention",
       "link": "https://investinglive.com/stocks/coreweave-bond-yields-are-approaching-19-why-even-stock-investors-should-pay-attention/",
@@ -26,13 +116,6 @@
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-26T13:49:17.000Z"
-    },
-    {
-      "title": "Futures point to Black Friday gains on Wall Street as global markets welcome U.S. resilience",
-      "link": "https://www.marketwatch.com/story/futures-point-to-black-friday-gains-for-wall-street-as-global-markets-welcome-u-s-resilience-ad6bcef2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-26T13:41:00.000Z"
     },
     {
       "title": "investingLive European session wrap: European stocks ride Wall Street's comeback into Thanksgiving",
@@ -56,13 +139,6 @@
       "published": "2026-11-26T10:59:23.000Z"
     },
     {
-      "title": "Crude oil finds some footing as prolonged US-Iran tensions keep the downside limited. What's next?",
-      "link": "https://investinglive.com/commodities/crude-oil-finds-some-footing-as-prolonged-us-iran-tensions-keep-the-downside-limited-what-s-next/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-26T10:08:04.000Z"
-    },
-    {
       "title": "Dollar takes Thanksgiving breather below 2026 peaks; Euro dips",
       "link": "https://www.investing.com/news/forex-news/asia-fx-won-muted-after-bok-hikes-rates-dollar-steady-5052015",
       "source": "Investing.com",
@@ -77,74 +153,11 @@
       "published": "2026-11-26T09:34:10.000Z"
     },
     {
-      "title": "Month-end FX rebalancing signals favour the dollar - Credit Agricole",
-      "link": "https://investinglive.com/orders/month-end-fx-rebalancing-signals-favour-the-dollar-credit-agricole/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-26T09:20:16.000Z"
-    },
-    {
       "title": "Global bond rally eases as sticky PCE locks in December Fed hike",
       "link": "https://www.investing.com/news/forex-news/global-bond-rally-eases-as-sticky-pce-locks-in-december-fed-hike-5052104",
       "source": "Investing.com",
       "category": "Central banks",
       "published": "2026-11-26T09:01:59.000Z"
-    },
-    {
-      "title": "Bitcoin consolidates at yearly lows as traders await fresh catalyst amid negative backdrop",
-      "link": "https://investinglive.com/cryptocurrency/bitcoin-consolidates-at-yearly-lows-as-traders-await-fresh-catalyst-amid-negative-backdrop/",
-      "source": "investingLive",
-      "category": "Crypto",
-      "published": "2026-11-26T09:01:50.000Z"
-    },
-    {
-      "title": "Gold remains caught between forced liquidations and hawkish Fed bets. What could trigger a reversal?",
-      "link": "https://investinglive.com/commodities/gold-remains-caught-between-forced-liquidations-and-hawkish-fed-bets-what-could-trigger-a-reversal/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-26T08:57:33.000Z"
-    },
-    {
-      "title": "European stock market open: Stocks surge after stunning Wall Street turnaround",
-      "link": "https://investinglive.com/stocks/european-stock-market-open-stocks-surge-after-stunning-wall-street-turnaround/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-26T08:30:17.000Z"
-    },
-    {
-      "title": "Chart of the day: Swiss franc emerges as a quiet winner in the market turmoil",
-      "link": "https://investinglive.com/technical-analysis/chart-of-the-day-swiss-franc-emerges-as-a-quiet-winner-in-the-market-turmoil/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-26T07:17:40.000Z"
-    },
-    {
-      "title": "BOJ policymaker Tamura hints at faster rate hikes, keeps December in focus",
-      "link": "https://investinglive.com/central-banks/boj-policymaker-tamura-hints-at-faster-rate-hikes-keeps-december-in-focus/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-26T05:26:19.000Z"
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Asia stocks extend rebound",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-asia-stocks-extend-rebound/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-26T05:11:12.000Z"
-    },
-    {
-      "title": "My Nvidia stock analysis shows bulls are better than what most seem to think",
-      "link": "https://investinglive.com/stocks/my-nvidia-stock-analysis-shows-bulls-are-better-than-what-most-seem-to-think/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-26T03:52:38.000Z"
-    },
-    {
-      "title": "Ray Dalio's 10-15% gold call resurfaces as bullion tries to find its feet",
-      "link": "https://investinglive.com/commodities/ray-dalio-s-10-15-gold-call-resurfaces-as-bullion-tries-to-find-its-feet/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-26T03:39:39.000Z"
     },
     {
       "title": "Dollar reverses course after earlier gains driven by hot U.S. data, AI rout",
@@ -173,13 +186,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-25T11:39:24.000Z"
-    },
-    {
-      "title": "Dollar retreats from near 20-month peak, set for worst day in over two weeks",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-subdued-as-dollar-holds-near-20mth-high-on-ai-rally-5046950",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-24T20:35:38.000Z"
     }
   ]
 }
