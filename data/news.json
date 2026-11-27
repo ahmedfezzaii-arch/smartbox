@@ -1,11 +1,158 @@
 {
-  "updated": "2026-11-27T07:37:27.933Z",
+  "updated": "2026-11-27T13:31:45.124Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
     "investingLive"
   ],
   "items": [
+    {
+      "title": "U.S. Treasury yields tick up, snapping eight-day rally as bond bulls pause",
+      "link": "https://www.investing.com/news/forex-news/global-bonds-cap-strong-weekly-rally-after-aidriven-flight-to-safety-5053055",
+      "source": "Investing.com",
+      "category": "Macro data",
+      "published": "2026-11-27T13:20:56.000Z"
+    },
+    {
+      "title": "investingLive European session wrap: Post-Thanksgiving optimism lifts stocks, gold",
+      "link": "https://investinglive.com/news/investinglive-european-session-wrap-post-thanksgiving-optimism-lifts-stocks-gold/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-27T12:53:23.000Z"
+    },
+    {
+      "title": "S&P 500 rebounds as growth concerns ease and Nvidia lifts sentiment, but underlying macro headwinds remain unchanged",
+      "link": "https://investinglive.com/stocks/s-p-500-rebounds-as-growth-concerns-ease-and-nvidia-lifts-sentiment-but-underlying-macro-headwinds-remain-unchanged/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-27T12:38:16.000Z"
+    },
+    {
+      "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
+      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Central banks",
+      "published": "2026-11-27T12:29:00.000Z"
+    },
+    {
+      "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-27T12:29:00.000Z"
+    },
+    {
+      "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
+      "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-27T12:22:00.000Z"
+    },
+    {
+      "title": "Stocks look like a Black Friday bargain. Read the fine print.",
+      "link": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-27T12:01:00.000Z"
+    },
+    {
+      "title": "How have interest rate expectations changed after this week's events?",
+      "link": "https://investinglive.com/central-banks/how-have-interest-rate-expectations-changed-after-this-week-s-events-10/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-27T11:28:14.000Z"
+    },
+    {
+      "title": "Solana remains mostly rangebound as the negative macro backdrop limits the recovery. What's next?",
+      "link": "https://investinglive.com/cryptocurrency/solana-remains-mostly-rangebound-as-the-negative-macro-backdrop-limits-the-recovery-what-s-next/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-27T10:40:02.000Z"
+    },
+    {
+      "title": "Sterling today: Pound edges higher as risk rebound offsets Fed repricing",
+      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-edges-higher-as-risk-rebound-offsets-fed-repricing-5053272",
+      "source": "Investing.com",
+      "category": "Central banks",
+      "published": "2026-11-27T10:34:10.000Z"
+    },
+    {
+      "title": "Dollar drifts lower in holiday-thinned trade, set to snap 4-wk winning streak",
+      "link": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-high-oil-prices-weigh-dollar-edges-lower-in-holiday-trade-5052845",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-27T10:33:31.000Z"
+    },
+    {
+      "title": "Crude oil extends the rebound as growth concerns ease and US-Iran tensions provide support",
+      "link": "https://investinglive.com/commodities/crude-oil-extends-the-rebound-as-growth-concerns-ease-and-us-iran-tensions-provide-support/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-27T10:09:39.000Z"
+    },
+    {
+      "title": "Goldman Sachs sees EUR/USD recovering toward 1.12 by year-end",
+      "link": "https://www.investing.com/news/forex-news/goldman-sachs-sees-eurusd-recovering-toward-112-by-yearend-93CH-5053234",
+      "source": "Investing.com",
+      "category": "Forex",
+      "published": "2026-11-27T10:01:37.000Z"
+    },
+    {
+      "title": "Ethereum consolidates near yearly lows as bearish macro backdrop remains intact despite short-covering",
+      "link": "https://investinglive.com/cryptocurrency/ethereum-consolidates-near-yearly-lows-as-bearish-macro-backdrop-remains-intact-despite-short-covering/",
+      "source": "investingLive",
+      "category": "Crypto",
+      "published": "2026-11-27T09:12:46.000Z"
+    },
+    {
+      "title": "Germany unemployment rises more than expected in November as labour market struggles persist",
+      "link": "https://investinglive.com/news/germany-unemployment-rises-more-than-expected-in-november-as-labour-market-struggles-persist/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-27T08:55:12.000Z"
+    },
+    {
+      "title": "Gold extends gains after a key technical breakout as broad short-covering improves sentiment",
+      "link": "https://investinglive.com/commodities/gold-extends-gains-after-a-key-technical-breakout-as-broad-short-covering-improves-sentiment/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-27T08:24:04.000Z"
+    },
+    {
+      "title": "European stock market open: The rebound party rolls on",
+      "link": "https://investinglive.com/stocks/european-stock-market-open-the-rebound-party-rolls-on/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-27T08:22:16.000Z"
+    },
+    {
+      "title": "Spanish inflation comes off the boil in November, offering some respite for the ECB",
+      "link": "https://investinglive.com/news/spanish-inflation-comes-off-the-boil-in-november-offering-some-respite-for-the-ecb/",
+      "source": "investingLive",
+      "category": "Central banks",
+      "published": "2026-11-27T08:00:19.000Z"
+    },
+    {
+      "title": "France inflation undershoots estimates in November as energy and services price pressures ease",
+      "link": "https://investinglive.com/news/france-inflation-undershoots-estimates-in-november-as-energy-and-services-price-pressures-ease/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-27T07:45:33.000Z"
+    },
+    {
+      "title": "France Q3 GDP revised lower as economic woes deepen",
+      "link": "https://investinglive.com/news/france-q3-gdp-revised-lower-as-economic-woes-deepen/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-27T07:45:09.000Z"
+    },
+    {
+      "title": "US reportedly urged Venezuela, Iraq to consider quitting OPEC earlier this year",
+      "link": "https://investinglive.com/news/us-reportedly-urged-venezuela-iraq-to-consider-quitting-opec-earlier-this-year/",
+      "source": "investingLive",
+      "category": "Commodities",
+      "published": "2026-11-27T07:18:53.000Z"
+    },
     {
       "title": "Reminder: Wall Street is back today but will dip buyers have the last laugh?",
       "link": "https://investinglive.com/stocks/reminder-wall-street-is-back-today-but-will-dip-buyers-have-the-last-laugh/",
@@ -19,13 +166,6 @@
       "source": "investingLive",
       "category": "Commodities",
       "published": "2026-11-27T05:25:47.000Z"
-    },
-    {
-      "title": "Is the stock market open on Black Friday?",
-      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-27T05:01:00.000Z"
     },
     {
       "title": "investingLive Asia-Pacific market news: Kosdaq jumps 6.7% as risk appetite returns, gold rebounds",
@@ -42,109 +182,11 @@
       "published": "2026-11-27T04:29:44.000Z"
     },
     {
-      "title": "Warsh's 2018 dilemma returns as an AI stock rout meets a Fed bent on taming inflation",
-      "link": "https://investinglive.com/central-banks/warsh-s-2018-dilemma-returns-as-an-ai-stock-rout-meets-a-fed-bent-on-taming-inflation/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-27T04:17:07.000Z"
-    },
-    {
-      "title": "Dollar drifts lower in holiday-thinned trade, set to snap 4-wk winning streak",
-      "link": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-high-oil-prices-weigh-dollar-edges-lower-in-holiday-trade-5052845",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-27T04:15:24.000Z"
-    },
-    {
       "title": "Aussie upside capped as jobless rate hits 4.9% and the RBA nears its peak, OCBC says",
       "link": "https://investinglive.com/central-banks/aussie-upside-capped-as-jobless-rate-hits-4-9-and-the-rba-nears-its-peak-ocbc-says/",
       "source": "investingLive",
       "category": "Central banks",
       "published": "2026-11-27T03:46:42.000Z"
-    },
-    {
-      "title": "ICYMI: SpaceX and Musk to hand shares to every child holding an active Trump Account",
-      "link": "https://investinglive.com/stocks/icymi-spacex-and-musk-to-hand-shares-to-every-child-holding-an-active-trump-account/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-27T03:15:03.000Z"
-    },
-    {
-      "title": "RBI buys no gold for six months but brings another 60 tonnes home",
-      "link": "https://investinglive.com/commodities/rbi-buys-no-gold-for-six-months-but-brings-another-60-tonnes-home/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-27T02:24:58.000Z"
-    },
-    {
-      "title": "IMF tells RBA to stand ready for more hikes, even after 125bp of tightening this year",
-      "link": "https://investinglive.com/central-banks/imf-tells-rba-to-stand-ready-for-more-hikes-even-after-125bp-of-tightening-this-year/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-27T02:05:40.000Z"
-    },
-    {
-      "title": "Gold's downside looks limited because the dollar has already done most of its work, CBA says",
-      "link": "https://investinglive.com/commodities/gold-s-downside-looks-limited-because-the-dollar-has-already-done-most-of-its-work-cba-says/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-27T01:39:05.000Z"
-    },
-    {
-      "title": "Kiwi edges higher as official NZ election count confirms a hung parliament",
-      "link": "https://investinglive.com/news/kiwi-edges-higher-as-official-nz-election-count-confirms-a-hung-parliament/",
-      "source": "investingLive",
-      "category": "Forex",
-      "published": "2026-11-27T01:24:33.000Z"
-    },
-    {
-      "title": "PBOC sets USD/ CNY reference rate for today at 6.7075 (vs. estimate at 6.6604)",
-      "link": "https://investinglive.com/central-banks/pboc-sets-usd-cny-reference-rate-for-today-at-6-7075-vs-estimate-at-6-6604/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-27T01:15:33.000Z"
-    },
-    {
-      "title": "Tokyo core inflation hits 16-month high of 2.9%, firming the case for a December BoJ hike",
-      "link": "https://investinglive.com/central-banks/tokyo-core-inflation-hits-16-month-high-of-2-9-firming-the-case-for-a-december-boj-hike/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-27T00:52:06.000Z"
-    },
-    {
-      "title": "HSBC flags $3,400 as gold's next big test and says it is too early to call a bottom",
-      "link": "https://investinglive.com/commodities/hsbc-flags-3-400-as-gold-s-next-big-test-and-says-it-is-too-early-to-call-a-bottom/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-27T00:30:06.000Z"
-    },
-    {
-      "title": "PBOC is expected to set the USD/CNY reference rate at 6.6604 – Reuters estimate",
-      "link": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-6604-reuters-estimate/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-27T00:23:18.000Z"
-    },
-    {
-      "title": "Australia's 12% investment surge, the biggest since 2011, keeps RBA hike risk alive: Citi",
-      "link": "https://investinglive.com/central-banks/australia-s-12-investment-surge-the-biggest-since-2011-keeps-rba-hike-risk-alive-citi/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-27T00:15:53.000Z"
-    },
-    {
-      "title": "OCBC sees the Indian rupee strengthening to 92.10 per dollar by end-2027 as oil relief builds",
-      "link": "https://investinglive.com/forex/ocbc-sees-the-indian-rupee-strengthening-to-92-10-per-dollar-by-end-2027-as-oil-relief-builds/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-27T00:08:49.000Z"
-    },
-    {
-      "title": "Tokyo November core CPI rises to 2.9% y/y, just shy of 3.0% expected",
-      "link": "https://investinglive.com/news/tokyo-november-core-cpi-rises-to-2-9-y-y-just-shy-of-3-0-expected/",
-      "source": "investingLive",
-      "category": "Macro data",
-      "published": "2026-11-26T23:30:53.000Z"
     },
     {
       "title": "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data",
@@ -180,20 +222,6 @@
       "source": "Investing.com",
       "category": "Forex",
       "published": "2026-11-25T21:18:43.000Z"
-    },
-    {
-      "title": "Sterling today: Pound slips as risk unwind lifts dollar before PCE data",
-      "link": "https://www.investing.com/news/forex-news/sterling-today-pound-falls-as-risk-unwind-sends-funds-back-to-dollar-5050111",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-25T13:16:09.000Z"
-    },
-    {
-      "title": "Swiss franc safe-haven demand and USD/CHF technical outlook",
-      "link": "https://www.investing.com/news/forex-news/swiss-franc-safehaven-demand-and-usdchf-technical-outlook-93CH-5050525",
-      "source": "Investing.com",
-      "category": "Forex",
-      "published": "2026-11-25T12:21:35.000Z"
     }
   ]
 }
