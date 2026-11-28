@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T13:31:45.124Z",
+  "updated": "2026-11-28T01:28:11.464Z",
   "sources": [
     "Investing.com",
     "MarketWatch",
@@ -7,11 +7,53 @@
   ],
   "items": [
     {
-      "title": "U.S. Treasury yields tick up, snapping eight-day rally as bond bulls pause",
+      "title": "U.S. Treasury yields rally, snapping eight-day rally as bond bulls pause",
       "link": "https://www.investing.com/news/forex-news/global-bonds-cap-strong-weekly-rally-after-aidriven-flight-to-safety-5053055",
       "source": "Investing.com",
       "category": "Macro data",
-      "published": "2026-11-27T13:20:56.000Z"
+      "published": "2026-11-27T21:25:54.000Z"
+    },
+    {
+      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+      "link": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-27T20:16:00.000Z"
+    },
+    {
+      "title": "The warnings behind this week’s stock-market rally",
+      "link": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Stocks",
+      "published": "2026-11-27T18:40:00.000Z"
+    },
+    {
+      "title": "At the close: S&P 500 records best week since April 2025",
+      "link": "https://investinglive.com/stocks/at-the-close-s-p-500-records-best-week-since-april-2025/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-27T18:17:00.000Z"
+    },
+    {
+      "title": "US stock markets climb to the highs of the day as tech leads",
+      "link": "https://investinglive.com/stocks/us-stock-markets-climb-to-the-highs-of-the-day-as-tech-leads/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-27T15:56:29.000Z"
+    },
+    {
+      "title": "October US advance goods trade balance -149.5B vs -133.0B expected",
+      "link": "https://investinglive.com/news/october-us-advance-goods-trade-balance-149-5b-vs-133-0b-expected/",
+      "source": "investingLive",
+      "category": "Macro data",
+      "published": "2026-11-27T13:31:07.000Z"
+    },
+    {
+      "title": "Green Friday: US stock futures surge as the AI trade comes back to life",
+      "link": "https://investinglive.com/stocks/green-friday-us-stock-futures-surge-as-the-ai-trade-comes-back-to-life/",
+      "source": "investingLive",
+      "category": "Stocks",
+      "published": "2026-11-27T13:15:37.000Z"
     },
     {
       "title": "investingLive European session wrap: Post-Thanksgiving optimism lifts stocks, gold",
@@ -26,34 +68,6 @@
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-27T12:38:16.000Z"
-    },
-    {
-      "title": "A 10% cap on credit-card interest rates? Holiday shoppers shouldn’t bank on it.",
-      "link": "https://www.marketwatch.com/story/trump-is-open-to-capping-credit-card-interest-rates-but-holiday-shoppers-shouldnt-bank-on-it-yet-34260705?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Central banks",
-      "published": "2026-11-27T12:29:00.000Z"
-    },
-    {
-      "title": "Nvidia’s stock has tumbled 27% over one chaotic month. The next big test lies in the week ahead",
-      "link": "https://www.marketwatch.com/story/nvidias-stock-has-tumbled-27-over-one-chaotic-month-the-next-big-test-lies-in-the-week-ahead-06449777?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-27T12:29:00.000Z"
-    },
-    {
-      "title": "‘My life is in the stock market’: Recent volatility is shaking up holiday spending plans for these shoppers",
-      "link": "https://www.marketwatch.com/story/my-life-is-in-the-stock-market-recent-volatility-is-shaking-up-holiday-spending-plans-for-these-shoppers-bd9485b3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-27T12:22:00.000Z"
-    },
-    {
-      "title": "Stocks look like a Black Friday bargain. Read the fine print.",
-      "link": "https://www.marketwatch.com/story/stocks-look-like-a-black-friday-bargain-read-the-fine-print-b6546539?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "category": "Stocks",
-      "published": "2026-11-27T12:01:00.000Z"
     },
     {
       "title": "How have interest rate expectations changed after this week's events?",
@@ -159,34 +173,6 @@
       "source": "investingLive",
       "category": "Stocks",
       "published": "2026-11-27T05:52:10.000Z"
-    },
-    {
-      "title": "Gold begins to find its feet again but are buyers out of the woods yet?",
-      "link": "https://investinglive.com/commodities/gold-begins-to-find-its-feet-again-but-are-buyers-out-of-the-woods-yet/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-27T05:25:47.000Z"
-    },
-    {
-      "title": "investingLive Asia-Pacific market news: Kosdaq jumps 6.7% as risk appetite returns, gold rebounds",
-      "link": "https://investinglive.com/news/investinglive-asia-pacific-market-news-kosdaq-jumps-6-7-as-risk-appetite-returns-gold-rebounds/",
-      "source": "investingLive",
-      "category": "Commodities",
-      "published": "2026-11-27T04:45:15.000Z"
-    },
-    {
-      "title": "Five steps from China's cabinet to shore up its stock market, but no numbers yet",
-      "link": "https://investinglive.com/stocks/five-steps-from-china-s-cabinet-to-shore-up-its-stock-market-but-no-numbers-yet/",
-      "source": "investingLive",
-      "category": "Stocks",
-      "published": "2026-11-27T04:29:44.000Z"
-    },
-    {
-      "title": "Aussie upside capped as jobless rate hits 4.9% and the RBA nears its peak, OCBC says",
-      "link": "https://investinglive.com/central-banks/aussie-upside-capped-as-jobless-rate-hits-4-9-and-the-rba-nears-its-peak-ocbc-says/",
-      "source": "investingLive",
-      "category": "Central banks",
-      "published": "2026-11-27T03:46:42.000Z"
     },
     {
       "title": "Loonie weakens amid Thanksgiving holiday lull, Canadian labor market data",
